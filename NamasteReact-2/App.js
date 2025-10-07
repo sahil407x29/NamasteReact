@@ -1,4 +1,4 @@
-// Hot Module Reloading
+// Hot Module Replacement
 // file Watcher algorithm
 // Minifying
 // Bundling
@@ -12,7 +12,10 @@
 // HTTPS on dev 
 // Port Number
 // Everything is happening on Parcel Cache
-// 
+// Consistent Hashing Algorithm
+// Zero Config
+// Transitive Depenedencies - Transitive dependencies mean the indirect dependencies your project depends on
+// f — that is, the dependencies of your dependencies.
 
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
