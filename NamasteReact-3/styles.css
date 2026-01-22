@@ -1,0 +1,29 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-items > ul {
+    display: flex;
+    padding: 20px;
+    
+}
+.nav-items >ul > li{
+    padding: 10px;
+    list-style-type: none;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+#card{
+    width: 200px;
+    border: 1px solid black;
+}
+#card img{
+ width: 100%;
+}
+.restraunt-List{
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 15px;
+}

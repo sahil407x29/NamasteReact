@@ -1,0 +1,1 @@
+<!-- A representation of the original DOM is called Virtual DOM -->
