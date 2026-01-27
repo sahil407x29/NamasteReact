@@ -1,0 +1,45 @@
+.title {
+display: flex;
+gap: 10px;
+}
+.HotelName{
+    font-size:1.5rem;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    margin-bottom: 10px;
+    padding-left: 10px ;
+}
+.nav-items > ul {
+    display: flex;
+    padding: 20px;
+    
+}
+.nav-items >ul > li{
+    padding: 10px;
+    list-style-type: none;
+}
+.logo{
+    width: 75px;
+    height: 75px;
+}
+#card{
+    width: 200px;
+    border: 1px solid black;
+    /* display: flex; */
+    overflow :auto
+    /* flex-wrap: wrap; */
+}
+#card img{
+ width: 100%;
+}
+.restraunt-List{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px;
+}
+
