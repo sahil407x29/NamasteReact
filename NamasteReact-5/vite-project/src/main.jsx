@@ -3,8 +3,9 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import AppLayout from './App.jsx'
 
-createRoot(document.getElementById('root3')).render(
+
+createRoot(document.getElementById('root2')).render(
   <StrictMode>
-    <App />
+    <AppLayout />
   </StrictMode>,
 )
