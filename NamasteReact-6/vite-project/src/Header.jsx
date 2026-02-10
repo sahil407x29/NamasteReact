@@ -18,6 +18,7 @@ const Header = () => {
 // Named Export
 export const Title = () => { 
   const [title,setTitle]= useState('FoodVilla')
+  // console.log("render()")
   return (
     <div className="title">
       <img
@@ -26,7 +27,7 @@ export const Title = () => {
         alt="Logo"
       />
       <h1>{title}</h1>
-      <button onClick={()=>setTitle("hello")}> Title Changer</button>
+      {/* <button onClick={()=>setTitle("hello")}> Title Changer</button> */}
     </div>
   );
 };

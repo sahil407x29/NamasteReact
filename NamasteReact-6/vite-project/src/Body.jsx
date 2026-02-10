@@ -1,17 +1,54 @@
 import { restrauntList } from './Constants.jsx'
 import RestrauntCard from './RestrauntCard.jsx'
 import { useState,useEffect } from 'react'
+import Shimmer from './Shimmer.jsx'
 
-function filterData(searchText,restraunt) {
-   return restraunt.filter((res)=> res.info?.name.toLowerCase().includes(searchText))
+function filterData(searchText,allRestraunt) {
+   return allRestraunt.filter((res)=> res.info?.name.toLowerCase().includes(searchText))
 }
 
 const Body = () => {
     const  [searchText,setSearch] = useState("")
-    const [restraunt,setRestraunt] = useState(restrauntList)
+    const [filteredRestraunt,setFilteredRestraunt] = useState([])
+    const [allRestraunt,setAllRestraunt] = useState([])
+    // empty dependecny array => called once after render
+    // useEffect(()=> {
+    //     console.log("use Effect")
+    // },[]) //dependency Array
+    // console.log("render()")
 
-    return (
-        <>
+    // dependency array = searchText =. once after initial render + every time after re-render searchText is changed 
+    // useEffect(()=> {
+    //     console.log("use Effect")
+    // },[searchText])
+    // console.log("render")
+
+    useEffect(()=> {
+        getRestraunts()
+         
+    },[])
+
+    async function getRestraunts() {
+        const response =  await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9352403&lng=77.624532&page_type=DESKTOP_WEB_LISTING")
+        const data = await response.json()
+        // return  data
+           setAllRestraunt(data?.data?.cards[1]
+  ?.card
+  ?.card
+  ?.gridElements
+  ?.infoWithStyle
+  ?.restaurants
+)
+        setFilteredRestraunt(data?.data?.cards[1]
+  ?.card
+  ?.card
+  ?.gridElements
+  ?.infoWithStyle
+  ?.restaurants
+)
+    }
+    return filteredRestraunt.length == 0 ? (<Shimmer/>) :
+       ( <> 
         <input type="text"
         placeholder=''
         value={searchText}
@@ -19,15 +56,15 @@ const Body = () => {
             setSearch(e.target.value)
         }} />
 
-        <button onClick={()=> {const data =filterData(searchText,restrauntList)
-            setRestraunt(data)
+        <button onClick={()=> {const data =filterData(searchText,allRestraunt)
+            setFilteredRestraunt(data)
         }}>Search</button>
 
 
 
 
         <div className='restraunt-List'>
-            {restraunt.map((res)=> {
+            {filteredRestraunt.map((res)=> {
                 return (
                 <RestrauntCard {...res.info}
                 key = {res.info.id}
@@ -36,8 +73,8 @@ const Body = () => {
             })}
 
         </div>
-        </>
-    )
+        </>)
+    
 
 }
 
