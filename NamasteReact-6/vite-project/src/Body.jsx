@@ -4,7 +4,7 @@ import { useState,useEffect } from 'react'
 import Shimmer from './Shimmer.jsx'
 
 function filterData(searchText,allRestraunt) {
-   return allRestraunt.filter((res)=> res.info?.name.toLowerCase().includes(searchText))
+   return allRestraunt.filter((res)=> res.info?.name.toLowerCase().includes(searchText.toLowerCase()))
 }
 
 const Body = () => {
@@ -17,7 +17,7 @@ const Body = () => {
     // },[]) //dependency Array
     // console.log("render()")
 
-    // dependency array = searchText =. once after initial render + every time after re-render searchText is changed 
+    // dependency array = searchText = once after initial render + every time after re-render searchText is changed 
     // useEffect(()=> {
     //     console.log("use Effect")
     // },[searchText])
@@ -47,10 +47,17 @@ const Body = () => {
   ?.restaurants
 )
     }
-    return filteredRestraunt.length == 0 ? (<Shimmer/>) :
+
+    if(!allRestraunt) return null
+     //Early Return 
+
+   
+
+    return allRestraunt.length == 0 ? (<Shimmer/>) :
+    // GPT differernce between this and allRestraunt.length
        ( <> 
         <input type="text"
-        placeholder=''
+        placeholder='Enter Restraunt'
         value={searchText}
         onChange={(e)=> {
             setSearch(e.target.value)
@@ -64,7 +71,8 @@ const Body = () => {
 
 
         <div className='restraunt-List'>
-            {filteredRestraunt.map((res)=> {
+            
+            { filteredRestraunt.map((res)=> {
                 return (
                 <RestrauntCard {...res.info}
                 key = {res.info.id}
@@ -78,4 +86,4 @@ const Body = () => {
 
 }
 
-export default Body
+export default Body;

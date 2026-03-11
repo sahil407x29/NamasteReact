@@ -3,7 +3,7 @@ import { useState } from "react";
 const Header = () => {
   return (
     <div className="header">
-      <Title/>
+      <Title />
       <div className="nav-items">
         <ul>
           <li>Home</li>
@@ -16,8 +16,9 @@ const Header = () => {
 };
 
 // Named Export
-export const Title = () => { 
-  const [title,setTitle]= useState('FoodVilla')
+export const Title = () => {
+  const [title, setTitle] = useState("FoodVilla");
+  const [isLoggedIn, setLog] = useState(false);
   // console.log("render()")
   return (
     <div className="title">
@@ -27,6 +28,12 @@ export const Title = () => {
         alt="Logo"
       />
       <h1>{title}</h1>
+      {isLoggedIn ? (
+        <button onClick={() => setLog(false)}>Logout</button>
+      
+      ) : (
+          <button onClick={() => setLog(true)}>Login</button>
+      )}
       {/* <button onClick={()=>setTitle("hello")}> Title Changer</button> */}
     </div>
   );
