@@ -28,6 +28,11 @@ const Body = () => {
          
     },[])
 
+      // if no dependancy array [] => useEffect is called on every render
+  // if dependancy array is empty = [] => useEffect is called on initial render  (just once)
+  // if dependancy array is [searchText] called everytime searchText is updated
+
+
     async function getRestraunts() {
         const response =  await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=12.9352403&lng=77.624532&page_type=DESKTOP_WEB_LISTING")
         const data = await response.json()
