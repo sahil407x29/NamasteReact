@@ -1,46 +1,61 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
-// import { useEffect, useState } from "react";
-import {createBrowserRouter,RouterProvider} from "react-router-dom";
-import Header, {Title} from "./Header.jsx";
-import Body from './Body.jsx'
-import Footer from './Footer.jsx'
-import About from './About.jsx'
+import { createBrowserRouter, RouterProvider , Outlet } from "react-router-dom";
+import Header, { Title } from "./Header.jsx";
+import Body from "./Body.jsx";
+import Footer from "./Footer.jsx";
+import About from "./About.jsx";
 import Contact from "./Contact.jsx";
-
+import Error from "./ErrorPage.jsx";
+import RestrauntMenu from "./RestrauntMenu.jsx";
 
 console.log("react is working");
 const AppLayout = () => {
   return (
-    // <React.Fragment> // or
     <>
       <>
         <Header />
-        <Body />
+        <Outlet/>
+        {/* Outlet means
+          if(path = "/")
+          then Outlet = <Body/>
+        */}
         <Footer />
       </>
     </>
-    // </React.Fragment>
   );
 };
 
 export const AppRouter = createBrowserRouter([
+  // cBR is used to create and define routes
+  // RouterProvider is used to activate routing
   {
-    path:"/",
-    element:<AppLayout/>
-  },
-  {
-    path:"/about",
-    element:<About/>
-  },
-   {
-    path:"/contact",
-    element:<Contact/>
+    path : "/",
+    element : <AppLayout/>,
+    children : [ 
+      {
+        path:'/',
+        element:<Body/>
+      },
+      {
+        path :'/about',
+        element:<About/>
+      },
+      {
+        path :'/contact',
+        element :<Contact/>
+      },
+      {
+        path :'/restraunts/:resID',
+        element : <RestrauntMenu/>
+      }
+
+    ],
+    errorElement:<Error/>
   }
-])
+]);
 createRoot(document.getElementById("root")).render(
   <StrictMode>{/* <div>Hello from StrictMode root!</div> */}</StrictMode>,
 );
 
 export default AppLayout;
-// hello git

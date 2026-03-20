@@ -1,14 +1,34 @@
 import { useState } from "react";
-
+import { Link } from "react-router-dom";
+import "./index.css";
 const Header = () => {
   return (
     <div className="header">
       <Title />
       <div className="nav-items">
         <ul>
-          <li>Home</li>
-          <li>About</li>
-          <li>Contact</li>
+          <li>
+            <Link style={{ textDecoration: "none", color: "black" }}>Home</Link>
+            {/* used Link tag instead of anchor tag becuase it doesnt refresh the page upon clicking */}
+            {/* Link Itself is a Wrapper over anchor tag */}
+          </li>
+          <li>
+            <Link
+              style={{ textDecoration: "none", color: "black" }}
+              to="/about"
+            >
+              About Us
+            </Link>
+          </li>
+          <li>
+            <Link
+              style={{ textDecoration: "none", color: "black" }}
+              to="/contact"
+            >
+              {" "}
+              Contact
+            </Link>
+          </li>
         </ul>
       </div>
     </div>
@@ -17,9 +37,9 @@ const Header = () => {
 
 // Named Export
 export const Title = () => {
-  console.log("title rendered")
+  console.log("title rendered");
   const [title, setTitle] = useState("FoodVilla");
-  
+
   // console.log("render()")
   return (
     <div className="title">
