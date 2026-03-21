@@ -24,7 +24,7 @@ const RestrauntMenu = () => {
     resInfo?.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1].card
       .card;
   // const formattedPrice = itemCards?.card?.info?.price ? price /100 : 'N/A'
-  console.log(itemCards);
+ 
   return (
     <div className="res-menu">
       <h1>{name}</h1>

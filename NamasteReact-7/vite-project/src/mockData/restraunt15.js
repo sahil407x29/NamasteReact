@@ -1,0 +1,23667 @@
+const restraunt15 = {
+"statusCode": 0,
+"data": {
+"statusMessage": "done successfully",
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+"text": "Candice's Gourmet Sandwiches & Wraps",
+"headerStyling": {
+"textColor": "text_Highest_Emphasis",
+"textVariant": "header_H3_Black"
+}
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+"tabs": [
+{
+"id": "Order Online",
+"title": "Order Online"
+}
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+"info": {
+"id": "158855",
+"name": "Candice's Gourmet Sandwiches & Wraps",
+"city": "Bangalore",
+"slugs": {
+"restaurant": "candice39s-gourmet-sandwiches-koramangala",
+"city": "bangalore"
+},
+"uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+"cloudinaryImageId": "d1331113564b015c9d55c48ff48a2553",
+"locality": "5th Block",
+"areaName": "BTM",
+"costForTwo": "60000",
+"costForTwoMessage": "₹600 for two",
+"cuisines": [
+"Salads",
+"sandwich"
+],
+"avgRating": 4.6,
+"feeDetails": {
+"restaurantId": "158855",
+"fees": [
+{}
+]
+},
+"parentId": "465403",
+"avgRatingString": "4.6",
+"totalRatingsString": "4.6K+ ratings",
+"sla": {
+"restaurantId": "158855",
+"lastMileTravel": 2328.3,
+"serviceability": "NON_SERVICEABLE",
+"rainMode": "RAIN_MODE_NONE",
+"longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+"lastMileTravelString": "2328.3 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-03-20 23:30:00",
+"visibility": true,
+"opened": true,
+"restaurantClosedMeta": {}
+},
+"aggregatedDiscountInfo": {
+"header": "60% off",
+"shortDescriptionList": [
+{
+"meta": "60% off | Use TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "60% off up to ₹120 | Use code TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"visible": true
+},
+"badges": {},
+"slugString": "candice39s-gourmet-sandwiches-koramangala",
+"isOpen": true,
+"labels": [
+{
+"title": "Timings",
+"message": "null"
+},
+{
+"title": "Address",
+"message": "Chinita Real Mexican Food 25, 1st Floor, 5th Cross, 5th Block, Koramangala, Bangalore - 560095"
+},
+{
+"title": "Cuisines",
+"message": "Salads,sandwich"
+}
+],
+"totalRatings": 4600,
+"aggregatedDiscountInfoV2": {
+"header": "60% off",
+"shortDescriptionList": [
+{
+"meta": "60% off | Use TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "60% off up to ₹120 | Use code TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"couponDetailsCta": "View coupon details"
+},
+"type": "F",
+"nudgeBanners": [
+{
+"minValue": 349,
+"maxValue": 499,
+"priority": 2,
+"couponCode": "FLAVORFUL",
+"discountInfo": {
+"discountType": "Flat",
+"value": 125
+},
+"lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLAVORFUL",
+"unlockedMessage": "FLAVORFUL Coupon Unlocked! Use it to save ₹125",
+"logoCtx": {},
+"movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+},
+{
+"minValue": 769,
+"maxValue": 1099,
+"priority": 3,
+"couponCode": "GRANDGALA",
+"discountInfo": {
+"discountType": "Flat",
+"value": 225
+},
+"lockedMessage": "Add items worth ₹<amount> to save ₹225 | Code GRANDGALA",
+"unlockedMessage": "GRANDGALA Coupon Unlocked! Use it to save ₹225",
+"logoCtx": {},
+"movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+}
+],
+"headerBanner": {
+"url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/158855"
+},
+"generalPurposeInfoListV2": [
+{
+"cta": {
+"info": {
+"recordings": {}
+},
+"linkCta": {}
+}
+}
+],
+"ratingSlab": "RATING_SLAB_5",
+"availabilityServiceabilityMessage": "Does not deliver to your location",
+"orderabilityCommunication": {
+"title": {
+"text": "Wish you were"
+},
+"subTitle": {
+"text": "CLOSER!"
+},
+"message": {
+"text": "This location is outside the outlet's delivery area",
+"textColour": "negative"
+},
+"customIcon": {
+"bgGradientColorStart": "#F64C41",
+"bgGradientColorEnd": "#E53554"
+},
+"commsStyling": {}
+},
+"hasBestsellerItems": true,
+"cartOrderabilityNudgeBanner": {
+"parameters": {},
+"presentation": {}
+},
+"latLong": "12.9354051,77.62242509999999",
+"backgroundImageOverlayInfo": {},
+"featuredSectionInfo": {}
+},
+"analytics": {}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+"sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+"layout": {
+"rows": 1,
+"columns": 5,
+"horizontalScrollEnabled": true,
+"itemSpacing": 12,
+"lineSpacing": 10,
+"widgetPadding": {},
+"containerStyle": {
+"containerPadding": {
+"left": 10,
+"right": 10,
+"bottom": 16
+}
+}
+},
+"id": "offerCollectionWidget_UX4",
+"gridElements": {
+"infoWithStyle": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+"offers": [
+{
+"info": {
+"header": "60% OFF UPTO ₹120",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"a608f859-be6f-4f31-90db-39f7d607d7da"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE TRYNEW",
+"description": "ABOVE ₹179",
+"offerType": "offers",
+"restId": "158855",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE TRYNEW"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹125 OFF",
+"offerTag": "FLAT DEAL",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"43098185-c276-4707-89ef-ad6da1a63a03"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE FLAVORFUL",
+"description": "ABOVE ₹499",
+"offerType": "offers",
+"restId": "158855",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE FLAVORFUL"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹225 OFF",
+"offerTag": "FLAT DEAL",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"328f09b0-a3e8-4bb1-bcc6-c0cafdf4ba43"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE GRANDGALA",
+"description": "ABOVE ₹1099",
+"offerType": "offers",
+"restId": "158855",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE GRANDGALA"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "7.5% OFF UPTO ₹100",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/fa07ebc1-f02e-4584-8057-29c92f4872b8_YESBankMenuLogoNew1.png",
+"offerIds": [
+"c97946a6-dfd8-492f-89dd-b9c970531b7c"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "NO CODE REQUIRED",
+"description": "ABOVE ₹399",
+"offerType": "offers",
+"restId": "158855",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/fa07ebc1-f02e-4584-8057-29c92f4872b8_YESBankMenuLogoNew1.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "NO CODE REQUIRED"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹150 OFF",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/3/1/297211d6-0a0c-4d11-a6f4-f8727ac2aff6_Axis.png",
+"offerIds": [
+"49c6aa12-f2fa-4298-9d4e-71d9f736e34a"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE AXISREWARDS",
+"description": "ABOVE ₹500",
+"offerType": "offers",
+"restId": "158855",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/3/1/297211d6-0a0c-4d11-a6f4-f8727ac2aff6_Axis.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE AXISREWARDS"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+}
+],
+"habitMilestoneInfo": {
+"callout": {}
+},
+"loyaltyDiscoverPresentationInfo": {
+"logoCtx": {}
+}
+}
+}
+}
+}
+},
+{
+"groupedCard": {
+"cardGroupMap": {
+"REGULAR": {
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+"badges": {},
+"vegOnlyDetails": {
+"imageId": "AutoVegOnly_qkjowj",
+"title": "Showing only vegetarian options.",
+"description": "Tap on the VEG ONLY button to turn off the setting"
+},
+"topRatedFilter": {
+"attributes": {
+"displayText": "Ratings 4.0+"
+}
+},
+"kidsCategoryFilter": {
+"attributes": {
+"displayText": "Kids Favourites",
+"tooltip": {
+"enabled": true,
+"displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+}
+}
+},
+"vegFilter": {
+"attributes": {
+"displayText": "VEG"
+}
+},
+"nonvegFilter": {
+"attributes": {
+"displayText": "NONVEG"
+}
+}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+"sectionId": "MENU_FILTER_TOGGLE"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Recommended",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68537075",
+"name": "Mushroom Philly Cheesesteak Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Pan-fried mushroom, melted mozzarella and mild cheddar, grilled onions and green peppers, garlic butter.",
+"imageId": "13219187d703fa2854a9e525bbb846f5",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821397",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 365,
+"default": 1,
+"id": "65537659",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 395,
+"id": "65537660",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 400,
+"id": "65537661",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 395,
+"id": "213712585",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "65537659"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "65537660"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "65537661"
+}
+],
+"price": 40000,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "213712585"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379595",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379597",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379600",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379608",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 36500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "186 ratings",
+"ratingCountV2": "186"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663053",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775949",
+"name": "Tofu Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Baked lemongrass marinated tofu, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/4b918b09-cdc4-4370-8a64-815780bc6f37_05b0e23c-d1ad-486b-858f-9a32280bddc5.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821286",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537334",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537335",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537336",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712572",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "65537334"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "65537335"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "65537336"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "213712572"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379172",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379173",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379175",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379177",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "139 ratings",
+"ratingCountV2": "139"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663080",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066302",
+"name": "Pesto Paneer Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Broiled balsamic marinated paneer, basil pesto, red capsicum, eggplant, pickled onions, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/6d528987-08df-4abe-8f59-4715fc651ca4_36db9e6f-64fa-4df5-a59d-20bdede0893d.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821271",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 365,
+"default": 1,
+"id": "65537291",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 395,
+"id": "65537292",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 400,
+"id": "65537293",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 395,
+"id": "213712586",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "65537291"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "65537292"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "65537293"
+}
+],
+"price": 40000,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "213712586"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379109",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594409",
+"name": "Extra Paneer",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379112",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594408",
+"name": "Extra Pesto",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594411",
+"name": "Extra Red Capsicum & Eggplant",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379115",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379117",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 36500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "275 ratings",
+"ratingCountV2": "275"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663062",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60138695",
+"name": "Melted Caprese Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Broiled tomatoes, basil pesto, melted mozzarella.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/8fc8f148-413c-4caf-ae6f-d737efa4ddcc_eb05badb-69e9-4c68-8711-0ab1f284c6eb.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821336",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537480",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537481",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537482",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712563",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "65537480"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "65537481"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "65537482"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "213712563"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379397",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594408",
+"name": "Extra Pesto",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594454",
+"name": "Extra Broiled Tomatoes",
+"price": 9000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379398",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379400",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "137 ratings",
+"ratingCountV2": "137"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663042",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066304",
+"name": "Mushrooms in Garlic Mojo Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Sauteed mushrooms, mozzarella cheese, roasted garlic mojo, jalapeno, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/dc62eb67-4129-4fbf-b379-83e49f763efa_17582f45-78de-4c95-80d0-6edeb5545086.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821265",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537273",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537274",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537275",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712566",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "65537273"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "65537274"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "65537275"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "213712566"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379079",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379083",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379084",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379087",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "180 ratings",
+"ratingCountV2": "180"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663055",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775946",
+"name": "Chicken Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled lemongrass marinated chicken, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/c9d489e6-4e4d-4c12-969e-e8787ce96e35_62e7725e-5950-40ae-aac2-e862780a03b7.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821255",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537247",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537248",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537249",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712561",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "65537247"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "65537248"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "65537249"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "213712561"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379047",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379049",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379052",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379053",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "406 ratings",
+"ratingCountV2": "406"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663029",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68537074",
+"name": "Philly Cheesesteak Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled thinly sliced tenderloin steak, melted mozzarella and mild cheddar, grilled onions and green peppers, garlic butter.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/61596309-7498-4974-991f-5b11bd3a918f_4d8568f3-f276-47d5-a72b-48f876279ce6.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821392",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537646",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537647",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537648",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712583",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "65537646"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "65537647"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "65537648"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "213712583"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379573",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594483",
+"name": "Extra Steak",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379575",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379577",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379581",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "325 ratings",
+"ratingCountV2": "325"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663063",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775947",
+"name": "Grilled Chicken & Cheese Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled chicken, emmental cheese, pickled onion and house creamy cheese dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/3ee014a7-ade4-4f8c-a668-c99814451c9b_aa8a57ce-3827-4ef2-b83e-9daecff10d70.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821260",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537260",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537261",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537262",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712560",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "65537260"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "65537261"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "65537262"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "213712560"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379065",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379068",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594399",
+"name": "Extra Emmental Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379070",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379071",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "542 ratings",
+"ratingCountV2": "542"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663038",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066307",
+"name": "The Cuban Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Roasted pork, shaved ham, mozzarella cheese, fermented pickles and mustard.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/92586dd5-88a4-4319-af57-d94a1be5b53b_41faf128-6a66-4814-9155-2f319b1109c9.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821282",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537322",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537323",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537324",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712565",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "65537322"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "65537323"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "65537324"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "213712565"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379154",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594424",
+"name": "Extra Roasted Pork",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379157",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594426",
+"name": "Extra Ham",
+"price": 12500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594415",
+"name": "Extra Pickle",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379162",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379167",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "667 ratings",
+"ratingCountV2": "667"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663079",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59975732",
+"name": "Pulled Pork Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Roasted pulled pork, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/899371f0-3eef-4b60-bcd5-36f2e9a25138_911d76a1-7d11-4d4c-be06-f968395a479f.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821312",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537412",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537413",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537414",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712578",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "65537412"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "65537413"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "65537414"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "213712578"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379313",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594448",
+"name": "Extra Pulled Pork",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379315",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379319",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379321",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "133 ratings",
+"ratingCountV2": "133"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663067",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066306",
+"name": "Tenderloin, Peppers & Onions Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled tenderloin, emmental cheese, green peppers, caramelized onions, jalapeno salsa, house mayo, lettuce and tomatoes. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/63591821-f4fe-4d3a-acb6-5406c01efe19_51e9ebb7-9c6e-4079-afba-11ee1084cee3.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821275",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537303",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537304",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537305",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712584",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "65537303"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "65537304"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "65537305"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "213712584"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379137",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594419",
+"name": "Extra Tenderloin",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379139",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594399",
+"name": "Extra Emmental Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594420",
+"name": "Extra Caramelized Onions",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 4,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379141",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379142",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "307 ratings",
+"ratingCountV2": "307"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663078",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "45618899",
+"name": "Pesto Chicken Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled chicken, basil pesto, mozzarella, red capsicum, house mayo, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/1f3ccdf8-1c6d-43bd-bbcf-a51bf2d2d97c_e4dae8cd-f389-4755-b327-a2da573724ff.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821269",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537285",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537286",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537287",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712579",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "65537285"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "65537286"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "65537287"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "213712579"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379098",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379101",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594408",
+"name": "Extra Pesto",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379103",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379104",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.8",
+"ratingCount": "247 ratings",
+"ratingCountV2": "247"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663061",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59975731",
+"name": "Spicy Chipotle Chicken Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Shredded spicy chipotle chicken, mozzarella, pickled onions, chipotle mayo, lettuce",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/af6397fa-3b6c-435c-acee-076cd4acbd94_ea0df303-0c89-445f-8e17-b3881ad08702.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821308",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537400",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537401",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537402",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712577",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "65537400"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "65537401"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "65537402"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "213712577"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379299",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379301",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379302",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379306",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "104 ratings",
+"ratingCountV2": "104"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663074",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128892",
+"name": "Chicken, Mushroom & Mojo Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with grilled chicken, pan-fried mushroom, roasted garlic mojo, cheese and lettuce.",
+"imageId": "acc5c693ff3673c5431888de6d404614",
+"inStock": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379632",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379634",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379636",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379638",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "143 ratings",
+"ratingCountV2": "143"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663030",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128894",
+"name": "Steak, Charred Scallion & Slaw Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with grilled thinly sliced steak, charred scallions, red cabbage slaw and cheese.",
+"imageId": "0cd216c06149fb9d382c5e283f7a1465",
+"inStock": 1,
+"price": 47000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379640",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594483",
+"name": "Extra Steak",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379642",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594487",
+"name": "Extra Charred Scallions",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379644",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379645",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "80 ratings",
+"ratingCountV2": "80"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663076",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953777",
+"name": "Chicken Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/f4059a77-8a0d-4e4a-b6b9-bb97b5f07d76_854538aa-cdb2-4ced-8d07-45854112e963.jpg_compressed",
+"inStock": 1,
+"price": 38000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "52 ratings",
+"ratingCountV2": "52"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663031",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524733",
+"name": "Chicken Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/694aa1f6-d06a-40e1-bfed-a49115228e20_4317d1d7-1f38-4bc4-a5a7-1585b91021ff.jpg_compressed",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379238",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379239",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379241",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "261 ratings",
+"ratingCountV2": "261"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663033",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524713",
+"name": "Chicken Thai Crunch Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, pickled carrots & radish, fresh herbs, roasted peanuts, crispy rice sticks, Thai peanut dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/ddc1fb26-8b1c-4194-a4c8-7057c9c20c0e_76fb8500-4145-4a8a-9a13-7051d91d4f58.jpg_compressed",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379228",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379229",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379230",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "138 ratings",
+"ratingCountV2": "138"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663032",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067914",
+"name": "Flan",
+"category": "Desserts",
+"description": "Serves 1 | Creamy, silky Mexican caramel custard, with a hint of bitter caramel.",
+"imageId": "e6f497880699aa9fd8b945c589202353",
+"inStock": 1,
+"price": 31500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "86 ratings",
+"ratingCountV2": "86"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663036",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067915",
+"name": "Churros",
+"category": "Desserts",
+"description": "Serves 1 | Perfectly crisp on the outside and soft on the inside. Golden fried and coated in cinnamon and sugar. Served with thick chocolate sauce.",
+"imageId": "6c0ac2019021a305a31699baa9710b10",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "177 ratings",
+"ratingCountV2": "177"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663034",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"type": "CATEGORY_TYPE_RECOMMENDED",
+"subtitleSuffix": {},
+"categoryId": "-1"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Sandwiches",
+"categories": [
+{
+"title": "Non-Veg Sandwiches",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775946",
+"name": "Chicken Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled lemongrass marinated chicken, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/c9d489e6-4e4d-4c12-969e-e8787ce96e35_62e7725e-5950-40ae-aac2-e862780a03b7.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821255",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537247",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537248",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537249",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712561",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "65537247"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "65537248"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "65537249"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821255",
+"variationId": "213712561"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379049",
+"addonId": "50594381"
+},
+{
+"groupId": "63379049",
+"addonId": "50594382"
+},
+{
+"groupId": "63379052",
+"addonId": "50594383"
+},
+{
+"groupId": "63379053",
+"addonId": "50594384"
+},
+{
+"groupId": "63379053",
+"addonId": "50594385"
+},
+{
+"groupId": "63379053",
+"addonId": "50594387"
+},
+{
+"groupId": "63379053",
+"addonId": "50594388"
+},
+{
+"groupId": "63379053",
+"addonId": "50594390"
+},
+{
+"groupId": "63379053",
+"addonId": "50594392"
+},
+{
+"groupId": "63379053",
+"addonId": "50594393"
+},
+{
+"groupId": "63379053",
+"addonId": "50594394"
+},
+{
+"groupId": "63379047",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379047",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379049",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379052",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379053",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "406 ratings",
+"ratingCountV2": "406"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663029",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68537074",
+"name": "Philly Cheesesteak Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled thinly sliced tenderloin steak, melted mozzarella and mild cheddar, grilled onions and green peppers, garlic butter.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/61596309-7498-4974-991f-5b11bd3a918f_4d8568f3-f276-47d5-a72b-48f876279ce6.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821392",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537646",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537647",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537648",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712583",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "65537646"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "65537647"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "65537648"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821392",
+"variationId": "213712583"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379575",
+"addonId": "50594421"
+},
+{
+"groupId": "63379575",
+"addonId": "50594417"
+},
+{
+"groupId": "63379573",
+"addonId": "50594483"
+},
+{
+"groupId": "63379577",
+"addonId": "50594383"
+},
+{
+"groupId": "63379581",
+"addonId": "50594384"
+},
+{
+"groupId": "63379581",
+"addonId": "50594385"
+},
+{
+"groupId": "63379581",
+"addonId": "50594387"
+},
+{
+"groupId": "63379581",
+"addonId": "50594388"
+},
+{
+"groupId": "63379581",
+"addonId": "50594390"
+},
+{
+"groupId": "63379581",
+"addonId": "50594392"
+},
+{
+"groupId": "63379581",
+"addonId": "50594393"
+},
+{
+"groupId": "63379581",
+"addonId": "50594394"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379573",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594483",
+"name": "Extra Steak",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379575",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379577",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379581",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "325 ratings",
+"ratingCountV2": "325"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663063",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775947",
+"name": "Grilled Chicken & Cheese Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled chicken, emmental cheese, pickled onion and house creamy cheese dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/3ee014a7-ade4-4f8c-a668-c99814451c9b_aa8a57ce-3827-4ef2-b83e-9daecff10d70.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821260",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537260",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537261",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537262",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712560",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "65537260"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "65537261"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "65537262"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821260",
+"variationId": "213712560"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379068",
+"addonId": "50594398"
+},
+{
+"groupId": "63379068",
+"addonId": "50594399"
+},
+{
+"groupId": "63379070",
+"addonId": "50594383"
+},
+{
+"groupId": "63379071",
+"addonId": "50594384"
+},
+{
+"groupId": "63379071",
+"addonId": "50594385"
+},
+{
+"groupId": "63379071",
+"addonId": "50594387"
+},
+{
+"groupId": "63379071",
+"addonId": "50594388"
+},
+{
+"groupId": "63379071",
+"addonId": "50594390"
+},
+{
+"groupId": "63379071",
+"addonId": "50594392"
+},
+{
+"groupId": "63379071",
+"addonId": "50594393"
+},
+{
+"groupId": "63379071",
+"addonId": "50594394"
+},
+{
+"groupId": "63379065",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379065",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379068",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594399",
+"name": "Extra Emmental Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379070",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379071",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "542 ratings",
+"ratingCountV2": "542"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663038",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066307",
+"name": "The Cuban Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Roasted pork, shaved ham, mozzarella cheese, fermented pickles and mustard.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/92586dd5-88a4-4319-af57-d94a1be5b53b_41faf128-6a66-4814-9155-2f319b1109c9.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821282",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537322",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537323",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537324",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712565",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "65537322"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "65537323"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "65537324"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821282",
+"variationId": "213712565"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379154",
+"addonId": "50594424"
+},
+{
+"groupId": "63379162",
+"addonId": "50594383"
+},
+{
+"groupId": "63379167",
+"addonId": "50594384"
+},
+{
+"groupId": "63379167",
+"addonId": "50594385"
+},
+{
+"groupId": "63379167",
+"addonId": "50594387"
+},
+{
+"groupId": "63379167",
+"addonId": "50594388"
+},
+{
+"groupId": "63379167",
+"addonId": "50594390"
+},
+{
+"groupId": "63379167",
+"addonId": "50594392"
+},
+{
+"groupId": "63379167",
+"addonId": "50594393"
+},
+{
+"groupId": "63379167",
+"addonId": "50594394"
+},
+{
+"groupId": "63379157",
+"addonId": "50594404"
+},
+{
+"groupId": "63379157",
+"addonId": "50594426"
+},
+{
+"groupId": "63379157",
+"addonId": "50594415"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379154",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594424",
+"name": "Extra Roasted Pork",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379157",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594426",
+"name": "Extra Ham",
+"price": 12500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594415",
+"name": "Extra Pickle",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379162",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379167",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "667 ratings",
+"ratingCountV2": "667"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663079",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59975732",
+"name": "Pulled Pork Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Roasted pulled pork, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/899371f0-3eef-4b60-bcd5-36f2e9a25138_911d76a1-7d11-4d4c-be06-f968395a479f.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821312",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537412",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537413",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537414",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712578",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "65537412"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "65537413"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "65537414"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821312",
+"variationId": "213712578"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379315",
+"addonId": "50594381"
+},
+{
+"groupId": "63379315",
+"addonId": "50594382"
+},
+{
+"groupId": "63379313",
+"addonId": "50594448"
+},
+{
+"groupId": "63379319",
+"addonId": "50594383"
+},
+{
+"groupId": "63379321",
+"addonId": "50594384"
+},
+{
+"groupId": "63379321",
+"addonId": "50594385"
+},
+{
+"groupId": "63379321",
+"addonId": "50594387"
+},
+{
+"groupId": "63379321",
+"addonId": "50594388"
+},
+{
+"groupId": "63379321",
+"addonId": "50594390"
+},
+{
+"groupId": "63379321",
+"addonId": "50594392"
+},
+{
+"groupId": "63379321",
+"addonId": "50594393"
+},
+{
+"groupId": "63379321",
+"addonId": "50594394"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379313",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594448",
+"name": "Extra Pulled Pork",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379315",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379319",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379321",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "133 ratings",
+"ratingCountV2": "133"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663067",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066306",
+"name": "Tenderloin, Peppers & Onions Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled tenderloin, emmental cheese, green peppers, caramelized onions, jalapeno salsa, house mayo, lettuce and tomatoes. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/63591821-f4fe-4d3a-acb6-5406c01efe19_51e9ebb7-9c6e-4079-afba-11ee1084cee3.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821275",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "65537303",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "65537304",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "65537305",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712584",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "65537303"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "65537304"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "65537305"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821275",
+"variationId": "213712584"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "63379137",
+"addonId": "50594419"
+},
+{
+"groupId": "63379141",
+"addonId": "50594383"
+},
+{
+"groupId": "63379142",
+"addonId": "50594384"
+},
+{
+"groupId": "63379142",
+"addonId": "50594385"
+},
+{
+"groupId": "63379142",
+"addonId": "50594387"
+},
+{
+"groupId": "63379142",
+"addonId": "50594388"
+},
+{
+"groupId": "63379142",
+"addonId": "50594390"
+},
+{
+"groupId": "63379142",
+"addonId": "50594392"
+},
+{
+"groupId": "63379142",
+"addonId": "50594393"
+},
+{
+"groupId": "63379142",
+"addonId": "50594394"
+},
+{
+"groupId": "63379139",
+"addonId": "50594398"
+},
+{
+"groupId": "63379139",
+"addonId": "50594399"
+},
+{
+"groupId": "63379139",
+"addonId": "50594420"
+},
+{
+"groupId": "63379139",
+"addonId": "50594421"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379137",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594419",
+"name": "Extra Tenderloin",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379139",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594399",
+"name": "Extra Emmental Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594420",
+"name": "Extra Caramelized Onions",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 4,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379141",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379142",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "307 ratings",
+"ratingCountV2": "307"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663078",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182393367",
+"name": "Buff Bulgogi Sandwich - New Launch",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled thinly sliced buff, Korean sticky sauce, cucumber, jalapenos, spring onions, cilantro, sriracha mayo. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/12/17bd43f1-a9a4-4c77-9024-5d3dfd0064a1_9a06362e-c9be-4784-9646-ddfa909b2562.jpg",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66083516",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 470,
+"default": 1,
+"id": "200059177",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 500,
+"id": "200059178",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 505,
+"id": "200059179",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 500,
+"id": "213712562",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66083516",
+"variationId": "200059177"
+}
+],
+"price": 47000,
+"addonCombinations": [
+{
+"groupId": "243079377",
+"addonId": "50594433"
+},
+{
+"groupId": "243079378",
+"addonId": "50594383"
+},
+{
+"groupId": "243079379",
+"addonId": "50594384"
+},
+{
+"groupId": "243079379",
+"addonId": "50594385"
+},
+{
+"groupId": "243079379",
+"addonId": "50594387"
+},
+{
+"groupId": "243079379",
+"addonId": "50594388"
+},
+{
+"groupId": "243079379",
+"addonId": "50594390"
+},
+{
+"groupId": "243079379",
+"addonId": "50594392"
+},
+{
+"groupId": "243079379",
+"addonId": "50594393"
+},
+{
+"groupId": "243079379",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66083516",
+"variationId": "200059178"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "243079377",
+"addonId": "50594433"
+},
+{
+"groupId": "243079378",
+"addonId": "50594383"
+},
+{
+"groupId": "243079379",
+"addonId": "50594384"
+},
+{
+"groupId": "243079379",
+"addonId": "50594385"
+},
+{
+"groupId": "243079379",
+"addonId": "50594387"
+},
+{
+"groupId": "243079379",
+"addonId": "50594388"
+},
+{
+"groupId": "243079379",
+"addonId": "50594390"
+},
+{
+"groupId": "243079379",
+"addonId": "50594392"
+},
+{
+"groupId": "243079379",
+"addonId": "50594393"
+},
+{
+"groupId": "243079379",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66083516",
+"variationId": "200059179"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "243079377",
+"addonId": "50594433"
+},
+{
+"groupId": "243079378",
+"addonId": "50594383"
+},
+{
+"groupId": "243079379",
+"addonId": "50594384"
+},
+{
+"groupId": "243079379",
+"addonId": "50594385"
+},
+{
+"groupId": "243079379",
+"addonId": "50594387"
+},
+{
+"groupId": "243079379",
+"addonId": "50594388"
+},
+{
+"groupId": "243079379",
+"addonId": "50594390"
+},
+{
+"groupId": "243079379",
+"addonId": "50594392"
+},
+{
+"groupId": "243079379",
+"addonId": "50594393"
+},
+{
+"groupId": "243079379",
+"addonId": "50594394"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66083516",
+"variationId": "213712562"
+}
+],
+"price": 50000,
+"addonCombinations": [
+{
+"groupId": "243079377",
+"addonId": "50594433"
+},
+{
+"groupId": "243079378",
+"addonId": "50594383"
+},
+{
+"groupId": "243079379",
+"addonId": "50594384"
+},
+{
+"groupId": "243079379",
+"addonId": "50594385"
+},
+{
+"groupId": "243079379",
+"addonId": "50594387"
+},
+{
+"groupId": "243079379",
+"addonId": "50594388"
+},
+{
+"groupId": "243079379",
+"addonId": "50594390"
+},
+{
+"groupId": "243079379",
+"addonId": "50594392"
+},
+{
+"groupId": "243079379",
+"addonId": "50594393"
+},
+{
+"groupId": "243079379",
+"addonId": "50594394"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "243079377",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594433",
+"name": "Extra Buff [Imported Buff]",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "243079378",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "243079379",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 47000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "110490762",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "45618899",
+"name": "Pesto Chicken Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled chicken, basil pesto, mozzarella, red capsicum, house mayo, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/1f3ccdf8-1c6d-43bd-bbcf-a51bf2d2d97c_e4dae8cd-f389-4755-b327-a2da573724ff.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821269",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537285",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537286",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537287",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712579",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "65537285"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "65537286"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "65537287"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821269",
+"variationId": "213712579"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379103",
+"addonId": "50594383"
+},
+{
+"groupId": "63379104",
+"addonId": "50594384"
+},
+{
+"groupId": "63379104",
+"addonId": "50594385"
+},
+{
+"groupId": "63379104",
+"addonId": "50594387"
+},
+{
+"groupId": "63379104",
+"addonId": "50594388"
+},
+{
+"groupId": "63379104",
+"addonId": "50594390"
+},
+{
+"groupId": "63379104",
+"addonId": "50594392"
+},
+{
+"groupId": "63379104",
+"addonId": "50594393"
+},
+{
+"groupId": "63379104",
+"addonId": "50594394"
+},
+{
+"groupId": "63379101",
+"addonId": "50594408"
+},
+{
+"groupId": "63379101",
+"addonId": "50594398"
+},
+{
+"groupId": "63379101",
+"addonId": "50594404"
+},
+{
+"groupId": "63379098",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379098",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379101",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594408",
+"name": "Extra Pesto",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379103",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379104",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.8",
+"ratingCount": "247 ratings",
+"ratingCountV2": "247"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663061",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066305",
+"name": "Prawns Po' Boy Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled adobo marinated prawns, house remoulade, fermented pickle, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/8e360f2e-f81a-4687-b854-d1af331ce512_22daef25-91f6-4793-9696-8d4e99009004.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821272",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 425,
+"default": 1,
+"id": "65537294",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 455,
+"id": "65537295",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 460,
+"id": "65537296",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 455,
+"id": "213712564",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821272",
+"variationId": "65537294"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379119",
+"addonId": "50594414"
+},
+{
+"groupId": "63379122",
+"addonId": "50594383"
+},
+{
+"groupId": "63379124",
+"addonId": "50594384"
+},
+{
+"groupId": "63379124",
+"addonId": "50594385"
+},
+{
+"groupId": "63379124",
+"addonId": "50594387"
+},
+{
+"groupId": "63379124",
+"addonId": "50594388"
+},
+{
+"groupId": "63379124",
+"addonId": "50594390"
+},
+{
+"groupId": "63379124",
+"addonId": "50594392"
+},
+{
+"groupId": "63379124",
+"addonId": "50594393"
+},
+{
+"groupId": "63379124",
+"addonId": "50594394"
+},
+{
+"groupId": "63379120",
+"addonId": "50594398"
+},
+{
+"groupId": "63379120",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821272",
+"variationId": "65537295"
+}
+],
+"price": 45500,
+"addonCombinations": [
+{
+"groupId": "63379119",
+"addonId": "50594414"
+},
+{
+"groupId": "63379122",
+"addonId": "50594383"
+},
+{
+"groupId": "63379124",
+"addonId": "50594384"
+},
+{
+"groupId": "63379124",
+"addonId": "50594385"
+},
+{
+"groupId": "63379124",
+"addonId": "50594387"
+},
+{
+"groupId": "63379124",
+"addonId": "50594388"
+},
+{
+"groupId": "63379124",
+"addonId": "50594390"
+},
+{
+"groupId": "63379124",
+"addonId": "50594392"
+},
+{
+"groupId": "63379124",
+"addonId": "50594393"
+},
+{
+"groupId": "63379124",
+"addonId": "50594394"
+},
+{
+"groupId": "63379120",
+"addonId": "50594398"
+},
+{
+"groupId": "63379120",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821272",
+"variationId": "65537296"
+}
+],
+"price": 46000,
+"addonCombinations": [
+{
+"groupId": "63379119",
+"addonId": "50594414"
+},
+{
+"groupId": "63379122",
+"addonId": "50594383"
+},
+{
+"groupId": "63379124",
+"addonId": "50594384"
+},
+{
+"groupId": "63379124",
+"addonId": "50594385"
+},
+{
+"groupId": "63379124",
+"addonId": "50594387"
+},
+{
+"groupId": "63379124",
+"addonId": "50594388"
+},
+{
+"groupId": "63379124",
+"addonId": "50594390"
+},
+{
+"groupId": "63379124",
+"addonId": "50594392"
+},
+{
+"groupId": "63379124",
+"addonId": "50594393"
+},
+{
+"groupId": "63379124",
+"addonId": "50594394"
+},
+{
+"groupId": "63379120",
+"addonId": "50594398"
+},
+{
+"groupId": "63379120",
+"addonId": "50594415"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821272",
+"variationId": "213712564"
+}
+],
+"price": 45500,
+"addonCombinations": [
+{
+"groupId": "63379119",
+"addonId": "50594414"
+},
+{
+"groupId": "63379122",
+"addonId": "50594383"
+},
+{
+"groupId": "63379124",
+"addonId": "50594384"
+},
+{
+"groupId": "63379124",
+"addonId": "50594385"
+},
+{
+"groupId": "63379124",
+"addonId": "50594387"
+},
+{
+"groupId": "63379124",
+"addonId": "50594388"
+},
+{
+"groupId": "63379124",
+"addonId": "50594390"
+},
+{
+"groupId": "63379124",
+"addonId": "50594392"
+},
+{
+"groupId": "63379124",
+"addonId": "50594393"
+},
+{
+"groupId": "63379124",
+"addonId": "50594394"
+},
+{
+"groupId": "63379120",
+"addonId": "50594398"
+},
+{
+"groupId": "63379120",
+"addonId": "50594415"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379119",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594414",
+"name": "Extra Prawns",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379120",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594415",
+"name": "Extra Pickle",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379122",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379124",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 42500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "84 ratings",
+"ratingCountV2": "84"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663064",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59975731",
+"name": "Spicy Chipotle Chicken Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Shredded spicy chipotle chicken, mozzarella, pickled onions, chipotle mayo, lettuce",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/af6397fa-3b6c-435c-acee-076cd4acbd94_ea0df303-0c89-445f-8e17-b3881ad08702.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821308",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 390,
+"default": 1,
+"id": "65537400",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 420,
+"id": "65537401",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 425,
+"id": "65537402",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 420,
+"id": "213712577",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "65537400"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "65537401"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "65537402"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821308",
+"variationId": "213712577"
+}
+],
+"price": 42000,
+"addonCombinations": [
+{
+"groupId": "63379302",
+"addonId": "50594383"
+},
+{
+"groupId": "63379301",
+"addonId": "50594398"
+},
+{
+"groupId": "63379301",
+"addonId": "50594404"
+},
+{
+"groupId": "63379306",
+"addonId": "50594384"
+},
+{
+"groupId": "63379306",
+"addonId": "50594385"
+},
+{
+"groupId": "63379306",
+"addonId": "50594387"
+},
+{
+"groupId": "63379306",
+"addonId": "50594388"
+},
+{
+"groupId": "63379306",
+"addonId": "50594390"
+},
+{
+"groupId": "63379306",
+"addonId": "50594392"
+},
+{
+"groupId": "63379306",
+"addonId": "50594393"
+},
+{
+"groupId": "63379306",
+"addonId": "50594394"
+},
+{
+"groupId": "63379299",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379299",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379301",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379302",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379306",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 39000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "104 ratings",
+"ratingCountV2": "104"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663074",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854236"
+},
+{
+"title": "Veg Sandwiches",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68537075",
+"name": "Mushroom Philly Cheesesteak Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Pan-fried mushroom, melted mozzarella and mild cheddar, grilled onions and green peppers, garlic butter.",
+"imageId": "13219187d703fa2854a9e525bbb846f5",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821397",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 365,
+"default": 1,
+"id": "65537659",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 395,
+"id": "65537660",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 400,
+"id": "65537661",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 395,
+"id": "213712585",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "65537659"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "65537660"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "65537661"
+}
+],
+"price": 40000,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821397",
+"variationId": "213712585"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379597",
+"addonId": "50594421"
+},
+{
+"groupId": "63379597",
+"addonId": "50594417"
+},
+{
+"groupId": "63379608",
+"addonId": "50594384"
+},
+{
+"groupId": "63379608",
+"addonId": "50594388"
+},
+{
+"groupId": "63379608",
+"addonId": "50594390"
+},
+{
+"groupId": "63379608",
+"addonId": "50594392"
+},
+{
+"groupId": "63379608",
+"addonId": "50594393"
+},
+{
+"groupId": "63379608",
+"addonId": "50594394"
+},
+{
+"groupId": "63379600",
+"addonId": "50594383"
+},
+{
+"groupId": "63379595",
+"addonId": "50594403"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379595",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379597",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379600",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379608",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 36500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "186 ratings",
+"ratingCountV2": "186"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663053",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775949",
+"name": "Tofu Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Baked lemongrass marinated tofu, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/4b918b09-cdc4-4370-8a64-815780bc6f37_05b0e23c-d1ad-486b-858f-9a32280bddc5.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821286",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537334",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537335",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537336",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712572",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "65537334"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "65537335"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "65537336"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821286",
+"variationId": "213712572"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379177",
+"addonId": "50594384"
+},
+{
+"groupId": "63379177",
+"addonId": "50594388"
+},
+{
+"groupId": "63379177",
+"addonId": "50594390"
+},
+{
+"groupId": "63379177",
+"addonId": "50594392"
+},
+{
+"groupId": "63379177",
+"addonId": "50594393"
+},
+{
+"groupId": "63379177",
+"addonId": "50594394"
+},
+{
+"groupId": "63379173",
+"addonId": "50594381"
+},
+{
+"groupId": "63379173",
+"addonId": "50594382"
+},
+{
+"groupId": "63379172",
+"addonId": "50594429"
+},
+{
+"groupId": "63379175",
+"addonId": "50594383"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379172",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379173",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379175",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379177",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "139 ratings",
+"ratingCountV2": "139"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663080",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066302",
+"name": "Pesto Paneer Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Broiled balsamic marinated paneer, basil pesto, red capsicum, eggplant, pickled onions, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/6d528987-08df-4abe-8f59-4715fc651ca4_36db9e6f-64fa-4df5-a59d-20bdede0893d.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821271",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 365,
+"default": 1,
+"id": "65537291",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 395,
+"id": "65537292",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 400,
+"id": "65537293",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 395,
+"id": "213712586",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "65537291"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "65537292"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "65537293"
+}
+],
+"price": 40000,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821271",
+"variationId": "213712586"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379117",
+"addonId": "50594384"
+},
+{
+"groupId": "63379117",
+"addonId": "50594388"
+},
+{
+"groupId": "63379117",
+"addonId": "50594390"
+},
+{
+"groupId": "63379117",
+"addonId": "50594392"
+},
+{
+"groupId": "63379117",
+"addonId": "50594393"
+},
+{
+"groupId": "63379117",
+"addonId": "50594394"
+},
+{
+"groupId": "63379109",
+"addonId": "50594409"
+},
+{
+"groupId": "63379115",
+"addonId": "50594383"
+},
+{
+"groupId": "63379112",
+"addonId": "50594408"
+},
+{
+"groupId": "63379112",
+"addonId": "50594411"
+},
+{
+"groupId": "63379112",
+"addonId": "50594398"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379109",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594409",
+"name": "Extra Paneer",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379112",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594408",
+"name": "Extra Pesto",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594411",
+"name": "Extra Red Capsicum & Eggplant",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379115",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379117",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 36500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "275 ratings",
+"ratingCountV2": "275"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663062",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60138695",
+"name": "Melted Caprese Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Broiled tomatoes, basil pesto, melted mozzarella.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/8fc8f148-413c-4caf-ae6f-d737efa4ddcc_eb05badb-69e9-4c68-8711-0ab1f284c6eb.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821336",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537480",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537481",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537482",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712563",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "65537480"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "65537481"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "65537482"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821336",
+"variationId": "213712563"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379400",
+"addonId": "50594384"
+},
+{
+"groupId": "63379400",
+"addonId": "50594388"
+},
+{
+"groupId": "63379400",
+"addonId": "50594390"
+},
+{
+"groupId": "63379400",
+"addonId": "50594392"
+},
+{
+"groupId": "63379400",
+"addonId": "50594393"
+},
+{
+"groupId": "63379400",
+"addonId": "50594394"
+},
+{
+"groupId": "63379398",
+"addonId": "50594383"
+},
+{
+"groupId": "63379397",
+"addonId": "50594408"
+},
+{
+"groupId": "63379397",
+"addonId": "50594404"
+},
+{
+"groupId": "63379397",
+"addonId": "50594454"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379397",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594408",
+"name": "Extra Pesto",
+"price": 8500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594454",
+"name": "Extra Broiled Tomatoes",
+"price": 9000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379398",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379400",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "137 ratings",
+"ratingCountV2": "137"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663042",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182393366",
+"name": "Tofu Bulgogi Sandwich - New Launch",
+"category": "Sandwiches",
+"description": "Serves 1 | Grilled thinly sliced tofu, Korean sticky sauce, cucumber, jalapenos, spring onions, cilantro, sriracha mayo.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/12/f000fa80-c0cc-43cc-876f-6723bffa5c6f_392c1da7-3892-4d42-bab0-0cff4ade749a.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66083515",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "200059174",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "200059175",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "200059176",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712573",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66083515",
+"variationId": "200059174"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "243079376",
+"addonId": "50594384"
+},
+{
+"groupId": "243079376",
+"addonId": "50594388"
+},
+{
+"groupId": "243079376",
+"addonId": "50594390"
+},
+{
+"groupId": "243079376",
+"addonId": "50594392"
+},
+{
+"groupId": "243079376",
+"addonId": "50594393"
+},
+{
+"groupId": "243079376",
+"addonId": "50594394"
+},
+{
+"groupId": "243079374",
+"addonId": "50594429"
+},
+{
+"groupId": "243079375",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66083515",
+"variationId": "200059175"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "243079376",
+"addonId": "50594384"
+},
+{
+"groupId": "243079376",
+"addonId": "50594388"
+},
+{
+"groupId": "243079376",
+"addonId": "50594390"
+},
+{
+"groupId": "243079376",
+"addonId": "50594392"
+},
+{
+"groupId": "243079376",
+"addonId": "50594393"
+},
+{
+"groupId": "243079376",
+"addonId": "50594394"
+},
+{
+"groupId": "243079374",
+"addonId": "50594429"
+},
+{
+"groupId": "243079375",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66083515",
+"variationId": "200059176"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "243079376",
+"addonId": "50594384"
+},
+{
+"groupId": "243079376",
+"addonId": "50594388"
+},
+{
+"groupId": "243079376",
+"addonId": "50594390"
+},
+{
+"groupId": "243079376",
+"addonId": "50594392"
+},
+{
+"groupId": "243079376",
+"addonId": "50594393"
+},
+{
+"groupId": "243079376",
+"addonId": "50594394"
+},
+{
+"groupId": "243079374",
+"addonId": "50594429"
+},
+{
+"groupId": "243079375",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66083515",
+"variationId": "213712573"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "243079376",
+"addonId": "50594384"
+},
+{
+"groupId": "243079376",
+"addonId": "50594388"
+},
+{
+"groupId": "243079376",
+"addonId": "50594390"
+},
+{
+"groupId": "243079376",
+"addonId": "50594392"
+},
+{
+"groupId": "243079376",
+"addonId": "50594393"
+},
+{
+"groupId": "243079376",
+"addonId": "50594394"
+},
+{
+"groupId": "243079374",
+"addonId": "50594429"
+},
+{
+"groupId": "243079375",
+"addonId": "50594383"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "243079374",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "243079375",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "243079376",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "110490763",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775948",
+"name": "Soya Sloppy Joe Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Soya granules in tomato salsa, cheese, mustard, red cabbage, lettuce and onions.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/e31ee2ec-e781-4511-b419-2e36eda7d0a7_d803b35f-e6d5-4b8d-9b8f-9d200d3ca3b4.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821274",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537300",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537301",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537302",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712568",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821274",
+"variationId": "65537300"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379135",
+"addonId": "50594384"
+},
+{
+"groupId": "63379135",
+"addonId": "50594388"
+},
+{
+"groupId": "63379135",
+"addonId": "50594390"
+},
+{
+"groupId": "63379135",
+"addonId": "50594392"
+},
+{
+"groupId": "63379135",
+"addonId": "50594393"
+},
+{
+"groupId": "63379135",
+"addonId": "50594394"
+},
+{
+"groupId": "63379133",
+"addonId": "50594383"
+},
+{
+"groupId": "63379130",
+"addonId": "50594382"
+},
+{
+"groupId": "63379130",
+"addonId": "50594398"
+},
+{
+"groupId": "63379130",
+"addonId": "50594417"
+},
+{
+"groupId": "63379130",
+"addonId": "50594418"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821274",
+"variationId": "65537301"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379135",
+"addonId": "50594384"
+},
+{
+"groupId": "63379135",
+"addonId": "50594388"
+},
+{
+"groupId": "63379135",
+"addonId": "50594390"
+},
+{
+"groupId": "63379135",
+"addonId": "50594392"
+},
+{
+"groupId": "63379135",
+"addonId": "50594393"
+},
+{
+"groupId": "63379135",
+"addonId": "50594394"
+},
+{
+"groupId": "63379133",
+"addonId": "50594383"
+},
+{
+"groupId": "63379130",
+"addonId": "50594382"
+},
+{
+"groupId": "63379130",
+"addonId": "50594398"
+},
+{
+"groupId": "63379130",
+"addonId": "50594417"
+},
+{
+"groupId": "63379130",
+"addonId": "50594418"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821274",
+"variationId": "65537302"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379135",
+"addonId": "50594384"
+},
+{
+"groupId": "63379135",
+"addonId": "50594388"
+},
+{
+"groupId": "63379135",
+"addonId": "50594390"
+},
+{
+"groupId": "63379135",
+"addonId": "50594392"
+},
+{
+"groupId": "63379135",
+"addonId": "50594393"
+},
+{
+"groupId": "63379135",
+"addonId": "50594394"
+},
+{
+"groupId": "63379133",
+"addonId": "50594383"
+},
+{
+"groupId": "63379130",
+"addonId": "50594382"
+},
+{
+"groupId": "63379130",
+"addonId": "50594398"
+},
+{
+"groupId": "63379130",
+"addonId": "50594417"
+},
+{
+"groupId": "63379130",
+"addonId": "50594418"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821274",
+"variationId": "213712568"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379135",
+"addonId": "50594384"
+},
+{
+"groupId": "63379135",
+"addonId": "50594388"
+},
+{
+"groupId": "63379135",
+"addonId": "50594390"
+},
+{
+"groupId": "63379135",
+"addonId": "50594392"
+},
+{
+"groupId": "63379135",
+"addonId": "50594393"
+},
+{
+"groupId": "63379135",
+"addonId": "50594394"
+},
+{
+"groupId": "63379133",
+"addonId": "50594383"
+},
+{
+"groupId": "63379130",
+"addonId": "50594382"
+},
+{
+"groupId": "63379130",
+"addonId": "50594398"
+},
+{
+"groupId": "63379130",
+"addonId": "50594417"
+},
+{
+"groupId": "63379130",
+"addonId": "50594418"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379130",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594418",
+"name": "Extra Sour Cream",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 4,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379133",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379135",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "44 ratings",
+"ratingCountV2": "44"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663071",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60138694",
+"name": "Roasted Cauliflower Banh Mi Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Roasted lemongrass-marinated cauliflower, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/5e139e34-e7bd-4abc-aa26-1c30e30a5b43_34db74d5-0210-4839-be19-639d63de23f5.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821333",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537471",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537472",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537473",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712571",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821333",
+"variationId": "65537471"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379389",
+"addonId": "50594384"
+},
+{
+"groupId": "63379389",
+"addonId": "50594388"
+},
+{
+"groupId": "63379389",
+"addonId": "50594390"
+},
+{
+"groupId": "63379389",
+"addonId": "50594392"
+},
+{
+"groupId": "63379389",
+"addonId": "50594393"
+},
+{
+"groupId": "63379389",
+"addonId": "50594394"
+},
+{
+"groupId": "63379382",
+"addonId": "50594381"
+},
+{
+"groupId": "63379382",
+"addonId": "50594382"
+},
+{
+"groupId": "63379383",
+"addonId": "50594383"
+},
+{
+"groupId": "63379380",
+"addonId": "50594453"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821333",
+"variationId": "65537472"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379389",
+"addonId": "50594384"
+},
+{
+"groupId": "63379389",
+"addonId": "50594388"
+},
+{
+"groupId": "63379389",
+"addonId": "50594390"
+},
+{
+"groupId": "63379389",
+"addonId": "50594392"
+},
+{
+"groupId": "63379389",
+"addonId": "50594393"
+},
+{
+"groupId": "63379389",
+"addonId": "50594394"
+},
+{
+"groupId": "63379382",
+"addonId": "50594381"
+},
+{
+"groupId": "63379382",
+"addonId": "50594382"
+},
+{
+"groupId": "63379383",
+"addonId": "50594383"
+},
+{
+"groupId": "63379380",
+"addonId": "50594453"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821333",
+"variationId": "65537473"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379389",
+"addonId": "50594384"
+},
+{
+"groupId": "63379389",
+"addonId": "50594388"
+},
+{
+"groupId": "63379389",
+"addonId": "50594390"
+},
+{
+"groupId": "63379389",
+"addonId": "50594392"
+},
+{
+"groupId": "63379389",
+"addonId": "50594393"
+},
+{
+"groupId": "63379389",
+"addonId": "50594394"
+},
+{
+"groupId": "63379382",
+"addonId": "50594381"
+},
+{
+"groupId": "63379382",
+"addonId": "50594382"
+},
+{
+"groupId": "63379383",
+"addonId": "50594383"
+},
+{
+"groupId": "63379380",
+"addonId": "50594453"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821333",
+"variationId": "213712571"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379389",
+"addonId": "50594384"
+},
+{
+"groupId": "63379389",
+"addonId": "50594388"
+},
+{
+"groupId": "63379389",
+"addonId": "50594390"
+},
+{
+"groupId": "63379389",
+"addonId": "50594392"
+},
+{
+"groupId": "63379389",
+"addonId": "50594393"
+},
+{
+"groupId": "63379389",
+"addonId": "50594394"
+},
+{
+"groupId": "63379382",
+"addonId": "50594381"
+},
+{
+"groupId": "63379382",
+"addonId": "50594382"
+},
+{
+"groupId": "63379383",
+"addonId": "50594383"
+},
+{
+"groupId": "63379380",
+"addonId": "50594453"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379380",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594453",
+"name": "Extra Cauliflower",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379382",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379383",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379389",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "46 ratings",
+"ratingCountV2": "46"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663070",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "38066304",
+"name": "Mushrooms in Garlic Mojo Sandwich",
+"category": "Sandwiches",
+"description": "Serves 1 | Sauteed mushrooms, mozzarella cheese, roasted garlic mojo, jalapeno, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/dc62eb67-4129-4fbf-b379-83e49f763efa_17582f45-78de-4c95-80d0-6edeb5545086.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821265",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537273",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537274",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537275",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712566",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "65537273"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "65537274"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "65537275"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821265",
+"variationId": "213712566"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379087",
+"addonId": "50594384"
+},
+{
+"groupId": "63379087",
+"addonId": "50594388"
+},
+{
+"groupId": "63379087",
+"addonId": "50594390"
+},
+{
+"groupId": "63379087",
+"addonId": "50594392"
+},
+{
+"groupId": "63379087",
+"addonId": "50594393"
+},
+{
+"groupId": "63379087",
+"addonId": "50594394"
+},
+{
+"groupId": "63379084",
+"addonId": "50594383"
+},
+{
+"groupId": "63379083",
+"addonId": "50594398"
+},
+{
+"groupId": "63379083",
+"addonId": "50594404"
+},
+{
+"groupId": "63379079",
+"addonId": "50594403"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379079",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379083",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379084",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379087",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "180 ratings",
+"ratingCountV2": "180"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663055",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854237"
+}
+],
+"image": "13219187d703fa2854a9e525bbb846f5",
+"categoryId": "26854227"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Appetizers",
+"categories": [
+{
+"title": "Veg Appetizers",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953766",
+"name": "Mexican Style Grilled Corn",
+"category": "Appetizers",
+"description": "Serves 1 | A Mexican classic. Sweet corn on the cob with cheese and chilli powder.",
+"imageId": "82b7e0dcdecf5e3e7013dcfe54c2512e",
+"inStock": 1,
+"isVeg": 1,
+"price": 28000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "13 ratings",
+"ratingCountV2": "13"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "92705802",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953757",
+"name": "Veg Nachos",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/c55e3828-22ec-4a32-a7d2-b59bd98a5cdf_74f48ecf-4bc8-4bae-b2f6-b87566db5208.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 44500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "12 ratings",
+"ratingCountV2": "12"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "74011644",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953759",
+"name": "Soyrizo Nachos (Spicy)",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/90f19896-9ef8-47c9-ae84-3808a75c450d_6d0399e1-6c57-40e6-bd1a-327fc94a5cd5.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 48000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "74395064",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953758",
+"name": "Mushroom Nachos",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/9255273e-ee6d-4b9a-aa10-6177057fd059_157592a1-39c9-46bd-8b15-c94df52678d8.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 48000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663052",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953769",
+"name": "Veg Quesadilla (Cheese, Onions & Spring Onions)",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/585411a0-00bc-455d-a595-4df1baf80528_b78401cb-b578-41be-8731-43e4e2a9222f.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 31000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.1",
+"ratingCount": "28 ratings",
+"ratingCountV2": "28"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "81393480",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953775",
+"name": "Soyrizo Quesadilla (Spicy)",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/c473e12b-f908-4b06-8510-440e76b8a5e0_ab29d11b-4a34-4fb0-ad13-636f75a83f3b.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663072",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "73637910",
+"name": "Tortilla Chips & Salsa",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips with spicy roasted tomato salsa and pico de gallo (fresh salsa made of tomato, onion, lime, chilli & cilantro).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/c8005361-7e05-4a48-9e05-c3796b95fe68_11dae9f9-555a-415e-acbe-c7f4679f4da2.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 30000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "41 ratings",
+"ratingCountV2": "41"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663081",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953773",
+"name": "Mushroom Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/bf9a5e7d-bdf7-43e7-b925-717cbb5a2847_f5efded1-6247-43d2-92d7-23e05f452360.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663054",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953770",
+"name": "Corn & Green Pepper Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/91904a6b-9bee-4fe4-9b4a-f087d574954f_aaef187a-a7d8-4afd-b005-49448997b0be.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.8",
+"ratingCount": "13 ratings",
+"ratingCountV2": "13"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663035",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "98986416",
+"name": "Plain Cheese Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/7068b6ca-780e-4377-9c4a-aeb79adcd396_cdd0c205-cb23-462c-b319-6fb2cbaebbd8.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 31000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "12 ratings",
+"ratingCountV2": "12"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73703818",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854249"
+},
+{
+"title": "Non-Veg Appetizers",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953777",
+"name": "Chicken Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/f4059a77-8a0d-4e4a-b6b9-bb97b5f07d76_854538aa-cdb2-4ced-8d07-45854112e963.jpg_compressed",
+"inStock": 1,
+"price": 38000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "52 ratings",
+"ratingCountV2": "52"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663031",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953762",
+"name": "Buff Nachos",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/74a14a28-6e13-4966-b51b-dd2950c2635e_5c132416-17de-4dd0-93c2-7f7bfe7a1cf8.jpg_compressed",
+"inStock": 1,
+"price": 55500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99468438",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953760",
+"name": "Chicken Nachos",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/80e7463c-8a8a-47b1-a16d-55264467cde1_ee4503c9-6d1e-4fad-b3c1-e6019dfc4914.jpg_compressed",
+"inStock": 1,
+"price": 49500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73703816",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953761",
+"name": "Braised Pork Nachos",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/3c49ae81-082b-4a1a-959d-a5c1d86e40e3_8f2dbe86-3d96-4728-a8e3-c3e5af0abdca.jpg_compressed",
+"inStock": 1,
+"price": 52500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963415",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953763",
+"name": "Prawns Nachos",
+"category": "Appetizers",
+"description": "Serves 1 | Authentic masa corn tortilla chips topped with melted cheese, beans, salsa, sour cream and jalapeno.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/408b2350-5a7d-4cd5-867b-caf123e3c138_c069a29d-0d84-40d3-a0be-d50e190ae586.jpg_compressed",
+"inStock": 1,
+"price": 52000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.7",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "74815741",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953780",
+"name": "Buff Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/d7bec059-ca0a-4013-adf0-c26f12730bed_c7008cf3-d409-4d65-871f-471a3fde84f5.jpg_compressed",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99468439",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953788",
+"name": "Prawns Quesadilla",
+"category": "Appetizers",
+"description": "Serves 1 | Grilled flour tortilla stuffed with cheese, onions and spring onions. Served with spicy, roasted tomato salsa and sour cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/d1935aa4-bc7b-45ac-a1b9-b7bfe4276bf4_19346f00-f676-454e-82b3-168f72da194a.jpg_compressed",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663065",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854250"
+}
+],
+"image": "82b7e0dcdecf5e3e7013dcfe54c2512e",
+"categoryId": "26854234"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Salads",
+"categories": [
+{
+"title": "Non-Veg Salads",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524733",
+"name": "Chicken Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/694aa1f6-d06a-40e1-bfed-a49115228e20_4317d1d7-1f38-4bc4-a5a7-1585b91021ff.jpg_compressed",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379238",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379239",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379241",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "261 ratings",
+"ratingCountV2": "261"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663033",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524713",
+"name": "Chicken Thai Crunch Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, pickled carrots & radish, fresh herbs, roasted peanuts, crispy rice sticks, Thai peanut dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/ddc1fb26-8b1c-4194-a4c8-7057c9c20c0e_76fb8500-4145-4a8a-9a13-7051d91d4f58.jpg_compressed",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379228",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379229",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379230",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "138 ratings",
+"ratingCountV2": "138"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663032",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775950",
+"name": "Carnitas Pork Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/0a43b710-fb13-4453-96c7-a58fbcaa3b21_ebdb6527-32d6-451f-b1b6-db6f1f9b4dfe.jpg_compressed",
+"inStock": 1,
+"price": 45000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379217",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594442",
+"name": "Extra Carnitas",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379218",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379220",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "23 ratings",
+"ratingCountV2": "23"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663028",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524735",
+"name": "Buff Thai Crunch Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, pickled carrots & radish, fresh herbs, roasted peanuts, crispy rice sticks, Thai peanut dressing. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/52764302-0bfa-44bb-b7d5-e355944b6226_f12b8bbe-d93e-4015-83b8-b88215a6d178.jpg_compressed",
+"inStock": 1,
+"price": 45000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379192",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594433",
+"name": "Extra Buff [Imported Buff]",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379194",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379198",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99468440",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775952",
+"name": "Prawns Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/6cc827fb-7266-459d-a8e1-8e728e162bbb_34357123-6c9b-4836-905c-32f139dc3daa.jpg_compressed",
+"inStock": 1,
+"price": 44500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379288",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594414",
+"name": "Extra Prawns",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379290",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379292",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.4",
+"ratingCount": "14 ratings",
+"ratingCountV2": "14"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663066",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59775951",
+"name": "Prawns Thai Crunch Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, pickled carrots & radish, fresh herbs, roasted peanuts, crispy rice sticks, Thai peanut dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/b1ccc949-702b-414f-a093-d030cc536a0f_ee14532d-d226-453b-b914-7031e09eb7b9.jpg_compressed",
+"inStock": 1,
+"price": 44500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379281",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594414",
+"name": "Extra Prawns",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379282",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379283",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73703819",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524708",
+"name": "Buff Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette. [Imported Buff]",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/adbac993-0a88-4a9b-879c-545b445b7389_c013f29b-2a12-482e-bf51-2a29397939d6.jpg_compressed",
+"inStock": 1,
+"price": 45000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379206",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594433",
+"name": "Extra Buff [Imported Buff]",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379208",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379210",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "20 ratings",
+"ratingCountV2": "20"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99468441",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854239"
+},
+{
+"title": "Veg Salads",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524710",
+"name": "Paneer Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette.",
+"imageId": "2042957e8ea5ddf71ca9a6f0af7dd586",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379273",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594409",
+"name": "Extra Paneer",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379275",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379276",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "89 ratings",
+"ratingCountV2": "89"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663059",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524737",
+"name": "Paneer Thai Crunch Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, pickled carrots & radish, fresh herbs, roasted peanuts, crispy rice sticks, Thai peanut dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/0acc28bc-37be-4e5b-8a56-1642cd18fd07_dc95eb04-56ad-471c-aa75-41dbb43e0f32.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379266",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594409",
+"name": "Extra Paneer",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379267",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379270",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "19 ratings",
+"ratingCountV2": "19"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663058",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524704",
+"name": "Mushroom Tortilla Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, queso fresco, spring onions, cilantro, tortilla crisps, jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/47c59e30-935d-4bc4-bd55-96cb386c7ffb_1e529a68-0050-47c2-bed8-810e31ef0f9c.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379256",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379257",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379259",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "62 ratings",
+"ratingCountV2": "62"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663056",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "41524734",
+"name": "Lemongrass Tofu Thai Crunch Salad",
+"category": "Salads",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, pickled carrots & radish, fresh herbs, roasted peanuts, crispy rice sticks, Thai peanut dressing.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/c0c5177d-9a73-4a3b-875c-bd20e46a9514_ef70087e-114d-4810-b3b8-196ce08718a7.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379246",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379248",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379250",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "58 ratings",
+"ratingCountV2": "58"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663041",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854238"
+}
+],
+"image": "2042957e8ea5ddf71ca9a6f0af7dd586",
+"categoryId": "26854230"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Mexican Style Pambazo Sandwiches",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551684",
+"name": "Grilled Chicken Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "02ee8a342458b9b89be632fefe188e40",
+"inStock": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "47 ratings",
+"ratingCountV2": "47"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963417",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551690",
+"name": "Grilled Paneer Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "c755463e87aa4883bf2d053c2a2acff6",
+"inStock": 1,
+"isVeg": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "58 ratings",
+"ratingCountV2": "58"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963418",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551695",
+"name": "Grilled Tenderloin Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "cee4521c82c65e1251bdaf7c41b16cfd",
+"inStock": 1,
+"price": 47000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "12 ratings",
+"ratingCountV2": "12"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963419",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551685",
+"name": "Spicy Chicken Tinga Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "4a8283df3176ea51ecee89cea511f753",
+"inStock": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "13 ratings",
+"ratingCountV2": "13"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963422",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551686",
+"name": "Braised Pork Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "8837058d464709a301d7b32d6f8fc79e",
+"inStock": 1,
+"price": 47000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "10 ratings",
+"ratingCountV2": "10"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963416",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551687",
+"name": "Mushroom Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "ab7861b022e5278f01d04ed706ab7d8c",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963421",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551689",
+"name": "Jackfruit Carne Asada Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "17498aed5af2091b405f2828ae499abf",
+"inStock": 1,
+"isVeg": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963420",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551688",
+"name": "Spicy Soyrizo Potato Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with cheese, queso fresco, pickled onions, jalapeno salsa, sour cream, lettuce & tomatoes",
+"imageId": "09db04d3e53950ac12a52c926e7f05c6",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "13 ratings",
+"ratingCountV2": "13"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963423",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551693",
+"name": "Vegan Jackfruit Carne Asada Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with mashed beans, vegan cheese, pickled onions, jalapeno salsa, lettuce & tomatoes",
+"imageId": "bb1a4be9881b3e5ac72fc9a47a5cede6",
+"inStock": 1,
+"isVeg": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963424",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551694",
+"name": "Vegan Tofu Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with mashed beans, vegan cheese, pickled onions, jalapeno salsa, lettuce & tomatoes",
+"imageId": "e872ba84772263557a868e2b40685064",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.5",
+"ratingCount": "9 ratings",
+"ratingCountV2": "9"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963428",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551691",
+"name": "Vegan Mushroom Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with mashed beans, vegan cheese, pickled onions, jalapeno salsa, lettuce & tomatoes",
+"imageId": "b6a40637176ff158bdd80fead1f7d1cb",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963425",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "127551692",
+"name": "Vegan Spicy Soyrizo Potato Pambazo Sandwich",
+"category": "Mexican Style Pambazo Sandwiches",
+"description": "Serves 1 | Baguette coated with red salsa and crisped to perfection stuffed with mashed beans, vegan cheese, pickled onions, jalapeno salsa, lettuce & tomatoes",
+"imageId": "8e6650765ee486bdb38bf3d6b37f863d",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "2.3",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963427",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "02ee8a342458b9b89be632fefe188e40",
+"categoryId": "42144778"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Pre-Plated Platters",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117020",
+"name": "Veg Platter 1 with Churros",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Mexican Style Grilled Corn + Pesto Paneer Sandwich + Mushroom Philly Cheesesteak Sandwich + Churros",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/931b7835-3a76-490d-8696-bcf7246c1312_93e19327-6c93-4486-a60f-83d262551b60.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 134500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640507",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117016",
+"name": "Non-Veg Platter 2",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Tortilla Chips & Salsa + Grilled Chicken & Cheese Sandwich + Chicken Banh Mi Sandwich",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/83abea4b-0c0f-44c0-b324-f83e5cd85965_62c62481-cc78-488d-9414-23ed6e399345.jpg_compressed",
+"inStock": 1,
+"price": 108000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640503",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117013",
+"name": "Non-Veg Platter 1",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Mexican Style Grilled Corn + Grilled Chicken & Cheese Sandwich + Chicken Banh Mi Sandwich",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/9d241ac7-73ce-40bf-8931-c0b6390cb48d_fe2eeb9e-bf23-4e1a-8c3f-c6f5b3f22cf5.jpg_compressed",
+"inStock": 1,
+"price": 106000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640500",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117022",
+"name": "Veg Platter 2",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Tortilla Chips & Salsa + Pesto Paneer Sandwich + Mushroom Philly Cheesesteak Sandwich",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/1a01ba4f-9002-469b-b6b7-9db80e766770_f1c0328e-b5f7-4ce7-8b3b-f259196927ca.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 103000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640509",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117019",
+"name": "Veg Platter 1",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Mexican Style Grilled Corn + Pesto Paneer Sandwich + Mushroom Philly Cheesesteak Sandwich",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/4955b08e-56d7-4dc9-9207-fe8492d244e2_18c364fb-bbde-4343-94c7-dfa7290dd140.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 101000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640506",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117014",
+"name": "Non-Veg Platter 1 with Churros",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Mexican Style Grilled Corn + Grilled Chicken & Cheese Sandwich + Chicken Banh Mi Sandwich + Churros",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/7a6e6155-c91d-45f3-a098-ac44c33f4b6d_13a0ed6f-6d4c-438d-bd72-3e9acc24e95c.jpg_compressed",
+"inStock": 1,
+"price": 139500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640501",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117015",
+"name": "Non-Veg Platter 1 with Churros & Drinks",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Mexican Style Grilled Corn + Grilled Chicken & Cheese Sandwich + Chicken Banh Mi Sandwich + Churros + Iced Coffee + Virgin Margarita",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/ab70ce0e-252d-46e2-9f1e-5d0305ddac8c_a2afc1db-7fa2-45ab-ba84-69cb962fc137.jpg_compressed",
+"inStock": 1,
+"price": 179000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640502",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117017",
+"name": "Non-Veg Platter 2 with Churros",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Tortilla Chips & Salsa + Grilled Chicken & Cheese Sandwich + Chicken Banh Mi Sandwich + Churros",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/42435eb2-078c-415c-a930-a06d1913a52c_f93a41d4-ecc9-48fa-8207-618bb2d23ffc.jpg_compressed",
+"inStock": 1,
+"price": 141500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640504",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117018",
+"name": "Non-Veg Platter 2 with Churros & Drinks",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Tortilla Chips & Salsa + Grilled Chicken & Cheese Sandwich + Chicken Banh Mi Sandwich + Churros + Iced Coffee + Virgin Margarita",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/967e5949-c671-4605-920b-bd966d9e473b_9f7ec7ad-7e35-4646-af8e-c525233e5adf.jpg_compressed",
+"inStock": 1,
+"price": 181000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640505",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117021",
+"name": "Veg Platter 1 with Churros & Drinks",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Mexican Style Grilled Corn + Pesto Paneer Sandwich + Mushroom Philly Cheesesteak Sandwich + Churros + Iced Coffee + Virgin Margarita",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/034bfb91-cee9-444d-ab61-aaeec065d74a_e074cbfe-8900-4b73-a065-5e07f46c4955.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 174000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640508",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117023",
+"name": "Veg Platter 2 with Churros",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Tortilla Chips & Salsa + Pesto Paneer Sandwich + Mushroom Philly Cheesesteak Sandwich + Churros",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/dfffd0d8-4cc4-4046-92f4-2fde44a3e055_57f864f0-8ead-4379-8162-e31091351b38.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 136500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640510",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "158117024",
+"name": "Veg Platter 2 with Churros & Drinks",
+"category": "Pre-Plated Platters",
+"description": "Serves 1 | Tortilla Chips & Salsa + Pesto Paneer Sandwich + Mushroom Philly Cheesesteak Sandwich + Churros + Iced Coffee + Virgin Margarita",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/7cccc084-4e0d-4ceb-bff9-e12639a2be91_a55c3b11-6489-4e77-9ee6-d6efdf6680d0.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 176000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "94640511",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/2/5/931b7835-3a76-490d-8696-bcf7246c1312_93e19327-6c93-4486-a60f-83d262551b60.jpg_compressed",
+"categoryId": "56440559"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Grilled Wraps",
+"categories": [
+{
+"title": "Non-Veg Grilled Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128892",
+"name": "Chicken, Mushroom & Mojo Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with grilled chicken, pan-fried mushroom, roasted garlic mojo, cheese and lettuce.",
+"imageId": "acc5c693ff3673c5431888de6d404614",
+"inStock": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379632",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379634",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379636",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379638",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "143 ratings",
+"ratingCountV2": "143"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663030",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128894",
+"name": "Steak, Charred Scallion & Slaw Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with grilled thinly sliced steak, charred scallions, red cabbage slaw and cheese.",
+"imageId": "0cd216c06149fb9d382c5e283f7a1465",
+"inStock": 1,
+"price": 47000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379640",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594483",
+"name": "Extra Steak",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379642",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594487",
+"name": "Extra Charred Scallions",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379644",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379645",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "80 ratings",
+"ratingCountV2": "80"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663076",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "77649324",
+"name": "Spicy Garlic Shrimp Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with garlicky grilled prawns, cheese, cherry tomatoes, cucumbers and lettuce.",
+"imageId": "285dcf4e50ca61e094b6f0d57a9bc287",
+"inStock": 1,
+"price": 42500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379684",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594499",
+"name": "Extra Shrimp",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379685",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379686",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379688",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "38 ratings",
+"ratingCountV2": "38"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663075",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "77649323",
+"name": "Pulled Pork, Pineapple & Slaw Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with pulled pork, pineapple, red cabbage slaw, remoulade and cheese.",
+"imageId": "d98415c966f4d5fc703fe781f88f39bd",
+"inStock": 1,
+"price": 47000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379680",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594448",
+"name": "Extra Pulled Pork",
+"price": 16500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379681",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594491",
+"name": "Extra Pineapple Salsa",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379682",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379683",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594385",
+"name": "Flan",
+"price": 31500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594387",
+"name": "Rich Chocolate Fudge Cake",
+"price": 33500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 8,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "26 ratings",
+"ratingCountV2": "26"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663068",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854251"
+},
+{
+"title": "Veg Grilled Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "77649325",
+"name": "Mushroom, Cheese & Spinach Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with mushroom, parmesan, mozzarella, cheddar, spinach, pickled onions and jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/ac833635-1731-486c-92df-c254d06b45f6_37e110fc-426c-4900-a0bb-22cf5b3624f7.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379691",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379692",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594500",
+"name": "Extra Spinach",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379693",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379694",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "50 ratings",
+"ratingCountV2": "50"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663051",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128896",
+"name": "Spicy Cauliflower Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with roasted cauliflower, parmesan, roasted chilly flakes, caramelized onions, melted mozzarella and lettuce.",
+"imageId": "8b4ccc827f4ef2070152d280bc956014",
+"inStock": 1,
+"isVeg": 1,
+"price": 38000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379649",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594453",
+"name": "Extra Cauliflower",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379653",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594420",
+"name": "Extra Caramelized Onions",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594417",
+"name": "Extra Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 4,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379656",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379658",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "24 ratings",
+"ratingCountV2": "24"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663073",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128897",
+"name": "Lemongrass Tofu & Peanut Grilled Wrap",
+"category": "Grilled Wraps",
+"description": "Serves 1 | Grilled wrap with grilled lemongrass-marinated tofu, pickled radish & carrot, crispy rice noodles, sriracha and lettuce.",
+"imageId": "8878dd861b10d34fbe6b4a21b756f08f",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379669",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379670",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379672",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379673",
+"groupName": "Make Your Meal More Exciting!",
+"choices": [
+{
+"id": "50594384",
+"name": "Churros",
+"price": 33500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594388",
+"name": "Tortilla Chips & Salsa",
+"price": 30000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594390",
+"name": "Iced Lime Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594392",
+"name": "Iced Coffee",
+"price": 20000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594393",
+"name": "Virgin Margarita",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594394",
+"name": "Orange Iced Tea",
+"price": 19500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "27 ratings",
+"ratingCountV2": "27"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663040",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854252"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/ac833635-1731-486c-92df-c254d06b45f6_37e110fc-426c-4900-a0bb-22cf5b3624f7.jpg_compressed",
+"categoryId": "26854235"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Vegan",
+"categories": [
+{
+"title": "Vegan Sandwiches",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "68777486",
+"name": "Vegan Mushroom Philly Cheesesteak Sandwich",
+"category": "Vegan",
+"description": "Serves 1 | Pan-fried mushroom, vegan cheese, grilled onions, green peppers, garlic oil.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/83a91d91-ce00-45f4-a1a6-cde4f1a52a46_5f66979f-1a84-407e-bac2-2213ecd5d62a.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821402",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 365,
+"default": 1,
+"id": "65537674",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 395,
+"id": "65537675",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 400,
+"id": "65537676",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 395,
+"id": "213712570",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821402",
+"variationId": "65537674"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "63379629",
+"addonId": "50594383"
+},
+{
+"groupId": "63379622",
+"addonId": "50594403"
+},
+{
+"groupId": "63379625",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821402",
+"variationId": "65537675"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379629",
+"addonId": "50594383"
+},
+{
+"groupId": "63379622",
+"addonId": "50594403"
+},
+{
+"groupId": "63379625",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821402",
+"variationId": "65537676"
+}
+],
+"price": 40000,
+"addonCombinations": [
+{
+"groupId": "63379629",
+"addonId": "50594383"
+},
+{
+"groupId": "63379622",
+"addonId": "50594403"
+},
+{
+"groupId": "63379625",
+"addonId": "50594421"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821402",
+"variationId": "213712570"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "63379629",
+"addonId": "50594383"
+},
+{
+"groupId": "63379622",
+"addonId": "50594403"
+},
+{
+"groupId": "63379625",
+"addonId": "50594421"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379622",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379625",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594421",
+"name": "Extra Green Pepper",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379629",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 36500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "34 ratings",
+"ratingCountV2": "34"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663086",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60019285",
+"name": "Vegan Tofu Banh Mi Sandwich",
+"category": "Vegan",
+"description": "Serves 1 | Baked lemongrass marinated tofu, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/cbd4bc2c-0c00-49cc-8d80-44a53465d79a_72aa6448-3dda-4837-9dff-a718e0d006cd.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821320",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537432",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537433",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537434",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712567",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821320",
+"variationId": "65537432"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379344",
+"addonId": "50594381"
+},
+{
+"groupId": "63379344",
+"addonId": "50594382"
+},
+{
+"groupId": "63379342",
+"addonId": "50594429"
+},
+{
+"groupId": "63379347",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821320",
+"variationId": "65537433"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379344",
+"addonId": "50594381"
+},
+{
+"groupId": "63379344",
+"addonId": "50594382"
+},
+{
+"groupId": "63379342",
+"addonId": "50594429"
+},
+{
+"groupId": "63379347",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821320",
+"variationId": "65537434"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379344",
+"addonId": "50594381"
+},
+{
+"groupId": "63379344",
+"addonId": "50594382"
+},
+{
+"groupId": "63379342",
+"addonId": "50594429"
+},
+{
+"groupId": "63379347",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821320",
+"variationId": "213712567"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379344",
+"addonId": "50594381"
+},
+{
+"groupId": "63379344",
+"addonId": "50594382"
+},
+{
+"groupId": "63379342",
+"addonId": "50594429"
+},
+{
+"groupId": "63379347",
+"addonId": "50594383"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379342",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379344",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379347",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "44 ratings",
+"ratingCountV2": "44"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663090",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60019286",
+"name": "Vegan Soya Sloppy Joe Sandwich",
+"category": "Vegan",
+"description": "Serves 1 | Soya granules in tomato salsa, vegan cheese, mustard, red cabbage, lettuce and onions.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/e31ee2ec-e781-4511-b419-2e36eda7d0a7_d803b35f-e6d5-4b8d-9b8f-9d200d3ca3b4.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821323",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537441",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537443",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537446",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712582",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821323",
+"variationId": "65537441"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379352",
+"addonId": "50594382"
+},
+{
+"groupId": "63379352",
+"addonId": "50594398"
+},
+{
+"groupId": "63379355",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821323",
+"variationId": "65537443"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379352",
+"addonId": "50594382"
+},
+{
+"groupId": "63379352",
+"addonId": "50594398"
+},
+{
+"groupId": "63379355",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821323",
+"variationId": "65537446"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379352",
+"addonId": "50594382"
+},
+{
+"groupId": "63379352",
+"addonId": "50594398"
+},
+{
+"groupId": "63379355",
+"addonId": "50594383"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821323",
+"variationId": "213712582"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379352",
+"addonId": "50594382"
+},
+{
+"groupId": "63379352",
+"addonId": "50594398"
+},
+{
+"groupId": "63379355",
+"addonId": "50594383"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379352",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379355",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73739625",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60138696",
+"name": "Vegan Roasted Cauliflower Banh Mi Sandwich",
+"category": "Vegan",
+"description": "Serves 1 | Roasted lemongrass-marinated cauliflower, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/5e139e34-e7bd-4abc-aa26-1c30e30a5b43_34db74d5-0210-4839-be19-639d63de23f5.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821340",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537492",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537493",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537494",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712580",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821340",
+"variationId": "65537492"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379410",
+"addonId": "50594381"
+},
+{
+"groupId": "63379410",
+"addonId": "50594382"
+},
+{
+"groupId": "63379412",
+"addonId": "50594383"
+},
+{
+"groupId": "63379408",
+"addonId": "50594453"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821340",
+"variationId": "65537493"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379410",
+"addonId": "50594381"
+},
+{
+"groupId": "63379410",
+"addonId": "50594382"
+},
+{
+"groupId": "63379412",
+"addonId": "50594383"
+},
+{
+"groupId": "63379408",
+"addonId": "50594453"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821340",
+"variationId": "65537494"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379410",
+"addonId": "50594381"
+},
+{
+"groupId": "63379410",
+"addonId": "50594382"
+},
+{
+"groupId": "63379412",
+"addonId": "50594383"
+},
+{
+"groupId": "63379408",
+"addonId": "50594453"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821340",
+"variationId": "213712580"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379410",
+"addonId": "50594381"
+},
+{
+"groupId": "63379410",
+"addonId": "50594382"
+},
+{
+"groupId": "63379412",
+"addonId": "50594383"
+},
+{
+"groupId": "63379408",
+"addonId": "50594453"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379408",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594453",
+"name": "Extra Cauliflower",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379410",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379412",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663089",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60019287",
+"name": "Vegan Mushrooms in Garlic Mojo Sandwich",
+"category": "Vegan",
+"description": "Serves 1 | Sauteed mushrooms, vegan cheese, roasted garlic mojo, jalapeno, lettuce and tomatoes.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/ebd5ddcf-adbc-422e-be77-54929580df40_9001a9aa-171c-4938-a4ef-1bf28233a741.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821327",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 355,
+"default": 1,
+"id": "65537453",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 385,
+"id": "65537454",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 390,
+"id": "65537455",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 385,
+"id": "213712581",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821327",
+"variationId": "65537453"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "63379365",
+"addonId": "50594383"
+},
+{
+"groupId": "63379363",
+"addonId": "50594382"
+},
+{
+"groupId": "63379363",
+"addonId": "50594398"
+},
+{
+"groupId": "63379360",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821327",
+"variationId": "65537454"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379365",
+"addonId": "50594383"
+},
+{
+"groupId": "63379363",
+"addonId": "50594382"
+},
+{
+"groupId": "63379363",
+"addonId": "50594398"
+},
+{
+"groupId": "63379360",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821327",
+"variationId": "65537455"
+}
+],
+"price": 39000,
+"addonCombinations": [
+{
+"groupId": "63379365",
+"addonId": "50594383"
+},
+{
+"groupId": "63379363",
+"addonId": "50594382"
+},
+{
+"groupId": "63379363",
+"addonId": "50594398"
+},
+{
+"groupId": "63379360",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "19821327",
+"variationId": "213712581"
+}
+],
+"price": 38500,
+"addonCombinations": [
+{
+"groupId": "63379365",
+"addonId": "50594383"
+},
+{
+"groupId": "63379363",
+"addonId": "50594382"
+},
+{
+"groupId": "63379363",
+"addonId": "50594398"
+},
+{
+"groupId": "63379360",
+"addonId": "50594403"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "63379360",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379363",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379365",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 35500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "18 ratings",
+"ratingCountV2": "18"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663087",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854240"
+},
+{
+"title": "Vegan Grilled Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128898",
+"name": "Vegan Spicy Cauliflower Grilled Wrap",
+"category": "Vegan",
+"description": "Serves 1 | Grilled wrap with roasted cauliflower, roasted chilly flakes, caramelized onions, melted vegan cheese and lettuce.",
+"imageId": "ba76bb3c4332c9697d8e37d399f09ffd",
+"inStock": 1,
+"isVeg": 1,
+"price": 38000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379674",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594453",
+"name": "Extra Cauliflower",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379675",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594420",
+"name": "Extra Caramelized Onions",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379676",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963426",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "77649326",
+"name": "Vegan Mushroom, Cheese & Spinach Grilled Wrap",
+"category": "Vegan",
+"description": "Serves 1 | Grilled wrap with mushroom, vegan cheese sauce, spinach, pickled onions and jalapeno vinaigrette.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/ac833635-1731-486c-92df-c254d06b45f6_37e110fc-426c-4900-a0bb-22cf5b3624f7.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379695",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379696",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594500",
+"name": "Extra Spinach",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379697",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663085",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "76128900",
+"name": "Vegan Lemongrass Tofu & Peanut Grilled Wrap",
+"category": "Vegan",
+"description": "Serves 1 | Grilled wrap with grilled lemongrass-marinated tofu, pickled radish & carrot, crispy rice noodles, sriracha and lettuce.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/b0f37ff0-6451-448f-aeb0-38d5b224aa92_3dad61d2-5e6d-4e91-ba5c-b38c70cbe9f1.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "63379677",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379678",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "63379679",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "17 ratings",
+"ratingCountV2": "17"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663084",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854241"
+},
+{
+"title": "Vegan Dessert",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953793",
+"name": "Vegan Churros",
+"category": "Vegan",
+"description": "Serves 1 | Perfectly crisp on the outside and soft on the inside. Golden fried and coated in cinnamon and sugar. Served with thick vegan chocolate sauce.",
+"imageId": "6c0ac2019021a305a31699baa9710b10",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "20 ratings",
+"ratingCountV2": "20"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663083",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854243"
+},
+{
+"title": "Vegan Salads",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "100014439",
+"name": "Vegan Mushroom Tortilla Salad",
+"category": "Vegan",
+"description": "Serves 1 | With lettuce, shaved red cabbage, cucumber, roasted corn kernels, pinto beans, pico de gallo, spring onions, cilantro, tortilla crisps, vegan creamy jalapeno vinaigrette",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/500461cb-e9a6-4a62-98ec-1b3d220e0532_ba62d354-55fe-4edd-af7e-990d08fd1fd7.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "107466423",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "107466424",
+"groupName": "Add Chips",
+"choices": [
+{
+"id": "50594383",
+"name": "Side of Tortilla Chips",
+"price": 15500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663088",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854244"
+},
+{
+"title": "Vegan Appetizers",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953791",
+"name": "Vegan Tortilla Chips & Salsa",
+"category": "Vegan",
+"description": "Serves 1 | Authentic masa corn tortilla chips with spicy roasted tomato salsa and pico de gallo (fresh salsa made of tomato, onion, lime, chilli & cilantro).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/6efb95c2-8c0e-444d-98ac-0605efa86ad0_4b7b9558-d922-4f14-bc46-004662edd52b.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 30000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73963429",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "26854242"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/6efb95c2-8c0e-444d-98ac-0605efa86ad0_4b7b9558-d922-4f14-bc46-004662edd52b.jpg_compressed",
+"categoryId": "26854231"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Desserts",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067914",
+"name": "Flan",
+"category": "Desserts",
+"description": "Serves 1 | Creamy, silky Mexican caramel custard, with a hint of bitter caramel.",
+"imageId": "e6f497880699aa9fd8b945c589202353",
+"inStock": 1,
+"price": 31500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "86 ratings",
+"ratingCountV2": "86"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663036",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067915",
+"name": "Churros",
+"category": "Desserts",
+"description": "Serves 1 | Perfectly crisp on the outside and soft on the inside. Golden fried and coated in cinnamon and sugar. Served with thick chocolate sauce.",
+"imageId": "6c0ac2019021a305a31699baa9710b10",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "177 ratings",
+"ratingCountV2": "177"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663034",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "37533397",
+"name": "Rich Chocolate Fudge Cake",
+"category": "Desserts",
+"description": "Serves 1 | Rich and dense fudge cake. Made with dark chocolate.",
+"imageId": "8a5444a72e8ebb528ec52ec43b50a78e",
+"inStock": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "162 ratings",
+"ratingCountV2": "162"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663069",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "97953796",
+"name": "Chocolate Chilli Cake (Spicy)",
+"category": "Desserts",
+"description": "Serves 1 | Rich, dense, chocolate cake with a hint of chilli.",
+"imageId": "348c0a8b01a295f10149b8d36258e17d",
+"inStock": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "10 ratings",
+"ratingCountV2": "10"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73780316",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "155030612",
+"name": "Chocolate Mousse",
+"category": "Desserts",
+"description": "Serves 1 | Rich, dark and creamy; a perfect finish to your meal.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/7/8008c030-62c0-41aa-9e57-aa208438ff07_206f7079-fe65-49ab-b5ff-a91cdb8d80c1.jpg_compressed",
+"inStock": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "92461005",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "e6f497880699aa9fd8b945c589202353",
+"categoryId": "26854229"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Drinks",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067911",
+"name": "Watermelon Agua Fresca",
+"category": "Drinks",
+"description": "Serves 1 | Fresh watermelon juice with a splash of lime juice",
+"imageId": "47ff400d0ebd9355b21722b8a4317e06",
+"inStock": 1,
+"isVeg": 1,
+"price": 19500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "20 ratings",
+"ratingCountV2": "20"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663092",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067913",
+"name": "Iced Lime Tea",
+"category": "Drinks",
+"description": "Serves 1 | Brewed black tea, splash of orange, lime juice.",
+"imageId": "467059ef2768f938c42585c7da85e9c5",
+"inStock": 1,
+"isVeg": 1,
+"price": 19500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "25 ratings",
+"ratingCountV2": "25"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73703817",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "37533395",
+"name": "Orange Iced Tea",
+"category": "Drinks",
+"description": "Serves 1 | Brewed black tea, orange and lime juice.",
+"imageId": "f340005a9dac6b13fa08e2dd0e738b3d",
+"inStock": 1,
+"isVeg": 1,
+"price": 19500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "89 ratings",
+"ratingCountV2": "89"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663057",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "56565101",
+"name": "Iced Coffee",
+"category": "Drinks",
+"description": "Serves 1 | Coffee and milk on ice.",
+"imageId": "349a003999f3ff50cfc263cb61780a71",
+"inStock": 1,
+"isVeg": 1,
+"price": 20000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "40 ratings",
+"ratingCountV2": "40"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663039",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "60067912",
+"name": "Tamarind Margarita",
+"category": "Drinks",
+"description": "Serves 1 | Made with tamarind pulp and lime juice.",
+"imageId": "fc8a57a35d9027431afea9ea0581714d",
+"inStock": 1,
+"isVeg": 1,
+"price": 20000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "19 ratings",
+"ratingCountV2": "19"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663077",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "37533396",
+"name": "Passion Fruit Iced Tea",
+"category": "Drinks",
+"description": "Serves 1 | Brewed black tea and passion fruit.",
+"imageId": "df07bcf32c78542693ecc64758ebc07e",
+"inStock": 1,
+"isVeg": 1,
+"price": 20000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "54 ratings",
+"ratingCountV2": "54"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663060",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "37533394",
+"name": "Fresh Lime Water",
+"category": "Drinks",
+"description": "Serves 1 | Muddled lime, mint and purified water.",
+"imageId": "571a970003e8d1b48b92f2294a012845",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821258",
+"name": "Sweet or Salt",
+"variations": [
+{
+"name": "Sweet",
+"price": 190,
+"default": 1,
+"id": "65537255",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Salt",
+"price": 190,
+"id": "65537256",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821258",
+"variationId": "65537255"
+}
+],
+"price": 19000
+},
+{
+"variations": [
+{
+"groupId": "19821258",
+"variationId": "65537256"
+}
+],
+"price": 19000
+}
+]
+},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 19000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "19 ratings",
+"ratingCountV2": "19"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73828482",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "37533393",
+"name": "Fresh Lime Soda",
+"category": "Drinks",
+"description": "Serves 1 | Muddled lime, mint and soda.",
+"imageId": "6ababf1390fe30af42b29e24fa10d179",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "19821257",
+"name": "Sweet or Salt",
+"variations": [
+{
+"name": "Sweet",
+"price": 190,
+"default": 1,
+"id": "65537253",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Salt",
+"price": 190,
+"id": "65537254",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "19821257",
+"variationId": "65537253"
+}
+],
+"price": 19000
+},
+{
+"variations": [
+{
+"groupId": "19821257",
+"variationId": "65537254"
+}
+],
+"price": 19000
+}
+]
+},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 19000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "48 ratings",
+"ratingCountV2": "48"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "73663037",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "59894280",
+"name": "Virgin Margarita",
+"category": "Drinks",
+"description": "Serves 1 | Made with fresh lime juice, pineapple.",
+"imageId": "2e2b9c8bcf9ed1e44bfcdee2b410545d",
+"inStock": 1,
+"isVeg": 1,
+"price": 19500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "35 ratings",
+"ratingCountV2": "35"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "74081884",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "47ff400d0ebd9355b21722b8a4317e06",
+"categoryId": "26854228"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Combos",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "171508221",
+"name": "Spicy Chipotle Chicken Sandwich + Virgin Margarita + Flan",
+"category": "Combos",
+"description": "Serves 1 | Sandwich with shredded spicy chipotle chicken, mozzarella, pickled onions, chipotle mayo, lettuce + virgin margarita made with fresh lime juice, pineapple + creamy, silky Mexican caramel custard, with a hint of bitter caramel.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/af6397fa-3b6c-435c-acee-076cd4acbd94_ea0df303-0c89-445f-8e17-b3881ad08702.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "59885932",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 880,
+"default": 1,
+"id": "185541027",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 910,
+"id": "185541028",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 915,
+"id": "185541029",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 910,
+"id": "213712569",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "59885932",
+"variationId": "185541027"
+}
+],
+"price": 88000,
+"addonCombinations": [
+{
+"groupId": "220608628",
+"addonId": "50594398"
+},
+{
+"groupId": "220608628",
+"addonId": "50594404"
+},
+{
+"groupId": "220608627",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885932",
+"variationId": "185541028"
+}
+],
+"price": 91000,
+"addonCombinations": [
+{
+"groupId": "220608628",
+"addonId": "50594398"
+},
+{
+"groupId": "220608628",
+"addonId": "50594404"
+},
+{
+"groupId": "220608627",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885932",
+"variationId": "185541029"
+}
+],
+"price": 91500,
+"addonCombinations": [
+{
+"groupId": "220608628",
+"addonId": "50594398"
+},
+{
+"groupId": "220608628",
+"addonId": "50594404"
+},
+{
+"groupId": "220608627",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885932",
+"variationId": "213712569"
+}
+],
+"price": 91000,
+"addonCombinations": [
+{
+"groupId": "220608628",
+"addonId": "50594398"
+},
+{
+"groupId": "220608628",
+"addonId": "50594404"
+},
+{
+"groupId": "220608627",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "220608627",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "220608628",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 88000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "103399771",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "171508220",
+"name": "Chicken Banh Mi Sandwich + Virgin Margarita + Flan",
+"category": "Combos",
+"description": "Serves 1 | Sandwich with grilled lemongrass marinated chicken, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo + virgin margarita made with fresh lime juice, pineapple + creamy, silky Mexican caramel custard, with a hint of bitter caramel.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/1c4a77cf-8dce-499a-ae03-888c680f2c86_ee9f1c45-a70e-4279-a24f-273dcecb8ca5.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "59885931",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 880,
+"default": 1,
+"id": "185541024",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 910,
+"id": "185541025",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 915,
+"id": "185541026",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 910,
+"id": "213712575",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "59885931",
+"variationId": "185541024"
+}
+],
+"price": 88000,
+"addonCombinations": [
+{
+"groupId": "220608626",
+"addonId": "50594381"
+},
+{
+"groupId": "220608626",
+"addonId": "50594382"
+},
+{
+"groupId": "220608624",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885931",
+"variationId": "185541025"
+}
+],
+"price": 91000,
+"addonCombinations": [
+{
+"groupId": "220608626",
+"addonId": "50594381"
+},
+{
+"groupId": "220608626",
+"addonId": "50594382"
+},
+{
+"groupId": "220608624",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885931",
+"variationId": "185541026"
+}
+],
+"price": 91500,
+"addonCombinations": [
+{
+"groupId": "220608626",
+"addonId": "50594381"
+},
+{
+"groupId": "220608626",
+"addonId": "50594382"
+},
+{
+"groupId": "220608624",
+"addonId": "50594380"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885931",
+"variationId": "213712575"
+}
+],
+"price": 91000,
+"addonCombinations": [
+{
+"groupId": "220608626",
+"addonId": "50594381"
+},
+{
+"groupId": "220608626",
+"addonId": "50594382"
+},
+{
+"groupId": "220608624",
+"addonId": "50594380"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "220608624",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594380",
+"name": "Extra Chicken",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "220608626",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 88000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "103399769",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "171508222",
+"name": "Mushrooms in Garlic Mojo Sandwich + Virgin Margarita + Flan",
+"category": "Combos",
+"description": "Serves 1 | Sandwich with sauteed mushrooms, mozzarella cheese, roasted garlic mojo, jalapeno, lettuce and tomatoes + virgin margarita made with fresh lime juice, pineapple + creamy, silky Mexican caramel custard, with a hint of bitter caramel.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/dc62eb67-4129-4fbf-b379-83e49f763efa_17582f45-78de-4c95-80d0-6edeb5545086.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "59885933",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 845,
+"default": 1,
+"id": "185541030",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 875,
+"id": "185541031",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 880,
+"id": "185541032",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 875,
+"id": "213712574",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "59885933",
+"variationId": "185541030"
+}
+],
+"price": 84500,
+"addonCombinations": [
+{
+"groupId": "220608631",
+"addonId": "50594398"
+},
+{
+"groupId": "220608631",
+"addonId": "50594404"
+},
+{
+"groupId": "220608629",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885933",
+"variationId": "185541031"
+}
+],
+"price": 87500,
+"addonCombinations": [
+{
+"groupId": "220608631",
+"addonId": "50594398"
+},
+{
+"groupId": "220608631",
+"addonId": "50594404"
+},
+{
+"groupId": "220608629",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885933",
+"variationId": "185541032"
+}
+],
+"price": 88000,
+"addonCombinations": [
+{
+"groupId": "220608631",
+"addonId": "50594398"
+},
+{
+"groupId": "220608631",
+"addonId": "50594404"
+},
+{
+"groupId": "220608629",
+"addonId": "50594403"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885933",
+"variationId": "213712574"
+}
+],
+"price": 87500,
+"addonCombinations": [
+{
+"groupId": "220608631",
+"addonId": "50594398"
+},
+{
+"groupId": "220608631",
+"addonId": "50594404"
+},
+{
+"groupId": "220608629",
+"addonId": "50594403"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "220608629",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594403",
+"name": "Extra Mushroom",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "220608631",
+"groupName": "Add ons",
+"choices": [
+{
+"id": "50594398",
+"name": "Extra Lettuce",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594404",
+"name": "Extra Mozzarella Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 84500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "103399770",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "171508223",
+"name": "Tofu Banh Mi Sandwich + Virgin Margarita + Flan",
+"category": "Combos",
+"description": "Serves 1 | Sandwich with baked lemongrass marinated tofu, pickled radish and carrot, jalapeno, cucumber, cilantro, ginger scallion oil, sriracha and house mayo + virgin margarita made with fresh lime juice, pineapple + creamy, silky Mexican caramel custard, with a hint of bitter caramel.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/58772d28-a6b3-45ce-b129-18c07d273023_57ae1258-a2d4-4487-8df3-60ca659dac7e.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "59885934",
+"name": "Choice of Breads",
+"variations": [
+{
+"name": "Ciabatta",
+"price": 845,
+"default": 1,
+"id": "185541033",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "French Baguette",
+"price": 875,
+"id": "185541034",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Sourdough Baguette",
+"price": 880,
+"id": "185541035",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Whole Wheat Baguette",
+"price": 875,
+"id": "213712576",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "59885934",
+"variationId": "185541033"
+}
+],
+"price": 84500,
+"addonCombinations": [
+{
+"groupId": "220608633",
+"addonId": "50594381"
+},
+{
+"groupId": "220608633",
+"addonId": "50594382"
+},
+{
+"groupId": "220608632",
+"addonId": "50594429"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885934",
+"variationId": "185541034"
+}
+],
+"price": 87500,
+"addonCombinations": [
+{
+"groupId": "220608633",
+"addonId": "50594381"
+},
+{
+"groupId": "220608633",
+"addonId": "50594382"
+},
+{
+"groupId": "220608632",
+"addonId": "50594429"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885934",
+"variationId": "185541035"
+}
+],
+"price": 88000,
+"addonCombinations": [
+{
+"groupId": "220608633",
+"addonId": "50594381"
+},
+{
+"groupId": "220608633",
+"addonId": "50594382"
+},
+{
+"groupId": "220608632",
+"addonId": "50594429"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "59885934",
+"variationId": "213712576"
+}
+],
+"price": 87500,
+"addonCombinations": [
+{
+"groupId": "220608633",
+"addonId": "50594381"
+},
+{
+"groupId": "220608633",
+"addonId": "50594382"
+},
+{
+"groupId": "220608632",
+"addonId": "50594429"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "220608632",
+"groupName": "Extra Filling",
+"choices": [
+{
+"id": "50594429",
+"name": "Extra Tofu",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "220608633",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "50594381",
+"name": "Extra Sriracha",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "50594382",
+"name": "Extra Jalapenos",
+"price": 6500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"defaultPrice": 84500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "103399772",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/4/18/af6397fa-3b6c-435c-acee-076cd4acbd94_ea0df303-0c89-445f-8e17-b3881ad08702.jpg_compressed",
+"categoryId": "62111700"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+"type": "FSSAI",
+"imageId": "fssai_final_edss9i",
+"text": [
+"License No. 11217334001299"
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+"name": "Candice's Gourmet Sandwiches & Wraps",
+"area": "BTM",
+"completeAddress": "Chinita Real Mexican Food 25, 1st Floor, 5th Cross, 5th Block, Koramangala, Bangalore - 560095"
+}
+}
+}
+]
+}
+}
+}
+}
+],
+"firstOffsetRequest": true,
+"isQCLink": false
+},
+"tid": "44636747-a28d-48ec-820b-ef8bb1dd981b",
+"sid": "qbr633db7f8-2a27-4d0d-a992-db1108234",
+"deviceId": "fb77e146-6d38-18e1-2efd-3183bdb8ccf8",
+"csrfToken": "ra4ZDudq9hu2-K7LovekQMRjCpmig8bI0uno-GD4"
+}
+export default restraunt15;

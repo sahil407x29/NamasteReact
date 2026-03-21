@@ -2,7 +2,7 @@ import { SwiggyAPI } from "./Constants.jsx";
 import RestrauntCard from "./RestrauntCard.jsx";
 import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer.jsx";
-import {Link} from "react-router-dom"
+import { Link } from "react-router-dom";
 
 function filterData(searchText, allRestraunt) {
   return allRestraunt.filter((res) =>
@@ -99,7 +99,13 @@ const Body = () => {
       </div>
       <div className="restraunt-List">
         {filteredRestraunt.map((res) => (
-        <Link key={res.info.id} to={"restraunts/"+res.info.id} style={{textDecoration:'none',color:'black'}}><RestrauntCard {...res.info}  /> </Link> 
+          <Link
+            key={res.info.id}
+            to={"restraunts/" + res.info.id}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            <RestrauntCard {...res.info} /> {console.log(res.info.id)}
+          </Link>
         ))}
       </div>
     </>

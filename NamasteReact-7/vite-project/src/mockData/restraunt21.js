@@ -1,0 +1,35714 @@
+const restraunt21 = {
+"statusCode": 0,
+"data": {
+"statusMessage": "done successfully",
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+"text": "Wow! Momo",
+"headerStyling": {
+"textColor": "text_Highest_Emphasis",
+"textVariant": "header_H3_Black"
+}
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+"tabs": [
+{
+"id": "Order Online",
+"title": "Order Online"
+}
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+"info": {
+"id": "737964",
+"name": "Wow! Momo",
+"city": "Bangalore",
+"slugs": {
+"restaurant": "wow-momo-koramangala-layout-extension-koramangala",
+"city": "bangalore"
+},
+"uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/30/778d887e-d6b1-4198-883f-946c3033a5f9_737964.jpg",
+"locality": "KORAMANGALA LAYOUT EXTENSION",
+"areaName": "KORAMANGALA",
+"costForTwo": "30000",
+"costForTwoMessage": "₹300 for two",
+"cuisines": [
+"Momos",
+"Chinese"
+],
+"avgRating": 3.9,
+"feeDetails": {
+"restaurantId": "737964",
+"fees": [
+{}
+]
+},
+"parentId": "1776",
+"avgRatingString": "3.9",
+"totalRatingsString": "1.2K+ ratings",
+"sla": {
+"restaurantId": "737964",
+"lastMileTravel": 2327.8,
+"serviceability": "NON_SERVICEABLE",
+"rainMode": "RAIN_MODE_NONE",
+"longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+"lastMileTravelString": "2327.8 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-03-21 03:00:00",
+"visibility": true,
+"opened": true,
+"restaurantClosedMeta": {}
+},
+"aggregatedDiscountInfo": {
+"header": "60% off",
+"shortDescriptionList": [
+{
+"meta": "60% off | Use TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "60% off up to ₹110 | Use code TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+}
+],
+"visible": true
+},
+"badges": {},
+"slugString": "wow-momo-koramangala-layout-extension-koramangala",
+"isOpen": true,
+"labels": [
+{
+"title": "Timings",
+"message": "null"
+},
+{
+"title": "Address",
+"message": "Wow! Momo, NO.507, PID.67-8-507, KORAMANGALA LAYOUT EXTENSION, 6TH BLOCK, KORAMANGALA, BANGALORE, BTM Layout , B.B.M.P South, Karnataka-560034"
+},
+{
+"title": "Cuisines",
+"message": "Momos,Chinese"
+}
+],
+"totalRatings": 1200,
+"aggregatedDiscountInfoV2": {
+"header": "60% off",
+"shortDescriptionList": [
+{
+"meta": "60% off | Use TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "60% off up to ₹110 | Use code TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+}
+],
+"couponDetailsCta": "View coupon details"
+},
+"type": "F",
+"nudgeBanners": [
+{
+"priority": 23,
+"discountInfo": {
+"discountType": "FinalPrice",
+"value": 699
+},
+"unlockedMessage": "Deal of the Day unlocked!",
+"minItemCount": 1,
+"maxItemCount": 1,
+"type": "SILD",
+"nudgeTagInfo": {
+"title": "Deal of the Day",
+"fontName": "FONT_NAME_CONDENSED_BOLD"
+},
+"logoCtx": {},
+"movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+}
+],
+"headerBanner": {
+"url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/737964"
+},
+"ratingSlab": "RATING_SLAB_4",
+"availabilityServiceabilityMessage": "Does not deliver to your location",
+"orderabilityCommunication": {
+"title": {
+"text": "Wish you were"
+},
+"subTitle": {
+"text": "CLOSER!"
+},
+"message": {
+"text": "This location is outside the outlet's delivery area",
+"textColour": "negative"
+},
+"customIcon": {
+"bgGradientColorStart": "#F64C41",
+"bgGradientColorEnd": "#E53554"
+},
+"commsStyling": {}
+},
+"hasBestsellerItems": true,
+"cartOrderabilityNudgeBanner": {
+"parameters": {},
+"presentation": {}
+},
+"latLong": "12.937068,77.624799",
+"backgroundImageOverlayInfo": {},
+"featuredSectionInfo": {},
+"requestContexts": [
+"99store",
+"enable_ecosaver"
+]
+},
+"analytics": {}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+"sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+"layout": {
+"rows": 1,
+"columns": 5,
+"horizontalScrollEnabled": true,
+"itemSpacing": 12,
+"lineSpacing": 10,
+"widgetPadding": {},
+"containerStyle": {
+"containerPadding": {
+"left": 10,
+"right": 10,
+"bottom": 16
+}
+}
+},
+"id": "offerCollectionWidget_UX4",
+"gridElements": {
+"infoWithStyle": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+"offers": [
+{
+"info": {
+"header": "60% OFF UPTO ₹110",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE TRYNEW",
+"description": "ON SELECT ITEMS",
+"offerType": "offers",
+"restId": "737964",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE TRYNEW"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "ITEMS AT ₹128",
+"offerTag": "DEAL OF DAY",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"4ef440a2-36a4-4cd5-a736-ca6b03e8fb12"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"description": "ON SELECT ITEMS |",
+"offerType": "offers",
+"restId": "737964",
+"offerLogo": "offers/DealRush_Offer_Icon.png",
+"descriptionTextColor": "#7302060C"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹100 OFF",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"a2c51182-db17-4c39-a18c-bc3df54f517a",
+"083cc7be-4b54-4ebc-a2a8-5956d430908e"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE DUOJOY",
+"offerType": "offers",
+"restId": "737964",
+"offerLogo": "offers/generic",
+"secondaryDiscountCallout": "EXTRA ₹30 OFF ON NEXT ORDER",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE DUOJOY"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹150 OFF",
+"offerTag": "FLAT DEAL",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"5d8d47f7-0236-43f3-abeb-8334b575c3a7"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE FLAT150",
+"description": "ABOVE ₹349",
+"offerType": "offers",
+"restId": "737964",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE FLAT150"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹175 OFF",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"bdf1445b-c346-42ad-8fbe-8f3a3d4e7596"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE FLAT175",
+"description": "ABOVE ₹399",
+"offerType": "offers",
+"restId": "737964",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE FLAT175"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+}
+],
+"habitMilestoneInfo": {
+"callout": {}
+},
+"loyaltyDiscoverPresentationInfo": {
+"logoCtx": {}
+}
+}
+}
+}
+}
+},
+{
+"groupedCard": {
+"cardGroupMap": {
+"REGULAR": {
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+"badges": {},
+"vegOnlyDetails": {
+"imageId": "AutoVegOnly_qkjowj",
+"title": "Showing only vegetarian options.",
+"description": "Tap on the VEG ONLY button to turn off the setting"
+},
+"offersFilter": {
+"attributes": {
+"displayText": "60% OFF"
+}
+},
+"topRatedFilter": {
+"attributes": {
+"displayText": "Ratings 4.0+"
+}
+},
+"kidsCategoryFilter": {
+"attributes": {
+"displayText": "Kids Favourites",
+"tooltip": {
+"enabled": true,
+"displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+}
+}
+},
+"vegFilter": {
+"attributes": {
+"displayText": "VEG"
+}
+},
+"nonvegFilter": {
+"attributes": {
+"displayText": "NONVEG"
+}
+}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+"sectionId": "MENU_FILTER_TOGGLE"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Recommended",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170162671",
+"name": "Corn Cheese Korean Spicy Momo - New",
+"category": "Korean Momo (Newly Launched)",
+"description": "Serves 1 | Crispy fried Corn Cheese 5pcs Momo filled with a creamy, flavorful stuffing, served in a spicy and sweet Gochujang sauce that blends bold Korean flavors for a unique and tasty twist. (Serves 1). New",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/ecb9d68e-42f6-49aa-9448-c6b6c0a572a1_7788a5b0-35a0-47a0-ae83-23292803403b.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 35900,
+"finalPrice": 19900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "249691317",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140541996",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541995",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111831",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390349",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390354",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c201f587-88a8-43d5-b529-9ba4dee522f2"
+],
+"parentId": "104048539",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170162672",
+"name": "Chicken Cheese Korean Spicy Momo - New",
+"category": "Korean Momo (Newly Launched)",
+"description": "Serves 1 | Crispy fried Chicken Cheese 5pcs Momo filled with a rich, cheesy chicken stuffing, served in a spicy and sweet Gochujang sauce that brings bold and vibrant Korean flavors to every bite. (Serves 1). New",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/946ce179-7e61-48d1-9fca-62b0ca61497b_8bfd4eb8-11c6-4c57-9b3e-505c4854c5cf.png",
+"inStock": 1,
+"price": 36900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "251082492",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654316",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 20500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140654324",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 38900,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111892",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390005",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390009",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "104048537",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328377",
+"name": "Gluten Free Veg Darjeeling Steam Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | A flavourful mix of cabbage, onion, carrot, coriander, and spices wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy Darjeeling sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/e26281cd-1657-4b3c-8b9c-9b6a2b9db801_e58437d9-8bfa-467f-bc69-5236213e5d9a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111523",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390618",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390622",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145041",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328379",
+"name": "Gluten Free Corn Cheese Steam Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Sweet corn and creamy cheese blended with colorful peppers and spices, wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy red sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/d35bbb29-3d9d-4517-ae31-73f56f5043d1_6f8caea6-5a08-4392-9bdb-596cbaae9365.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111392",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390669",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390673",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145039",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328381",
+"name": "Gluten Free Veg Darjeeling Chilli Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Filled with a mix of vegetables and spices, tossed in spicy Darjeeling chili sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/0c3816c1-aa78-4f13-968a-cd92f79dba35_6cc2abb8-e6e2-4d40-ba08-5ae9e6debb41.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112518",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390074",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390077",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145040",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328383",
+"name": "Gluten Free Corn Cheese Chilli Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Sweet corn and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Stir-fried in a hot and spicy chili sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/42bad911-aa86-4e2e-9f93-c817edc71278_f4e5275d-59d5-4abd-a0ff-7d6995e05753.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 44500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111972",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391367",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391370",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145038",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328380",
+"name": "Gluten Free Chicken Cheese Steam Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Shredded chicken infused with spices and wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with a spicy red sauce. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/5f2e0024-11d0-4a73-bb8c-122c61ee2d9a_a2f5bf87-895b-41bf-bf4e-c6db374bdb6d.png",
+"inStock": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112462",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390340",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390343",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145035",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328384",
+"name": "Gluten Free Chicken Cheese Chilli Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Juicy chicken and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Tossed in a spicy house-made chili sauce for a fiery delight. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/3d913000-9c29-4012-87e4-b64963e59f8f_bb66ad05-776d-41d5-900f-3faabf88a2c4.png",
+"inStock": 1,
+"price": 46500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112363",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390949",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390952",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"showImage": true,
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145034",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"type": "CATEGORY_TYPE_RECOMMENDED",
+"subtitleSuffix": {},
+"categoryId": "-1"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"categories": [
+{
+"title": "20 Pcs - Steam Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034399",
+"name": "Veg Darjeeling Steam Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and pinch of spices. Served with authentic Darjeeling Momo sauce and we don't serve green sauce (20 pcs).Steam momos taste best when eaten with hand. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/4c541c80-595e-401c-9fd4-4c4bd6948f8f_100044e0-0616-440c-ac63-c7f5c86a9111.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 79600,
+"finalPrice": 42900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319196",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692124",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692129",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b1f8f2a8-0407-4190-b44c-5355d94ac38e"
+],
+"parentId": "112347455",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034400",
+"name": "Corn & Cheese Steam Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Wow! Momo signature dish: Momos filled with shredded cheese and sweet corn, infused with the rich flavors of Indian spices. Accompanied by our home-made red chilli sauce (20 pcs). Steam momos are a finger-licking delight! Please note, we don't serve green coriander chutney. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/d8e8ddbc-c132-41a9-9ff4-f2d79f8051dd_a806759e-51fe-4380-afe1-996ee3a46824.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 83600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318877",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692133",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692135",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "112347449",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034405",
+"name": "Chicken Cheese Steam Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Soft juicy boneless chicken, with the flavour of in house spices. Served with schezwan red chilli sauce (20 pcs ). Steam momos taste best when eaten with hand. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/c3eb13be-ddfc-4941-88ce-03f8c7ed08f3_8d56b235-eb01-401c-8541-71e59ea2597c.png",
+"inStock": 1,
+"price": 91600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318907",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692145",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692148",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "112347443",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034406",
+"name": "Veg Pahari Fresh Steam Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Savor the essence of the mountains with our Veg Pahari Fresh Steam momo, brimming with vibrant vegetables and infused with mountain-inspired flavors. Each bite is perfectly complemented by our red chilli sauce [20 pcs], offering a harmonious blend of freshness and spice. A truly balanced and flavorful experience in every bite! (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/3537f0eb-38cd-4d75-a7d5-244ba913c5fd_d33b9705-66a4-4eab-b67f-504c14b53557.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 43600,
+"finalPrice": 32900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318967",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692151",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692153",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"3aa6f244-22b2-433b-abf2-b96ddf31f8c3"
+],
+"parentId": "112347457",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "68003519"
+},
+{
+"title": "20 Pcs - Fried Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034410",
+"name": "Veg Darjeeling Fried Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and tinch of spices. To make it crispy fried in hot oil and served with authentic Darjeeling momo sauce [20 pcs] and We don't serve green sauce. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/2c3e0db4-a961-457b-be0d-bba8d3759996_fda5fcc6-e4a7-4fa4-81d0-07c85392d79c.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 97600,
+"finalPrice": 49900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318920",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692163",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692165",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"61999a56-e119-4a81-858f-1e5586ce8563"
+],
+"parentId": "112347454",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034413",
+"name": "Corn Cheese Fried Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Packed with shredded cheese and sweet corn, infused with the rich flavors of Indian masala, our delightful creation is made crispy by a dip in hot oil and served with red chilli sauce [20 pcs]. Please note, we don't serve green coriander chutney. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/73bcb40e-63c6-498e-a526-7a671e323566_f19e46f9-5fad-42d5-b91d-7db375aa4003.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 101600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319298",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692170",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692174",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "112347448",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034417",
+"name": "Chicken Cheese Fried Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Indulge in the delightful blend of juicy chicken and shredded cheese, infused with the rich flavors of Indian masala. Crisped to perfection by a dip in hot oil and served with red chilli sauce [20 pcs]. Please note, we don't serve green coriander Chutney. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/336c8776-689a-4eae-9825-52f45672f4d7_214b43be-9ccb-47ba-98de-2b5bd2af08af.png",
+"inStock": 1,
+"price": 109600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318986",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692182",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692185",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "112347442",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034419",
+"name": "Veg Pahari Fresh Fried Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Savor the essence of the mountains with our veg pahari fresh fried momo, filled with vibrant vegetables and infused with mountain-inspired flavors. Each crispy bite is perfectly complemented by our red chilli sauce [20 pcs]. Please note, green coriander chutney is not served. Enjoy the delicious blend of flavors! (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/47a1115c-5b60-4e4e-862d-5db99aa088a3_c14f6a23-8296-40ae-a35a-9aa13c4515f7.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 62000,
+"finalPrice": 32900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318899",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692188",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692192",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"3aa6f244-22b2-433b-abf2-b96ddf31f8c3"
+],
+"parentId": "112347456",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "68003520"
+},
+{
+"title": "20 Pcs- Crunchy Kurkure Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034423",
+"name": "Crunchy Kurkure Chicken Masala Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Kurkure Chicken masala MOMO is filled with soft, juicy boneless chicken, onion, and coriander, mixed with the flavors of Indian spices. To make it crispy, it is dipped in hot oil and served with mayo dip and Red sauce. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/209c78e3-4933-4f0a-a314-6d07981cb542_3a1c6d3d-a5d4-49c8-99c5-f3cb7813a9b0.png",
+"inStock": 1,
+"price": 79600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319258",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692202",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692204",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "112347451",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034424",
+"name": "Crunchy Kurkure Paneer Masala Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Savor the goodness of Delicious Momos, filled with freshly chopped veggies, paneer, a hint of spices, and blended with Indian masala. To make them crispy, they are dipped in hot oil and served with a Mayo Dip and Red sauce. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/b72714c7-86ba-44db-af32-c78a066d8670_b5465e58-3bb2-452a-84ad-7a33778e0b45.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 79600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319144",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692205",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692208",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "112347452",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034427",
+"name": "Crunchy Kurkure Chicken Cheese Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Indulge in the all-time favorite, mouth-watering Momos filled with a mix of juicy boneless chicken, cheese, coriander, herbs, and Indian spices. Served with a Mayo dip. To make them crispy, they are dipped in hot oil and served with a mayo dip and Red sauce. Indulge in the irresistible flavors of Krunchy Kurkure Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature crunch of Kurkure Krunchy .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/027244b5-44e6-42b9-ab77-192daa6fa4f2_4c22a41b-360a-4c1e-8bd0-782c38d7736f.png",
+"inStock": 1,
+"price": 99600,
+"finalPrice": 69900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319128",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692212",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692215",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"f34921a9-c3db-4212-8cdb-66e5b4daf710"
+],
+"parentId": "112347450",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "185034428",
+"name": "Crunchy Kurkure Veg Hot Garlic Momo - 20 Pcs",
+"category": "20 Pcs - Special Momo Pack (Save Upto 64%)",
+"description": "Serves 2 | Delight in the spicy goodness of our Hot Garlic Momos, where succulent momos meet a tantalizing sweet and garlic-infused kick.Served with a Mayo dip and Red sauce. To make it crispy, it is dipped in hot oil and served with a mayo dip. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/b037a2ea-ce8c-41eb-b87a-e41808dd0185_4fc47bf5-a060-4279-9e90-bfe8e1b39009.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 59600,
+"finalPrice": 49900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319266",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692217",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249692219",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"61999a56-e119-4a81-858f-1e5586ce8563"
+],
+"parentId": "112347453",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "68003521"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/10/18/4c541c80-595e-401c-9fd4-4c4bd6948f8f_100044e0-0616-440c-ac63-c7f5c86a9111.png",
+"categoryId": "68003518"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Momo X Fries Combo (Save Upto 55%)",
+"categories": [
+{
+"title": "Steam Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270195",
+"name": "Veg Pahari Fresh Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Veg Pahari Steam Momos served hot with our OG Crispiest Fries. Fresh flavours with the perfect crunch.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/caa341ca-ee12-40bb-ab98-f9750f71657d_d949150a-8524-4704-a450-dc06410dd871.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 24800,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973663",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973664",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973665",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "119660057",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270196",
+"name": "Chicken Pahari Fresh Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Pahari Steam Momos paired with OG Crispiest Fries. Bold, juicy, and irresistibly crispy.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/f518b1f4-fcb4-46b3-b6d9-9f5286c0ffcb_82583eba-7339-4361-a496-ddd749280a84.png",
+"inStock": 1,
+"price": 23800,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973666",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973667",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973668",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "119660050",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270197",
+"name": "Veg Darjeeling Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Veg Darjeeling Steam Momos served with OG Crispiest Fries. Classic flavour meets crispy indulgence.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/f2df9f8a-bbb9-408f-b088-c58f6d056ec8_aed66292-ac8b-406c-90e6-d35526376c18.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 32800,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973669",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973670",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973671",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "119660054",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270198",
+"name": "Veg Himalayan Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Veg Himalayan Steam Momos paired with OG Crispiest Fries. Light, flavourful, and satisfyingly crunchy.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/b7a10305-6eeb-4004-a090-5a56c645851c_91dabeae-3f65-4f10-93f4-cbe3cc33a22f.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 23400,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973672",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973673",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973674",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "119660055",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270199",
+"name": "Chicken Darjeeling Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Darjeeling Steam Momos with OG Crispiest Fries. Authentic taste, juicy filling, ultimate crunch.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/b51ce617-bea3-44eb-b781-d1122aa3717b_6e4d788f-aa6c-4b26-8fc3-726f7a0aa24b.png",
+"inStock": 1,
+"price": 33800,
+"finalPrice": 18900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973675",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973676",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973677",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"fc5c1145-dd0f-497a-966d-0a7518df6a62"
+],
+"parentId": "119660047",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270200",
+"name": "Chicken Himalayan Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Himalayan Steam Momos paired with OG Crispiest Fries. Light, flavourful, and satisfyingly crunchy.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/617c4c12-2cbb-4ab1-b939-700b0075f6c3_24b92ce9-c1a9-44ec-8af3-ee1a78ae0ae3.png",
+"inStock": 1,
+"price": 25400,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973678",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973679",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973680",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "119660048",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270201",
+"name": "Corn & Cheese Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Corn & Cheese Steam Momos with OG Crispiest Fries. Sweet corn, creamy cheese, and the crispiest crunch.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/7756356f-b85e-4d6f-9bbb-5dd56069b7db_fd314518-ac42-4c81-a878-cb7984c950d3.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 40800,
+"finalPrice": 20900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973681",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973682",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973683",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"5e469d8e-b7ba-4387-8c8b-b3108a5c3bc9"
+],
+"parentId": "119660052",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270202",
+"name": "Chicken Cheese Steam Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Cheese Steam Momos loaded with melty cheese, served with OG Crispiest Fries. Creamy meets crispy.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/bc9e03d8-bb36-4bce-a26a-7f1b2ce36d5b_fe877e84-136f-4e7c-abf9-54f2c9457cd5.png",
+"inStock": 1,
+"price": 43800,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973684",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973685",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973686",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "119660045",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "72907770"
+},
+{
+"title": "Fried Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270203",
+"name": "Veg Darjeeling Fried Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Veg Darjeeling Fried Momos with OG Crispiest Fries. Classic flavour with an extra crispy twist.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/eee59de5-2a25-490f-a154-dbc45889ebea_2ebea4a6-1b2d-4da6-869e-4472a62cbdbc.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 37300,
+"finalPrice": 20900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973687",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973688",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973689",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"5e469d8e-b7ba-4387-8c8b-b3108a5c3bc9"
+],
+"parentId": "119660053",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270204",
+"name": "Chicken Darjeeling Fried Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Darjeeling Fried Momos served with OG Crispiest Fries. Crispy outside, juicy inside.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/1dff1b2d-a442-4d62-8f31-0ac7e78f91f1_40017ab6-a7c2-48bd-bfda-7c42072da8a6.png",
+"inStock": 1,
+"price": 38300,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973690",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973691",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973692",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "119660046",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270205",
+"name": "Corn & Cheese Fried Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Corn & Cheese Fried Momos paired with OG Crispiest Fries. Golden, cheesy bites with maximum crunch.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/0bcfeb3e-c0fd-41b9-bc3b-e3688bae1c59_7c258aa9-e32e-4ffa-b114-c9f30894c68c.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 45300,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973693",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973694",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973695",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "119660051",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270206",
+"name": "Chicken Cheese Fried Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Cheese Fried Momos with OG Crispiest Fries. Double crunch, loaded with cheesy goodness.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/0e47164f-bca1-4253-b380-b4fbb9cffbed_21371032-d93e-4395-b9e6-b21fb6c45b9c.png",
+"inStock": 1,
+"price": 48300,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973696",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973697",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973698",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "119660044",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "72907771"
+},
+{
+"title": "Korean Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270207",
+"name": "Veg Korean Spicy Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Veg Korean Spicy Momos served with OG Crispiest Fries. Bold spice with the crispiest bite.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/6a04b8d0-633e-4784-82e9-c8fd6be259ec_7a2d84a7-dc5b-45a0-87da-ed0c298a2eca.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 42800,
+"finalPrice": 20900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973699",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973700",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973701",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"5e469d8e-b7ba-4387-8c8b-b3108a5c3bc9"
+],
+"parentId": "119660056",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196270208",
+"name": "Chicken Korean Spicy Momo + OG Crispy Fries Regular",
+"category": "Momo X Fries Combo (Save Upto 55%)",
+"description": "5 pc Chicken Korean Spicy Momos with OG Crispiest Fries. Fiery, flavourful, and seriously crunchy.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/daa7416c-f642-4e63-8c6f-890935921000_05ef3011-77b8-40f7-9861-53c752f506b9.png",
+"inStock": 1,
+"price": 40800,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "278973702",
+"groupName": "Upgrade to Peri Peri Fries",
+"choices": [
+{
+"id": "145487311",
+"name": "Peri Peri Seasoning",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973703",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+},
+{
+"groupId": "278973704",
+"groupName": "Choose your Dip & Sauce",
+"choices": [
+{
+"id": "145487316",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487317",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487314",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487315",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487312",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145487313",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "119660049",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "72907772"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/caa341ca-ee12-40bb-ab98-f9750f71657d_d949150a-8524-4704-a450-dc06410dd871.png",
+"categoryId": "72907769"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Max Saver Party Combos (Upto 38% off)",
+"categories": [
+{
+"title": "Party Combo for 2",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959724",
+"name": "Veg Himalayan Steam Momo 8Pc + Veg Moburg 2Pc + 2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Savor our Veg Himalayan Steam Momo paired with Spicy Red Sauce. Dive into our irresistible Momo burger, featuring crispy fried Veg Momos, complemented by red Chilli sauce, Green sauce, and creamy Mayonnaise. Perfectly balanced flavors in every bite! Enjoy it with a 250ml Coke. Best enjoyed by hand for the ultimate taste experience! (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/e016c7d1-4ad7-4c16-a602-c080a689a046_d660b45c-1b22-4255-962a-09ef92fef1bf.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 31900,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318843",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489888",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489890",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "1.7",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "112338370",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959725",
+"name": "Chicken Himalayan Steam Momo 8Pc + Chicken Moburg 2Pc + 2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Experience the rich flavors of our Chicken Himalayan Steam Momo with a kick of Spicy Red Sauce. Immerse yourself in the tempting Momo burger, featuring crunchy fried Chicken Momos, perfectly balanced with red Chilli sauce, Green sauce, and luscious Mayonnaise. Each bite is a symphony of taste! Pair it with a 250ml Coke, and for the ultimate indulgence, savor it by hand for a unique culinary delight. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/246e4722-fef2-4698-ad77-6885ae6d65da_57d569cd-3824-4d65-be53-92fac9a1a998.png",
+"inStock": 1,
+"price": 33900,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318816",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489891",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489893",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.1",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "112338365",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959726",
+"name": "Veg Himalayan Fried Momo 8Pc + Veg Moburg 2Pc + 2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Savor our Veg Himalayan Fried Momo paired with Spicy Red Sauce. Dive into our irresistible Momo burger, featuring crispy fried Veg Momos, complemented by red Chilli sauce, Green sauce, and creamy Mayonnaise. Perfectly balanced flavors in every bite! Enjoy it with a 250ml Coke. Best enjoyed by hand for the ultimate taste experience! (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/fd1e1608-4785-4c75-987f-5febbebd41c2_e1acc6a7-a72e-4ec9-8346-1a6789bbd3b4.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 35900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319124",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489894",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489896",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338369",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959727",
+"name": "Chicken Himalayan Fried Momo 8Pc + Chicken Moburg 2Pc + 2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Experience the rich flavors of our Chicken Himalayan Fried Momo with a kick of Spicy Red Sauce. Immerse yourself in the tempting Momo burger, featuring crunchy fried Chicken Momos, perfectly balanced with red Chilli sauce, Green sauce, and luscious Mayonnaise. Each bite is a symphony of taste! Pair it with a 250ml Coke, and for the ultimate indulgence, savor it by hand for a unique culinary delight. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/53c80af8-5ebf-4362-a47a-c4f7e087e079_b1bf57fe-fa7e-4ed4-8dc8-683adc309920.png",
+"inStock": 1,
+"price": 37900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319098",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489897",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489899",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338364",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959728",
+"name": "Veg PanFried Momo (Schezwan sauce)8Pc+Veg Moburg 2Pc +2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Veg Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Veg Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with a 250ml Coke . Enjoy the sumptuous meal. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/f01a5d5b-4f12-4914-a16e-eb1925a006f7_acfb13e4-2bdd-4608-9818-ff33142f14fb.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 36900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318936",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489900",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489902",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338371",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959729",
+"name": "Chicken PanFried Momo(Schezwan sauce)8Pc+Chk Moburg 2Pc+2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Chicken Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Chicken Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with a 250ml Coke. Enjoy the sumptuous meal. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/ac45b687-a765-4b60-944c-b69b0e2f1aae_96473ad3-326f-44b5-a2b9-6ebec57faac7.png_compressed",
+"inStock": 1,
+"price": 36900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319389",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489903",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489905",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338366",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959731",
+"name": "Veg PanFried Momo (Tomato Garlic)8Pc+Veg Moburg 2Pc +2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Veg Himalayan Momo, tossed in Tomato Garlic Sauce. Delight in the Momo burger, featuring crispy Veg Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with a 250ml Coke . Enjoy the sumptuous meal. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/f01a5d5b-4f12-4914-a16e-eb1925a006f7_acfb13e4-2bdd-4608-9818-ff33142f14fb.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 36900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319147",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489906",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489908",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338372",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959732",
+"name": "Chicken PanFried Momo (Tomato Garlic)8Pc+Chk Moburg 2Pc +2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Chicken Himalayan Momo, tossed in Tomato Garlic Sauce. Delight in the Momo burger, featuring crispy Chicken Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with a 250ml Coke. Enjoy the sumptuous meal. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/623b113f-a028-49c0-95d7-4127ec1cc2bf_201483f8-a0e5-4e68-9269-bdba715dd884.png",
+"inStock": 1,
+"price": 36900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318871",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489909",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489911",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338367",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959733",
+"name": "Veg Himalayan Chilli Momo 8Pc + Veg Moburg 2Pc + 2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Savor the Savory Fiesta Combo! Relish the Veg Himalayan Chilli Momo, kothey blended with a chilli seasoning mix. Delight in the Momo burger, featuring crispy Veg Momo, harmonized with red Chilli sauce, green sauce, and creamy Mayonnaise. perfection in every bite! no additional sauce served. Complete your experience with a 250ml Coke . Savor the sumptuous meal. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/4c80087f-0731-4095-a83f-696df1ae07b0_72d19e8a-8e84-4331-bd0b-a64b1f0bcac0.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 38900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318928",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489912",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489914",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338368",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184959734",
+"name": "Chicken Himalayan Chilli Momo 8Pc + Chicken Moburg 2Pc + 2 Coke 250ml",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 2 | Savor the Savory Fiesta Combo! Relish the Chicken Himalayan Chilli Momo, kothey blended with a chilli seasoning mix. Delight in the Momo burger, featuring crispy Chicken Momo, harmonized with red Chilli sauce, green sauce, and creamy Mayonnaise. perfection in every bite! no additional sauce served. Complete your experience with a 250ml Coke. Savor the sumptuous meal. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/091cf547-6968-448c-8138-cea46ccd9760_98e7db72-01fe-45ed-8672-10925fb0ae84.png_compressed",
+"inStock": 1,
+"price": 38900,
+"finalPrice": 26900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319061",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489915",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "249489917",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 2"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a8f864fb-2ab4-470b-8810-802ce1c737ee"
+],
+"parentId": "112338363",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "67971826"
+},
+{
+"title": "Party Combo for 4",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291937",
+"name": "Chicken Himalayan Steam Momo 12Pc+ Chicken Moburg 4Pc + Two 250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 4 | Experience the rich flavors of our Chicken Himalayan Steam Momo with a kick of Spicy Red Sauce. Immerse yourself in the tempting Momo burger, featuring crunchy fried Chicken Momos, perfectly balanced with red Chilli sauce, Green sauce, and luscious Mayonnaise. Each bite is a symphony of taste! Pair it with two 250ml Coke, and for the ultimate indulgence, savor it by hand for a unique culinary delight. (Serves 4).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/de5114db-3d83-4807-a918-2662d309bffb_5ba6bee8-11a5-453c-af5c-5eb2de9ae813.png",
+"inStock": 1,
+"price": 67800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319022",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390232",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390235",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 4"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933363",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291939",
+"name": "Veg Himalayan Steam Momo 12Pc + Veg Moburg 4Pc + Two 250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 4 | Savor our Veg Himalayan Steam Momo paired with Spicy Red Sauce. Dive into our irresistible Momo burger, featuring crispy fried Veg Momos, complemented by red Chilli sauce, Green sauce, and creamy Mayonnaise. Perfectly balanced flavors in every bite! Enjoy it with two 250ml Coke. Best enjoyed by hand for the ultimate taste experience! (Serves 4).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/c4335840-cb40-4299-8520-4c279477bbed_091dcf0c-69a8-4d4f-833b-47567b2424fb.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 63800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319328",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389827",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389830",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 4"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933369",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291941",
+"name": "Chk PanFried Momo(Schezwan sauce)12P+Chicken Moburg 4P+ Two 250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 4 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Chicken Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Chicken Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with two 250ml Coke. Enjoy the sumptuous meal. (Serves 4).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/9df2a019-691d-436d-8239-7c5a42c39a19_6b2b36f9-051e-4d07-bcef-cb2bf2b70c5f.png",
+"inStock": 1,
+"price": 73800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319357",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391377",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391383",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 4"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933366",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291943",
+"name": "Veg PanFried Momo(Schezwan sauce)12P + Veg Moburg 4Pc + Two250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 4 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Veg Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Veg Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with two 250ml Coke . Enjoy the sumptuous meal. (Serves 4).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/f0c96ab3-cb09-4959-bedf-54ee62d19265_606985b3-33e4-4054-a14d-e6e8d9c7befb.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 73800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318807",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391466",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391468",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 4"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933372",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "67680500"
+},
+{
+"title": "Party Combo for 6",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291945",
+"name": "Chicken Himalayan Steam Momo 18Pc+Chicken Moburg 6Pc+ Three 250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 6 | Experience the rich flavors of our Chicken Himalayan Steam Momo with a kick of Spicy Red Sauce. Immerse yourself in the tempting Momo burger, featuring crunchy fried Chicken Momos, perfectly balanced with red Chilli sauce, Green sauce, and luscious Mayonnaise. Each bite is a symphony of taste! Pair it with three 250ml Coke, and for the ultimate indulgence, savor it by hand for a unique culinary delight. (Serves 6).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/4961d7e4-00e9-4a74-8b79-4bd61fa6bdbc_c8b6391a-cc14-433a-8eb7-5643f6e700e9.png",
+"inStock": 1,
+"price": 101700,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318847",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389910",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389912",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 6"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933364",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291947",
+"name": "Veg Himalayan Steam Momo 18Pc + Veg Moburg 6Pc + Three 250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 6 | Savor our Veg Himalayan Steam Momo paired with Spicy Red Sauce. Dive into our irresistible Momo burger, featuring crispy fried Veg Momos, complemented by red Chilli sauce, Green sauce, and creamy Mayonnaise. Perfectly balanced flavors in every bite! Enjoy it with three 250ml Coke. Best enjoyed by hand for the ultimate taste experience! (Serves 6).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/70341c0c-aa24-4cda-b6a1-0d254c814db3_74206327-5e0b-46c3-b130-de51791d341a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 95700,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319338",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391394",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391397",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 6"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933370",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291949",
+"name": "Chk PanFried Momo(Schezwan sauce)18P+Chk Moburg 6P+Three 250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 6 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Chicken Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Chicken Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with three 250ml Coke. Enjoy the sumptuous meal. (Serves 6).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/48ef42c6-e72f-4221-8887-1ce4160bea32_1676af92-fb96-4ca6-bd8c-44b9ad5d5d41.png",
+"inStock": 1,
+"price": 110700,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319080",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390242",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390246",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 6"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933367",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "184291951",
+"name": "Veg PanFried Momo(Schezwan sauce)18P + Veg Moburg 6Pc+ Three250ml Coke",
+"category": "Max Saver Party Combos (Upto 38% off)",
+"description": "Serves 6 | Indulge in the Savory Fiesta Combo! Enjoy the hot & crispy Pan Fried Veg Himalayan Momo, tossed in spicy Schezwan sauce. Delight in the Momo burger, featuring crispy Veg Momo, balanced with red Chilli sauce, Green sauce, and creamy Mayonnaise. No extra sauce needed perfection in every bite! Complete your experience with three 250ml Coke . Enjoy the sumptuous meal. (Serves 6).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/10/f486bcf0-9f35-41d3-a10a-e507f154904f_144827d9-3e7e-4874-a43c-6c7aeaaa41d3.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 110700,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280319157",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391219",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391223",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 6"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "111933373",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "67680501"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/10/17/e016c7d1-4ad7-4c16-a602-c080a689a046_d660b45c-1b22-4255-962a-09ef92fef1bf.png",
+"categoryId": "66124415"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Momo & Chinese Party Packs (Upto 53% Off)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "188672747",
+"name": "Chicken Momo & Chilli Chicken Combo for 4",
+"category": "Momo & Chinese Party Packs (Upto 53% Off)",
+"description": "Chicken Darjeeling Steam Momo – 10 Pcs , 2 x Chilli Chicken Dry – 6 pcs",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/5/f7564b97-a887-42a2-bf1a-8967705fe913_028efbe5-80d3-46b6-b88f-8f8b7a18fe44.png",
+"inStock": 1,
+"price": 91800,
+"finalPrice": 52900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "261535736",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "261535738",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a5bcbf45-a826-4cc7-bd14-4fbaae097a3b"
+],
+"parentId": "114791509",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "188672749",
+"name": "Veg Momo & Chilli Potato Combo for 4",
+"category": "Momo & Chinese Party Packs (Upto 53% Off)",
+"description": "Veg Darjeeling Steam Momo – 10 Pcs , 2 x Honey Chilli Potato Veg",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/5/527d29af-d952-4372-b218-5d9ca1968dcc_96b818b8-c60f-42c2-934d-7cb83d82680b.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 98800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "261535650",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "261535652",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "114791512",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "188672748",
+"name": "Chicken Momo & Chilli Chicken Combo for 6",
+"category": "Momo & Chinese Party Packs (Upto 53% Off)",
+"description": "Chicken Darjeeling Steam Momo – 20 Pcs , 2 x Chilli Chicken Dry – 6 pcs",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/5/d7295bd1-603d-4453-a653-5e8766614604_4538ce97-bded-4511-8c9f-91bd4e9bed9a.png",
+"inStock": 1,
+"price": 133600,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "261535658",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "261535662",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "114791510",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "188672750",
+"name": "Veg Momo & Chilli Potato Combo for 6",
+"category": "Momo & Chinese Party Packs (Upto 53% Off)",
+"description": "Veg Darjeeling Steam Momo – 20 Pcs ,2 x Honey Chilli Potato Veg",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/5/2e42b725-e4f4-47b6-ae19-eddc5dba2ff3_3e226c68-8cd0-43e5-b089-fe09300946a1.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 138600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "261535713",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "261535715",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "114791513",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "188672751",
+"name": "Chicken Momo & Starters Large Party Pack",
+"category": "Momo & Chinese Party Packs (Upto 53% Off)",
+"description": "Chicken Darjeeling Steam Momo – 20 Pcs , 2 x Chilli Chicken Dry – 6 pcs , 1 x Honey Chilli Potato , 1 x Veggie Hakka Noodles",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/12/5/f6954cb0-dc40-4dc3-a7ca-5edc869c62e1_bfd9c0a1-1cc6-4b78-9781-c127866e1220.png",
+"inStock": 1,
+"price": 190600,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "261535695",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "261535697",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "114791511",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/12/5/f7564b97-a887-42a2-bf1a-8967705fe913_028efbe5-80d3-46b6-b88f-8f8b7a18fe44.png",
+"categoryId": "69573785"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Ramadan Iftar Specials (Upto 53% Off)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768609",
+"name": "Veg Darjeeling Steam Momo Iftar Box (20 Pcs)",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and pinch of spices. Served with authentic Darjeeling Momo sauce and we don't serve green sauce (20 pcs).Steam momos taste best when eaten with hand. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/cb465ae3-4243-494f-8791-8a83b702d026_74a9613d-0905-4c8e-af94-528bcda2e98a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 79600,
+"finalPrice": 39900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275867010",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832964",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"3fe5023c-7270-4428-af68-258669735b39"
+],
+"parentId": "118745885",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768590",
+"name": "Veg Pahari Fresh Steam Momo Iftar Box (20 Pcs)",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Savor the essence of the mountains with our Veg Pahari Fresh Steam momo, brimming with vibrant vegetables and infused with mountain-inspired flavors. Each bite is perfectly complemented by our red chilli sauce [20 pcs], offering a harmonious blend of freshness and spice. A truly balanced and flavorful experience in every bite! (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/dcd86611-76af-4dc6-b0ed-46727050a33e_e94e46b8-170e-43f8-99fd-fe0d86f1b56d.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 43600,
+"finalPrice": 29900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275867023",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275957038",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"925e88fb-f4a5-4a7b-a9e4-03b0138594b9"
+],
+"parentId": "118745888",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768593",
+"name": "Corn & Cheese Fried Momo Iftar Box (20 Pcs)",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Packed with shredded cheese and sweet corn, infused with the rich flavors of Indian masala, our delightful creation is made crispy by a dip in hot oil and served with red chilli sauce [20 pcs]. Please note, we don't serve green coriander chutney. (Serves 2).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/9a1f2f91-4746-428b-b2b1-ed55f8c26c70_6def2bbb-bcb2-499d-980a-a2c78a086f3b.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 83600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275867035",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832953",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "118745884",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768594",
+"name": "Chicken Cheese Fried Momo Iftar Box (20 Pcs)",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Indulge in the delightful blend of juicy Halal chicken and shredded cheese, infused with the rich flavors of Indian masala. Crisped to perfection by a dip in hot oil and served with red chilli sauce [20 pcs]. Please note, we don't serve green coriander Chutney. (Serves 2)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/2e50f10d-5002-4891-93fb-19c5aed7722b_17aa74ce-6e34-491e-b391-d54550e81bf1.png",
+"inStock": 1,
+"price": 91600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275867055",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832954",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "118745878",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768596",
+"name": "Chicken Momo & Chilli Chicken Iftar Meal Combo for 4",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Serves 4 | Introducing the Iftar Special Combo with Chicken Darjeeling Steamed Momos 10 pcs, 2 Chilli Chicken Dry 6 pcs. Prepared using halal non-veg.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/19396902-2abf-4fe4-901c-3cc486739aff_0a5bfb26-21d9-49ad-b595-c9b80ec148e4.png",
+"inStock": 1,
+"price": 91800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275866444",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832956",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "118745880",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768600",
+"name": "Chicken Momo & Chilli Chicken Iftar Meal Combo for 6",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Serves 6 | Introducing the Iftar Special Chicken Darjeeling Steamed Momos 20 pcs, 2 Chilli Chicken Dry 6 pcs. Prepared using halal non-veg.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/f6e9032d-ff1d-44c6-ad46-d1c727cae2bd_17190c60-8ce5-4a3b-ac96-a3cf5ba3ec0b.png",
+"inStock": 1,
+"price": 133600,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275866540",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832957",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "118745881",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768604",
+"name": "Veg Momo & Chilli Potato Iftar Meal Combo for 4",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Serves 4 | Introducing the Iftar Special Combo with Veg Darjeeling Steamed Momos 10 pcs, 2 Honey Chilli Potato (Veg).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/66803620-7900-4a63-a190-3674c081bdb0_4765b88b-9b8f-4a15-9823-04761b8c0b2b.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 98800,
+"finalPrice": 52900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275866276",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832960",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"a5bcbf45-a826-4cc7-bd14-4fbaae097a3b"
+],
+"parentId": "118745886",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768606",
+"name": "Veg Momo & Chilli Potato Iftar Meal Combo for 6",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Serves 6 | Introducing the Iftar Special Veg Darjeeling Steamed Momos 20 pcs, 2 Honey Chilli Potato (Veg).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/3906bf8a-7890-4edf-abe7-1d2c7b22b1f6_d65974ca-b4b5-4241-9a18-e9ced6a57f45.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 138600,
+"finalPrice": 64900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275867029",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832962",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"265493d1-911b-4fc1-b415-b9eb69d10ebb"
+],
+"parentId": "118745887",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194768607",
+"name": "Chicken Momo & Starters Large Iftar Meal combo",
+"category": "Ramadan Iftar Specials (Upto 53% Off)",
+"description": "Introducing the Iftar Special Large Meal Combo Chicken Darjeeling Steam Momo 20 Pcs , 2 x Chilli Chicken Dry 6 pcs , 1 x Honey Chilli Potato , 1 x Veggie Hakka Noodles Prepared using halal non-veg.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/ba2559c6-8eed-43b6-9ed0-a97b73e2821f_f8cda535-466d-4bce-a234-46e3dceb5cac.png",
+"inStock": 1,
+"price": 190600,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "275866807",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "275832963",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "118745882",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2026/2/16/cb465ae3-4243-494f-8791-8a83b702d026_74a9613d-0905-4c8e-af94-528bcda2e98a.png",
+"categoryId": "72262270"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Steam Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481809",
+"name": "Chicken Masala Steam Momo",
+"category": "Steam Momo",
+"description": "Soft juicy boneless chicken, with the flavour of in home spices. Served with red chilli sauce and green coriander chutney. [5 pcs]. Steam momos taste best when eaten with hand.100 gms / 214.54 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/acd144bf-1f1b-44a6-8dfb-4b0b193cef47_3599bc40-d8fd-490b-bf04-845bb1c2a61a.png",
+"inStock": 1,
+"price": 23900,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248389890",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310404",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310401",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112078",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389893",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389891",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389896",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.4",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "59162759",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481852",
+"name": "Chicken Delight Steam Momo",
+"category": "Steam Momo",
+"description": "Introducing yellow delight momos: 5 pcs of veggie-chicken blend, spiced and wrapped in yellow dough. Steamed momo served with red chilli sauce; no green sauce. Best enjoyed by hand! (Serves 1).",
+"imageId": "6005544c724cf9c3163be64b60d5d45b",
+"inStock": 1,
+"price": 15900,
+"finalPrice": 10900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391079",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310399",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 9500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310406",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 18500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112645",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391082",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391080",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391085",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "83 ratings",
+"ratingCountV2": "83"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"b9a85046-206a-4d78-b3c7-908e506a4105"
+],
+"isNinetyninestoreItem": true,
+"parentId": "59113627",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "155693090",
+"name": "Veg Pahari Feast Steam Momo",
+"category": "Steam Momo",
+"description": "Serves 1 | Indulge in the authentic taste of the mountains with our Veg Pahari Feast Steam Momo. Each momo is filled with a perfect blend of traditional spices and fresh vegetables, delivering a burst of flavor in every bite. Paired with red chilli sauce [5 pcs], this dish offers a harmonious balance of taste and heat, making it a true feast for your senses! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/9a1233a1-4dbb-44a6-9a78-1ac2976f7f78_8901df76-2a9a-4bc2-b239-bd46ba8529a1.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13900,
+"finalPrice": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "251082520",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654322",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 8900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140654323",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 16900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111422",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391026",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391025",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391029",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.5",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"bc508a20-df30-429b-b93f-fbf12bfed64c"
+],
+"isNinetyninestoreItem": true,
+"parentId": "91096008",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "155693091",
+"name": "Veg Pahari Fresh Steam Momo",
+"category": "Steam Momo",
+"description": "Serves 1 | Savor the essence of the mountains with our Veg Pahari Fresh Steam momo, brimming with vibrant vegetables and infused with mountain-inspired flavors. Each bite is perfectly complemented by our red chilli sauce [5 pcs], offering a harmonious blend of freshness and spice. A truly balanced and flavorful experience in every bite! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/68e9ba80-a62f-403f-9a07-7225633b6d4c_3927c9a2-c288-4005-b705-02cc8e078287.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 10900,
+"finalPrice": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391006",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310428",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 8900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310375",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 16900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110554",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391013",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391009",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391016",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.1",
+"ratingCount": "31 ratings",
+"ratingCountV2": "31"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"bc508a20-df30-429b-b93f-fbf12bfed64c"
+],
+"isNinetyninestoreItem": true,
+"parentId": "91096012",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668501",
+"name": "Veg Hot Garlic steam Momo",
+"category": "Steam Momo",
+"description": "Delight in the spicy goodness of our hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Accompanied by our home-made red chilli sauce [5 pcs], these Steam Momo are a finger-licking delight! Please note, we don't serve green coriander chutney. Enjoy the flavorful experience! (Serves 1).",
+"imageId": "89f814422331789005f7117a2c1e4e2f",
+"inStock": 1,
+"isVeg": 1,
+"price": 15900,
+"finalPrice": 12800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391512",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310418",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310421",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 22000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112564",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391518",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391514",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391522",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"4ef440a2-36a4-4cd5-a736-ca6b03e8fb12"
+],
+"parentId": "75633917",
+"offerCategory": "OFFER_CATEGORY_DEAL_RUSH",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668508",
+"name": "Chatpata Paneer Steam Momo",
+"category": "Steam Momo",
+"description": "Savor the goodness of delicious momos, filled with freshly chopped veggies, paneer, a hint of spices, and blended with Indian masala. Accompanied by our tantalizing red chilli sauce (5 pcs). Enjoy the authentic experience as steam momos taste best when eaten by hand. Please note, we don't serve green coriander chutney. Indulge in 100 gms of flavor-packed delight at 310.10 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/0013cbed-b170-4d34-9f18-d43e504ab7a9_b13fd806-a57b-42b2-b477-fa53cdf59cba.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 23900,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391325",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310411",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310408",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112816",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391329",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391327",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391332",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "12 ratings",
+"ratingCountV2": "12"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "86577471",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481743",
+"name": "Veg Darjeeling Steam Momo",
+"category": "Steam Momo",
+"description": "Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and pinch of spices. Served with authentic Darjeeling Momo sauce and we don't serve green sauce (5 pcs).Steam momos taste best when eaten with hand. 100 gms/ 187.98 kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/4bf5f59d-f072-4f15-8a23-680195ac6a34_17cb2a4c-4aed-405f-917c-fecfd24f5351.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 19900,
+"finalPrice": 12900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390752",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310374",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310400",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 22000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112316",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390758",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390754",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390762",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.1",
+"ratingCount": "116 ratings",
+"ratingCountV2": "116"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"09172409-64a1-4816-aa36-fd3526c8cd73"
+],
+"isNinetyninestoreItem": true,
+"parentId": "12178419",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481747",
+"name": "Corn & Cheese Steam Momo.",
+"category": "Steam Momo",
+"description": "Wow! Momo signature dish: Momos filled with shredded cheese and sweet corn, infused with the rich flavors of Indian spices. Accompanied by our home-made red chilli sauce (5 pcs). Steam momos are a finger-licking delight! Please note, we don't serve green coriander chutney. Enjoy 100 gms of pure bliss at 206.13 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/65841254-e303-4ec3-b796-7be282f7edcc_1f168239-4e09-4885-82d9-07085c9ac589.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391339",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310426",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 15000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140654321",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 28500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111608",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391344",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391340",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391350",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "12176825",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481748",
+"name": "Chicken Cheese Steam Momo",
+"category": "Steam Momo",
+"description": "Soft juicy boneless chicken, with the flavour of in house spices. Served with schezwan red chilli sauce (5 pcs ). Steam momos taste best when eaten with hand.100 gms / 214.54 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/d7707281-bddb-435d-9b83-c80a6a215e2b_7ddeebe1-cf61-4612-b6f7-3e0f6ddbb5fd.png",
+"inStock": 1,
+"price": 30900,
+"finalPrice": 18900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390543",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310410",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310407",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 28500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112497",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390550",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390545",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310503",
+"name": "Fried",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390553",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "3.7",
+"ratingCount": "39 ratings",
+"ratingCountV2": "39"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"fc5c1145-dd0f-497a-966d-0a7518df6a62"
+],
+"parentId": "12175814",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/4/19/acd144bf-1f1b-44a6-8dfb-4b0b193cef47_3599bc40-d8fd-490b-bf04-845bb1c2a61a.png",
+"categoryId": "61196058"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Fried Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481741",
+"name": "Veg Darjeeling Fried Momo",
+"category": "Fried Momo",
+"description": "Momo stuffed with freshly chopped vegetables (onion, carrot, cabbage, beans & coriander), herbs and tinch of spices. To make it crispy fried in hot oil and served with authentic Darjeeling momo sauce [5 pcs] and We don't serve green sauce[5 pcs]. 100 gms / 236.78 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/a0e9cbcd-b426-4fc1-b611-898b8c0e4881_fbd35672-c95a-45f2-aede-11a2e4f5c948.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 24400,
+"finalPrice": 18900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391405",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310394",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310392",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112604",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391409",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391406",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391414",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "22 ratings",
+"ratingCountV2": "22"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"fc5c1145-dd0f-497a-966d-0a7518df6a62"
+],
+"parentId": "12178398",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481812",
+"name": "Chicken Masala Fried Momo",
+"category": "Fried Momo",
+"description": "Filled with soft juicy bonless chicken,onion,coriander and mixed with the flavour of Indian spices.To make it crispy dipped in hot oil and served with home-made red chilli sauce and green coriander chutney [5 pcs]. 100 gms / 279.01 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/26/bcbde494-8e01-4d0c-8238-15b193b2ea01_804aef27-88d0-4856-a371-5570fe337b4a.png",
+"inStock": 1,
+"price": 28400,
+"finalPrice": 20900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390843",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310490",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310492",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 28500,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111318",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390849",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390847",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390855",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"5e469d8e-b7ba-4387-8c8b-b3108a5c3bc9"
+],
+"parentId": "53988997",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481854",
+"name": "Chicken Delight Fried Momo",
+"category": "Fried Momo",
+"description": "Introducing yellow delight momos: 5 pcs of vegetable-chicken blend, spiced and wrapped in yellow dough, crispy fried to perfection. Served with red chillivsauce; no green sauce. A flavor-packed delight in every bite! (Serves 1).",
+"imageId": "ea3e1c344c630efe97c4f857a4c8400b",
+"inStock": 1,
+"price": 20400,
+"finalPrice": 12800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390588",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310397",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310396",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 22000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111933",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390592",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390590",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390596",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "41 ratings",
+"ratingCountV2": "41"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"4ef440a2-36a4-4cd5-a736-ca6b03e8fb12"
+],
+"parentId": "59113623",
+"offerCategory": "OFFER_CATEGORY_DEAL_RUSH",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "177774904",
+"name": "Corn & Cheese Fried Momo",
+"category": "Fried Momo",
+"description": "Packed with shredded cheese and sweet corn, infused with the rich flavors of Indian masala, our delightful creation is made crispy by a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, we don't serve green coriander chutney. Enjoy the crunch with 100 gms at 333.8 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/499acada-7f73-4baa-a52e-2672e7a4ab85_8de5ab2f-cedf-4687-a67c-b45420ecb277.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 32000,
+"finalPrice": 19900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391175",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310391",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 15000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310385",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 28500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111854",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391181",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391178",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391187",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c201f587-88a8-43d5-b529-9ba4dee522f2"
+],
+"parentId": "12176711",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481744",
+"name": "Chicken Cheese Fried Momo",
+"category": "Fried Momo",
+"description": "Indulge in the delightful blend of juicy chicken and shredded cheese, infused with the rich flavors of Indian masala. Crisped to perfection by a dip in hot oil and served with red chilli sauce [5 pcs]. Please note, we don't serve green coriander Chutney. Enjoy 100 gms of this flavorful creation at 279.01 Kcal. (Serves 1)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/bb512532-9722-4d74-8309-d65a9b87907c_4eb97e20-43fd-4079-9702-a3d4805980ea.png_compressed",
+"inStock": 1,
+"price": 35400,
+"finalPrice": 20900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390117",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310382",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 17000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310376",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 32000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110936",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390120",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390118",
+"groupName": "Add-Wow! To your Taste",
+"choices": [
+{
+"id": "140310504",
+"name": "Pan Fried - Schezwan Sauce(Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310505",
+"name": "Pan Fried - Tomato Garlic Sauce (Non-Spicy)",
+"price": 7000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390122",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "67 ratings",
+"ratingCountV2": "67"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"5e469d8e-b7ba-4387-8c8b-b3108a5c3bc9"
+],
+"parentId": "12175719",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/a0e9cbcd-b426-4fc1-b611-898b8c0e4881_fbd35672-c95a-45f2-aede-11a2e4f5c948.png_compressed",
+"categoryId": "61196060"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Korean Momo (Newly Launched)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170162668",
+"name": "Veg Korean Spicy Momo - New",
+"category": "Korean Momo (Newly Launched)",
+"description": "Serves 1 | Crispy fried Veg Pahari Feast 5pcs Momo filled with a flavorful, savory stuffing, served in a spicy-sweet Gochujang sauce that brings a bold Korean twist to every bite. (Serves 1). New",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/87252e11-a3ca-4b46-91da-b29e96852706_9d63c42a-1643-45b4-ad5e-0623db6fb457.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 29900,
+"finalPrice": 14900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "249691649",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140541994",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541993",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111741",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390861",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390865",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.5",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"ad29a60d-aecf-4302-998a-e33886add2dc"
+],
+"isNinetyninestoreItem": true,
+"parentId": "104048540",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170162670",
+"name": "Chicken Korean Spicy Momo - New",
+"category": "Korean Momo (Newly Launched)",
+"description": "Serves 1 | Crispy fried Chicken Pahari Feast 5pcs Momo filled with a rich, flavorful stuffing, served in a spicy and sweet Gochujang sauce that infuses bold Korean flavors into every bite. (Serves 1). New",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/bacef87e-6f15-44e1-91f2-9b79d4ad7d72_4ea88ed4-501b-4e0f-8c04-b22c20a4c289.png",
+"inStock": 1,
+"price": 31900,
+"finalPrice": 14900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390128",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310434",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310431",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112441",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390130",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390134",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "19 ratings",
+"ratingCountV2": "19"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"ad29a60d-aecf-4302-998a-e33886add2dc"
+],
+"isNinetyninestoreItem": true,
+"parentId": "104048538",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170162671",
+"name": "Corn Cheese Korean Spicy Momo - New",
+"category": "Korean Momo (Newly Launched)",
+"description": "Serves 1 | Crispy fried Corn Cheese 5pcs Momo filled with a creamy, flavorful stuffing, served in a spicy and sweet Gochujang sauce that blends bold Korean flavors for a unique and tasty twist. (Serves 1). New",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/ecb9d68e-42f6-49aa-9448-c6b6c0a572a1_7788a5b0-35a0-47a0-ae83-23292803403b.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 35900,
+"finalPrice": 19900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "249691317",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140541996",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541995",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111831",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390349",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390354",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c201f587-88a8-43d5-b529-9ba4dee522f2"
+],
+"parentId": "104048539",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170162672",
+"name": "Chicken Cheese Korean Spicy Momo - New",
+"category": "Korean Momo (Newly Launched)",
+"description": "Serves 1 | Crispy fried Chicken Cheese 5pcs Momo filled with a rich, cheesy chicken stuffing, served in a spicy and sweet Gochujang sauce that brings bold and vibrant Korean flavors to every bite. (Serves 1). New",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/946ce179-7e61-48d1-9fca-62b0ca61497b_8bfd4eb8-11c6-4c57-9b3e-505c4854c5cf.png",
+"inStock": 1,
+"price": 36900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "251082492",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654316",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 20500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140654324",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 38900,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111892",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390005",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390009",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "104048537",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/87252e11-a3ca-4b46-91da-b29e96852706_9d63c42a-1643-45b4-ad5e-0623db6fb457.png",
+"categoryId": "61447400"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Pan Fried",
+"categories": [
+{
+"title": "In Tomato Garlic Sauce (Non Spicy) .",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "128762112",
+"name": "Chicken Masala Pan Fried Momo in Tomato Garlic Sauce",
+"category": "Pan Fried",
+"description": "Hot and crispy fried chicken masala momo tossed in tomato garlic sauce [Non Spicy] and garnished with coriander We don't serve additional Sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/1/23d67b70-fcb0-478a-9ab8-45c2ee31ff8e_495e2752-ff78-41c2-a6da-42e7484e9b6b.png",
+"inStock": 1,
+"price": 30900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "251082363",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654327",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 17000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140654339",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 32000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112294",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390634",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390637",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "74349234",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668583",
+"name": "Chicken Delight Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+"category": "Pan Fried",
+"description": "Introducing yellow delight momos, 5 pcs of vegetable-meat blend, herb and spice-infused, wrapped in yellow dough, and hot & cricpy fried chicken delight momo tossed in tomato garlic sauce [Non- Spicy]. No extra sauce needed for this flavor-packed treat! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/cac29f0e-e308-41a3-90d5-cb89c843e08e_425f91e5-b125-4151-bfe6-08c3b3feee4b.png_compressed",
+"inStock": 1,
+"price": 22900,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391477",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654333",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310471",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112717",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391481",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391486",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "101615860",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668588",
+"name": "Chicken Cheese Pan Fried Momo in Tomato Garlic Sauce(Non Spicy)",
+"category": "Pan Fried",
+"description": "Hot & crispy fried chicken cheese momo, tossed in tomato garlic sauce (Non-Spicy) and garnished with chopped coriander. We don't serve additional sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/b085935b-2e7e-4379-9e9e-a76c7ed20fce_a4e3ab60-03dc-4d9d-9d2c-8d6b131602a5.png_compressed",
+"inStock": 1,
+"price": 37900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390405",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654359",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310521",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112548",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390408",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390413",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "101615858",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "61196081"
+},
+{
+"title": "In Schezwan Sauce (Spicy) .",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668606",
+"name": "Chicken Delight Pan Fried Momo in Schezwan Sauce (Spicy)",
+"category": "Pan Fried",
+"description": "Introducing yellow delight momos, 5 pcs of vegetable-meat blend, herb and spice-infused, wrapped in yellow dough, and hot & cricpy fried chicken delight momo tossed in spicy schezwan sauce. No extra sauce needed for this flavor-packed treat! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/cac29f0e-e308-41a3-90d5-cb89c843e08e_425f91e5-b125-4151-bfe6-08c3b3feee4b.png_compressed",
+"inStock": 1,
+"price": 22900,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391131",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310448",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310445",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111909",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391134",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391137",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "88264536",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668610",
+"name": "Chicken Masala Pan Fried Momo in Schezwan Sauce (Spicy)",
+"category": "Pan Fried",
+"description": "Hot and crispy fried chicken masala momo tossed spicy schezwan sauce and garnished with coriander We don't serve additional Sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/1/23d67b70-fcb0-478a-9ab8-45c2ee31ff8e_495e2752-ff78-41c2-a6da-42e7484e9b6b.png",
+"inStock": 1,
+"price": 30900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390390",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310493",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 17000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310491",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 32000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111186",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390394",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390399",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "88264539",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481746",
+"name": "Chicken Cheese Pan Fried Momo in Schezwan Sauce (Spicy)",
+"category": "Pan Fried",
+"description": "Hot & crispy fried chicken cheese momo, tossed in spicy schezwan sauce and garnished with chopped coriander. We don't serve additional sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/b085935b-2e7e-4379-9e9e-a76c7ed20fce_a4e3ab60-03dc-4d9d-9d2c-8d6b131602a5.png_compressed",
+"inStock": 1,
+"price": 37900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390801",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310499",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140654342",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111559",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390803",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390807",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "61 ratings",
+"ratingCountV2": "61"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "12175763",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "61196082"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/5/1/23d67b70-fcb0-478a-9ab8-45c2ee31ff8e_495e2752-ff78-41c2-a6da-42e7484e9b6b.png",
+"categoryId": "61196062"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Pan Fried (Cheesy)",
+"categories": [
+{
+"title": "With Cheese Fillings In Schezwan Sauce(Spicy)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862852",
+"name": "Veg Pahari Feast Cheesy Pan Fried Momo In Schezwan Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Indulge in the authentic taste of the mountains with our veg pahari feast pan fried momo. Each momo is filled with a perfect mix of fresh vegetables and traditional spices, delivering a flavorful burst in every bite. Enjoy these hot and crispy fried momos, tossed in a spicy schezwan sauce [5 pcs]no extra sauce needed for this flavor-packed treat! Delight in a truly delicious experience! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/7bdb20bc-fac0-4914-a1dd-cedb4217b57e_ad0497b0-ed11-4fd8-981d-48b9b717b386.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 23500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062404",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862853",
+"name": "Veg Pahari Fresh Cheesy Pan Fried Momo In Schezwan Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Discover the taste of the mountains with our veg pahari fresh pan fried momo, brimming with fresh vegetables and mountain-inspired seasonings. These crispy, hot momos are coated in a zesty, spicy schezwan sauce [5 pcs], delivering a burst of flavor with every bite. No additional sauce neededjust pure, satisfying deliciousness! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/5cf273b6-9560-45c8-a7eb-8ca1ec730512_71e4d3ce-6d2f-4044-9b24-ec08760052e1.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 20500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062406",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862854",
+"name": "Veg Himalayan Cheesy Pan Fried Momo In Schezwan Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Delight in the authentic taste of the hills with our veggie-loaded momos. Each bite bursts with flavor, served with the popular Wow Momo Sauce. Enjoy the hot and crispy fried momos, tossed in a spicy schezwan sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! delight in the delicious experience! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/ae4fa486-f1d8-4546-bfda-3ddb88c18a51_f5227809-b645-4ca4-881b-03d94d3eaf83.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 20900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062400",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862855",
+"name": "Veg Hot Garlic Cheesy Pan Fried Momo In Schezwan Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Delight in the spicy goodness of our veg hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Enjoy the hot and crispy fried Momos, tossed in a spicy schezwan sauce [5pc]. No extra sauce needed for this flavor-packed treat! Savor the delicious experience! (Serves 1)",
+"imageId": "b2b1495f457b299c317d3210921a8e08",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062402",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862856",
+"name": "Veg Darjeeling Cheesy Pan Fried Momo In Schezwan Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Crispy fried veggie Darjeeling momo, tossed in spicy schezwan sauce and garnished with chopped coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/34291414-d9e2-4861-85d3-936f828620dc_e0c19635-f262-4f1d-b8b4-0dc1ad6e7d72.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062398",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862857",
+"name": "Paneer Cheesy Pan Fried Momo In Schezwan Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Hot & spongy paneer fried momo tossed in spicy schezwan sauce and garnished with coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/7/07c707ca-ca88-4357-b6a9-4ab2f6869752_3cc47fe6-dec4-41b2-b1d5-db331ea71720.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062396",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "73183819"
+},
+{
+"title": "With Cheese Filling In TomatoGarlic(NonSpicy)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862866",
+"name": "Veg Pahari Feast Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Experience the true flavors of the mountains with our veg pahari feast pan fried momo. Stuffed with a vibrant blend of fresh vegetables and traditional spices, each momo bursts with rich flavor. Crispy and hot, these fried momos are coated in a savory tomato garlic sauce [5 pcs], offering all the flavor you need in one perfect bite. A satisfying and flavorful treat awaits! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/86f46ea0-d4a0-4a25-b12c-8e9a13e1deff_24ca9826-bf6b-4701-86fd-30ff8490e73f.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 23500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062405",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862867",
+"name": "Veg Pahari Fresh Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Savor the essence of the mountains with our veg pahari fresh pan fried momo, packed with vibrant vegetables and infused with mountain-inspired flavors. These hot and crispy fried momos are tossed in a rich tomato garlic sauce [5 pcs]no extra sauce needed for this flavor-packed treat! Enjoy a truly delicious and satisfying experience! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/2669d06c-a264-4817-b78b-017199e2343f_dea54874-6080-4008-87c1-957ad7bb0e52.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 20500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062407",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862868",
+"name": "Veg Himalayan Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Indulge in the authentic taste of the hills with our veggie and soya chunks-loaded momos. Each bite is a burst of flavor. Enjoy the hot and crispy fried momos, tossed in a non-spicy Tomato Garlic sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! Delight in the delicious experience! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/ae4fa486-f1d8-4546-bfda-3ddb88c18a51_f5227809-b645-4ca4-881b-03d94d3eaf83.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 20900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062401",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862869",
+"name": "Veg Hot Garlic Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Delight in the spicy goodness of our hot garlic momos, where succulent momos meet a tantalizing sweet and garlic-infused kick. Enjoy the hot and crispy fried momos, tossed in a non-spicy tomato garlic sauce [5 pcs]. No extra sauce needed for this flavor-packed treat! Savor the delicious experience! (Serves 1).",
+"imageId": "b2b1495f457b299c317d3210921a8e08",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062403",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862870",
+"name": "Veg Darjeeling Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Crispy fried veggie Darjeeling momo, tossed in non-spicy tomato garlic sauce and garnished with chopped coriander. We don't serve additional Sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/34291414-d9e2-4861-85d3-936f828620dc_e0c19635-f262-4f1d-b8b4-0dc1ad6e7d72.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062399",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862871",
+"name": "Paneer Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Hot & spongy paneer fried momo tossed in non-spicy tomato garlic sauce and garnished with coriander. We don't serve additional sauce [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/7/07c707ca-ca88-4357-b6a9-4ab2f6869752_3cc47fe6-dec4-41b2-b1d5-db331ea71720.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062397",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862872",
+"name": "Corn Cheese Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Hot & crispy corn cheese fried momo, tossed in non-spicy tomato garlic sauce and garnished with coriander We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/2dbd00a8-3da5-4355-b41a-b64390842705_51002329-0e72-4337-8426-3b967aca4392.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 36900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062395",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862873",
+"name": "Chicken Pahari Feast Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Indulge in our pahari chicken pan fried momo, featuring tender chicken seasoned with a perfect blend of traditional pahari spices. These hot and crispy momos are coated in a rich tomato garlic sauce [5 pcs]no extra dipping sauce needed for this flavor-packed treat! Enjoy a truly delicious and satisfying experience. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/6b9bf6e1-b779-4747-8d70-faf886daf19e_5cbc5c05-d0c1-4655-8092-4bc606e58b7b.png_compressed",
+"inStock": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062392",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196875572",
+"name": "Chicken Pahari Fresh Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Indulge in our pahari chicken pan fried momo, where tender chicken meets a perfect blend of traditional Pahari spices. These hot and crispy momos are coated in a rich tomato garlic sauce [5 pcs]no extra dipping sauce needed for this flavor-packed delight! Enjoy a truly delicious and satisfying experience. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/ce73cc37-debf-494f-86a1-6f096269d574_2ec1b374-24c1-4fd2-9b5a-8aba5a20debc.png",
+"inStock": 1,
+"price": 22500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120107305",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196862874",
+"name": "Chicken Himalayan Cheesy Pan Fried Momo In Tomato Garlic Sauce",
+"category": "Pan Fried (Cheesy)",
+"description": "Introducing yellow delight momos, 5 pcs of vegetable-meat blend, herb and spice-infused, wrapped in yellow dough, and hot & cricpy fried chicken delight Momo tossed in Tomato Garlic sauce [Non- Spicy]. No extra sauce needed for this flavor-packed treat! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/b1cabcad-6259-4c80-b345-b04dc10b3f2a_fe474403-1136-4f32-93e3-1164c525c143.png_compressed",
+"inStock": 1,
+"price": 22500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "120062388",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "73183820"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/10/15/7bdb20bc-fac0-4914-a1dd-cedb4217b57e_ad0497b0-ed11-4fd8-981d-48b9b717b386.png",
+"categoryId": "73183818"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Wow! Crunchy Kurkure Momo",
+"categories": [
+{
+"title": "Wow! Crunchy Kurkure Momo - 5pcs.",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182385881",
+"name": "Crunchy Kurkure Chicken Masala Momo [5pcs]",
+"category": "Wow! Crunchy Kurkure Momo",
+"description": "Kurkure Chicken masala MOMO is filled with soft, juicy boneless chicken, onion, and coriander, mixed with the flavors of Indian spices. To make it crispy, it is dipped in hot oil and served with mayo dip and Red sauce. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/af894735-f7f8-4676-8f67-fff45365f69a_83fee034-74cb-4e6b-a04f-c5d6dfdc1028.png",
+"inStock": 1,
+"price": 19900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248389788",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310497",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310495",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110753",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389791",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389794",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "110525931",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182385882",
+"name": "Crunchy Kurkure Paneer Masala Momo [5pcs]",
+"category": "Wow! Crunchy Kurkure Momo",
+"description": "Serves 1 | Savor the goodness of Delicious Momos, filled with freshly chopped veggies, paneer, a hint of spices, and blended with Indian masala. To make them crispy, they are dipped in hot oil and served with a Mayo Dip and Red sauce [5 pcs]. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/84fc7c9b-291b-4097-a2b0-53609c7e8376_eee37319-500f-4365-8507-dd8589f3e22a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 19900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390680",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310534",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310527",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112144",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390683",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390688",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "2.9",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "110525932",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182385883",
+"name": "Crunchy Kurkure Chicken Cheese Momo [5pcs]",
+"category": "Wow! Crunchy Kurkure Momo",
+"description": "Serves 1 | Indulge in the all-time favorite, mouth-watering Momos filled with a mix of juicy boneless chicken, cheese, coriander, herbs, and Indian spices. Served with a Mayo dip [5 pcs]. To make them crispy, they are dipped in hot oil and served with a mayo dip and Red sauce. Indulge in the irresistible flavors of Krunchy Kurkure Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature crunch of Kurkure Krunchy .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/de5f583a-e9e2-4098-b606-ba83683e807d_96a203ff-930b-4e89-9830-eea72700b912.png",
+"inStock": 1,
+"price": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390720",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310466",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112400",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390724",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390729",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "110539652",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182385884",
+"name": "Crunchy Kurkure Veg Hot Garlic Momo [5pcs]",
+"category": "Wow! Crunchy Kurkure Momo",
+"description": "Serves 1 | Delight in the spicy goodness of our Hot Garlic Momos, where succulent momos meet a tantalizing sweet and garlic-infused kick.Served with a Mayo dip and Red sauce [5 pcs]. To make it crispy, it is dipped in hot oil and served with a mayo dip. Indulge in the irresistible flavors of Kurkure Krunchy Momo, the ultimate fusion of traditional momo and the iconic Indian snack, topped with the signature Krunchy of Kurkure .",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/a4fd23aa-f12b-4fc7-b1b7-9b498d0ec241_bbe74864-56db-4bc5-af50-d681b7d509dc.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 14900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390178",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310455",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110990",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390180",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390183",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "110539653",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66721622"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/8/18/af894735-f7f8-4676-8f67-fff45365f69a_83fee034-74cb-4e6b-a04f-c5d6dfdc1028.png",
+"categoryId": "66721621"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Chilli Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481863",
+"name": "Chicken Delight Chilli Momo",
+"category": "Chilli Momo",
+"description": "Introducing yellow delight momos, 5 pcs of vegetable-chicken blend, herb and spice-infused momos with a yellow outer layer, kothey blended with chilli seasoning mix. Enjoy them as is; no extra sauce needed for this delicious plate of momos! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/3d607f31-2615-43f0-a068-9e673efb2d99_900ec632-6a9a-4d2a-a0af-a96fbd5429b6.png_compressed",
+"inStock": 1,
+"price": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112205",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389850",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389853",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "59113622",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "132232654",
+"name": "Veg Himalayan Chilli Momo",
+"category": "Chilli Momo",
+"description": "Savor the authentic taste of the hills with our veg Himalayan chilli momos. Each bite bursts with delightful spices veggie and soya chanks loaded momo kothey blended with chilli seasoning mix. No extra sauce needed for this delightful plate of Momos! [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/eba85323-5c59-4faa-8c02-1f79073d78ce_874fc82e-fe7f-45fa-94a6-42b97c4673b6.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 20500,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390886",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310463",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310461",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112340",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390887",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390890",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "19 ratings",
+"ratingCountV2": "19"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "75633904",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "132232656",
+"name": "Veg Hot Garlic Chilli Momo",
+"category": "Chilli Momo",
+"description": "Indulge in the heat with our spicy veg hot garlic momos, featuring succulent bites infused with a sweet chili and garlic kick. Bursting with delightful flavors and kothey blended with chilli seasoning mix, this delightful plate of momos [5 pcs] requires no extra sauce, it's a complete and flavorful experience on its own! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/eba85323-5c59-4faa-8c02-1f79073d78ce_874fc82e-fe7f-45fa-94a6-42b97c4673b6.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112380",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390502",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390506",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "12 ratings",
+"ratingCountV2": "12"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "75633911",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "132232658",
+"name": "Chatpata Paneer Chilli Momo",
+"category": "Chilli Momo",
+"description": "Enfused Paneer Chilli Momo Kothey with fusion magic seasoning of chilli flavours. Served with a colorful delight.We don't serve additional Sauce with this plate of Momos [5Pcs]. (Serves 1).",
+"imageId": "63a1953791c11c2cc0f05b4e606658b7",
+"inStock": 1,
+"isVeg": 1,
+"price": 29900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112844",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391052",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391056",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "86577465",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "132232662",
+"name": "Chicken Masala Chilli Momo",
+"category": "Chilli Momo",
+"description": "Experience the fusion magic of our enfused chicken masala chilli momos, packed with Kothey delightful chili flavors and a burst of colors (5 pcs). No extra sauceserved; let the fusion perfection speak for itself! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/3d607f31-2615-43f0-a068-9e673efb2d99_900ec632-6a9a-4d2a-a0af-a96fbd5429b6.png_compressed",
+"inStock": 1,
+"price": 30900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111116",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389993",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389997",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "75633902",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481792",
+"name": "Chicken Cheese Chilli Momo",
+"category": "Chilli Momo",
+"description": "Authentic chicken kothey version with melted cheese and wrapped with chilli seasoning served with the dash of spring onion. We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/42c698d3-6f93-4e73-85d1-44ba959bb820_442c9573-ca95-48cc-bc76-b525d63c0f17.png_compressed",
+"inStock": 1,
+"price": 39900,
+"finalPrice": 28900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391314",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310513",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310450",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112796",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391315",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391317",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"9b2ce4ff-0c0b-4768-a5d5-300b804af1c3"
+],
+"parentId": "12175714",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481789",
+"name": "Veg Darjeeling Chilli Momo",
+"category": "Chilli Momo",
+"description": "Veggie kothey roasted and mixed with pahari seasoning to experience a Wow! Hilly touch. We don't serve additional sauce with this plate of momos [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/eba85323-5c59-4faa-8c02-1f79073d78ce_874fc82e-fe7f-45fa-94a6-42b97c4673b6.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 28900,
+"finalPrice": 20900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391490",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310454",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 17000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310452",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 32000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112949",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391491",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391494",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"5e469d8e-b7ba-4387-8c8b-b3108a5c3bc9"
+],
+"parentId": "88264540",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481791",
+"name": "Corn Cheese Chilli Momo",
+"category": "Chilli Momo",
+"description": "Enfused corn and cheese momo with fusion magic seasoning of chilli flavours. Served with a colorful delight.We don't serve additional Sauce with this plate of Momos [5 pcs]. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/5433418f-104e-4ef8-9c51-e2164ca100d3_c2440d06-b9cd-411b-a45c-600cc71aef2e.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 36500,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390559",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310487",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310485",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111507",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390560",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390563",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "12176707",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/3d607f31-2615-43f0-a068-9e673efb2d99_900ec632-6a9a-4d2a-a0af-a96fbd5429b6.png_compressed",
+"categoryId": "61196066"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "New Gluten Free Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328377",
+"name": "Gluten Free Veg Darjeeling Steam Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | A flavourful mix of cabbage, onion, carrot, coriander, and spices wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy Darjeeling sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/e26281cd-1657-4b3c-8b9c-9b6a2b9db801_e58437d9-8bfa-467f-bc69-5236213e5d9a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111523",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390618",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390622",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145041",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328379",
+"name": "Gluten Free Corn Cheese Steam Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Sweet corn and creamy cheese blended with colorful peppers and spices, wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with spicy red sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/d35bbb29-3d9d-4517-ae31-73f56f5043d1_6f8caea6-5a08-4392-9bdb-596cbaae9365.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111392",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390669",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390673",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145039",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328381",
+"name": "Gluten Free Veg Darjeeling Chilli Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Filled with a mix of vegetables and spices, tossed in spicy Darjeeling chili sauce. [5 pcs] Calories: 213.37 | Protein: 7.05g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/0c3816c1-aa78-4f13-968a-cd92f79dba35_6cc2abb8-e6e2-4d40-ba08-5ae9e6debb41.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112518",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390074",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390077",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145040",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328383",
+"name": "Gluten Free Corn Cheese Chilli Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Sweet corn and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Stir-fried in a hot and spicy chili sauce. [5 pcs] Calories: 226.98 | Protein: 9.40g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/42bad911-aa86-4e2e-9f93-c817edc71278_f4e5275d-59d5-4abd-a0ff-7d6995e05753.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 44500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111972",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391367",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391370",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145038",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328380",
+"name": "Gluten Free Chicken Cheese Steam Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Shredded chicken infused with spices and wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Served with a spicy red sauce. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/5f2e0024-11d0-4a73-bb8c-122c61ee2d9a_a2f5bf87-895b-41bf-bf4e-c6db374bdb6d.png",
+"inStock": 1,
+"price": 36500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112462",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390340",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390343",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145035",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174328384",
+"name": "Gluten Free Chicken Cheese Chilli Momo",
+"category": "New Gluten Free Momo",
+"description": "Serves 1 | Juicy chicken and cheese wrapped in gluten-free dough made with quinoa and chickpeas. Lower in calories, higher in protein. Tossed in a spicy house-made chili sauce for a fiery delight. [5 pcs] Calories: 246.85 | Protein: 10.96g per 100g. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/3d913000-9c29-4012-87e4-b64963e59f8f_bb66ad05-776d-41d5-900f-3faabf88a2c4.png",
+"inStock": 1,
+"price": 46500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112363",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390949",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390952",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/sep_2025/Minis_tag_11sep.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "105145034",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/6/14/e26281cd-1657-4b3c-8b9c-9b6a2b9db801_e58437d9-8bfa-467f-bc69-5236213e5d9a.png",
+"categoryId": "63347197"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Peri Peri Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481848",
+"name": "Chicken Masala Fried Peri Peri Momo",
+"category": "Peri Peri Momo",
+"description": "Introducing chicken masala fried peri peri momo, 5 pcs of vegetable-chicken blend, spiced and crispy fried to perfection. Elevate the experience by placing them in our shake bag, mixing with peri peri seasoning, and serving with red chilli sauce and green coriander sauce .Get ready for a WOW-worthy treat! 100 gms / 279.01 Kcal. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/13/6ef68f70-1554-4d0b-aa8d-fc472084ba5e_c1b9f4c5-62ab-4dd6-8d66-cd3864941c24.png",
+"inStock": 1,
+"price": 30900,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390362",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310489",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 17000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140310488",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 32000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110427",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390363",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390367",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "59162758",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481850",
+"name": "Chicken Cheese Fried Peri Peri Momo",
+"category": "Peri Peri Momo",
+"description": "Introducing chicken cheese fried peri peri momo, 5 pcs of vegetable-chicken and cheese blend, spiced and crispy fried to perfection. Elevate the experience by placing them in our shake bag, mixing with peri peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! 100 gms / 330.76 Kcal. (Serves 1)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/13/985fbb68-ff53-414e-8e9b-de3be1a204d9_a2d2a092-3f79-4304-b0ed-77d5bf73ca01.png",
+"inStock": 1,
+"price": 37900,
+"finalPrice": 24900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248391064",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140310494",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 18000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140654337",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 33800,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111787",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391066",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391069",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"c21f0fd6-7dbc-4941-87c3-2700a4f72fd5"
+],
+"parentId": "54785214",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481856",
+"name": "Chicken Delight Fried Peri Peri Momo",
+"category": "Peri Peri Momo",
+"description": "Introducing yellow delight momos, 5 pcs of vegetable-chicken blend, spiced and wrapped in yellow dough, crispy fried to perfection.Elevate the experience by placing them in our shake bag, mixing with Peri Peri seasoning, and serving with red chilli sauce. No green coriander sauce served. Get ready for a WOW-worthy treat! (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/10/13/6ef68f70-1554-4d0b-aa8d-fc472084ba5e_c1b9f4c5-62ab-4dd6-8d66-cd3864941c24.png",
+"inStock": 1,
+"price": 22900,
+"finalPrice": 18900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "251082414",
+"groupName": "Add Extra Momo",
+"choices": [
+{
+"id": "140654355",
+"name": "5 Pcs - Momo (Save EXTRA 10%)",
+"price": 13500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "140654353",
+"name": "10 Pcs - Momo (Save EXTRA 15%)",
+"price": 25000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111255",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391440",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248391443",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"fc5c1145-dd0f-497a-966d-0a7518df6a62"
+],
+"parentId": "59113624",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/10/13/6ef68f70-1554-4d0b-aa8d-fc472084ba5e_c1b9f4c5-62ab-4dd6-8d66-cd3864941c24.png",
+"categoryId": "61196064"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Chicken Satay (Newly Launched)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "193385255",
+"name": "Chicken Satay",
+"category": "Chicken Satay (Newly Launched)",
+"description": "Serves 1 | Juicy chicken chunks marinated in aromatic Asian spices, grilled to a smoky char and glazed with a hint of sweetness. Served with a rich, creamy peanut dip that delivers the perfect balance of nutty, spicy, and savoury notes",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/18ee31c3-0f8f-492f-8124-957e03aacc1c_3b12fb0a-7d9e-40a7-84b3-c625a0e89389.png",
+"inStock": 1,
+"price": 32900,
+"finalPrice": 22900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "280318861",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "272661751",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "272661752",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"91399177-932d-4db8-86ed-04d4572345de"
+],
+"parentId": "117888306",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2026/2/2/18ee31c3-0f8f-492f-8124-957e03aacc1c_3b12fb0a-7d9e-40a7-84b3-c625a0e89389.png",
+"categoryId": "71675102"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Momo Burger & Fries",
+"categories": [
+{
+"title": "Momo Burger [Moburg]",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481794",
+"name": "Cheesy Veggie Moburg",
+"category": "Momo Burger & Fries",
+"description": "Burger filled with crispy fried veggie momos and topped with red & green sauce and mayonnaise, with layer of cheese slice. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/26/f020c476-50d2-4d51-aebe-160376923f38_20d976cc-b7ce-4e97-b49f-671d4a18c77a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 14900,
+"finalPrice": 12800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390294",
+"groupName": "Add-On",
+"choices": [
+{
+"id": "135955078",
+"name": "Cheese Slice - extra",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110627",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390296",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390299",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"4ef440a2-36a4-4cd5-a736-ca6b03e8fb12"
+],
+"parentId": "12175628",
+"offerCategory": "OFFER_CATEGORY_DEAL_RUSH",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481795",
+"name": "Cheesy Chicken Moburg",
+"category": "Momo Burger & Fries",
+"description": "Burger filled with crispy fried chicken momos and topped with red & green sauce and mayonnaise, with layer of cheese slice. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/26/f24deadf-9d4d-4df9-8375-319bd0ece963_70101e5e-bb6f-444f-bb9c-75bd1c87a3ac.png",
+"inStock": 1,
+"price": 16900,
+"finalPrice": 14900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248389979",
+"groupName": "Add-On",
+"choices": [
+{
+"id": "135955078",
+"name": "Cheese Slice - extra",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248112182",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389982",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389988",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"ad29a60d-aecf-4302-998a-e33886add2dc"
+],
+"isNinetyninestoreItem": true,
+"parentId": "12175624",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481836",
+"name": "Corn Cheese Moburg",
+"category": "Momo Burger & Fries",
+"description": "Burger filled with crispy fried corn cheese momos and topped with red & green sauce and mayonnaise. We don't serve any sauce or mayonnaise or dips. Dips can be ordered separately. (Serves 1).",
+"imageId": "b8b6f0e4e6330d1c2daacd2a19eea5fb",
+"inStock": 1,
+"isVeg": 1,
+"price": 16900,
+"finalPrice": 12800,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390096",
+"groupName": "Add-On",
+"choices": [
+{
+"id": "135955078",
+"name": "Cheese Slice - extra",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110667",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390098",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390100",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"4ef440a2-36a4-4cd5-a736-ca6b03e8fb12"
+],
+"parentId": "12176720",
+"offerCategory": "OFFER_CATEGORY_DEAL_RUSH",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481837",
+"name": "Chicken Cheese Moburg",
+"category": "Momo Burger & Fries",
+"description": "Burger filled with crispy chicken cheese fried momos and topped with red and green sauce and mayonnaise. We don't serve any sauce or mayonnaise or dips. Dips can be ordered separately. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/4/26/f24deadf-9d4d-4df9-8375-319bd0ece963_70101e5e-bb6f-444f-bb9c-75bd1c87a3ac.png",
+"inStock": 1,
+"price": 18900,
+"finalPrice": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248389921",
+"groupName": "Add-On",
+"choices": [
+{
+"id": "135955078",
+"name": "Cheese Slice - extra",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110872",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389923",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389929",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "26 ratings",
+"ratingCountV2": "26"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"b5d171e5-7b38-4f76-9a17-df2ac2e0e1dd"
+],
+"parentId": "52919614",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481755",
+"name": "Chicken Moburg",
+"category": "Momo Burger & Fries",
+"description": "Burger filled with crispy chicken fried momos and topped with red and green sauce and mayonnaise. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/57ddb331-25cd-414e-81c8-bd723ab1e0e7_e9006554-cbf2-4ed4-a68d-5c5c141cbb51.png_compressed",
+"inStock": 1,
+"price": 12900,
+"finalPrice": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390979",
+"groupName": "Add-On",
+"choices": [
+{
+"id": "135955078",
+"name": "Cheese Slice - extra",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248110830",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390982",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390987",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "27 ratings",
+"ratingCountV2": "27"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"bc508a20-df30-429b-b93f-fbf12bfed64c"
+],
+"isNinetyninestoreItem": true,
+"parentId": "12175984",
+"menuFilterIds": [
+"NONVEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481756",
+"name": "Veggie Moburg",
+"category": "Momo Burger & Fries",
+"description": "Burger filled with crispy fried momos and topped with red and green sauce and mayonnaise. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/21/ecd4ed08-ce06-4dfd-a582-c4c8a0048922_a124d2ca-cf35-4495-acf9-5909306a6620.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 10900,
+"finalPrice": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248390142",
+"groupName": "Add-On",
+"choices": [
+{
+"id": "135955078",
+"name": "Cheese Slice - extra",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248111870",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390143",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390146",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "13 ratings",
+"ratingCountV2": "13"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"bc508a20-df30-429b-b93f-fbf12bfed64c"
+],
+"isNinetyninestoreItem": true,
+"parentId": "12178611",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "69695045"
+},
+{
+"title": "WOW Fries (World's Crispiest Fries)",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "186573902",
+"name": "OG Crispy Fries Regular",
+"category": "Momo Burger & Fries",
+"description": "Golden, thick-cut fries with an unbeatable CRISP on the outside and soft, fluffy inside.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/19e1a3a7-d7f7-4b04-9bcf-5cc3893b15bf_d1caf3e1-28f0-42f9-a0a1-26f424af4d0c.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 10900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "119616159",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "196185209",
+"name": "Peri Peri OG Crispy Fries Regular",
+"category": "Momo Burger & Fries",
+"description": "Serves 1 | Golden, thick-cut fries with an unbeatable CRISP on the outside and soft, fluffy inside. Peri Peri Seasoning to perfection and built for dipping !",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/3/6/deb12c30-542c-4b64-99bd-180514b06dee_23a87b23-868e-464b-9f45-5b4a6c431dd5.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 12900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "119616160",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "69695046"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/4/26/f020c476-50d2-4d51-aebe-160376923f38_20d976cc-b7ce-4e97-b49f-671d4a18c77a.png",
+"categoryId": "69695044"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Thukpas",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481758",
+"name": "Chicken Thukpa Soup",
+"category": "Thukpas",
+"description": "Tibetan soup which consists of mixed fresh vegetables, tender chicken, home made noodles, Indian spices and garnished with coriander. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/4/6c6bc6ee-1702-4cd1-ad33-33df2a437ba2_2f0db4d7-3156-4ae9-946e-5ff3ae7745eb.png",
+"inStock": 1,
+"price": 29900,
+"finalPrice": 18900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112589",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390257",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390260",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.5",
+"ratingCount": "41 ratings",
+"ratingCountV2": "41"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"fc5c1145-dd0f-497a-966d-0a7518df6a62"
+],
+"parentId": "12176471",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481760",
+"name": "Veg Thukpa Soup",
+"category": "Thukpas",
+"description": "Tibetan soup which consists of mixed fresh vegetables, home made noodles, Indian spices and garnished with coriander. (Serves 1).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/4/7cc8c421-408f-493e-955a-12d21da0beea_6b0f7706-d9e6-421a-a47b-22349829e08d.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 27900,
+"finalPrice": 23900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112907",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389834",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248389842",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "18 ratings",
+"ratingCountV2": "18"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "Low%20cal/Low%20cal%201_1.png"
+}
+],
+"offerIds": [
+"937ec1d2-03e9-4ce8-90dc-b211e6f7a91a"
+],
+"parentId": "12179065",
+"menuFilterIds": [
+"EATRIGHT",
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/5/4/6c6bc6ee-1702-4cd1-ad33-33df2a437ba2_2f0db4d7-3156-4ae9-946e-5ff3ae7745eb.png",
+"categoryId": "61196071"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Beverage",
+"categories": [
+{
+"title": "Thunderzz",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "171539621",
+"name": "Wow Thunderzz Watermelon Mojito",
+"category": "Beverage",
+"description": "Serves 1 | Watermelon Mojito flavoured Icy Fizzy Drink and served with new Reusable Glass.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/af4e0aae-4b9b-4758-b106-22a1b361e216_36eb0f24-ad6d-43ef-ba9d-60d1b9305379.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "103433137",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "171539622",
+"name": "Wow Thunderzz Mausambi Masala",
+"category": "Beverage",
+"description": "Serves 1 | Musambi Masala flavoured Icy Fizzy Drink and served with new Reusable Glass.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/ce5ebad4-b758-4770-9ea0-668651b69840_e36e0610-aeea-477e-bfd5-0c444c33c473.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "103388777",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481768",
+"name": "Wow Thunderzz Kala Khatta",
+"category": "Beverage",
+"description": "Serves 1 | Cumin flavoured Icy Fizzy Drink and served with new Reusable Glass.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/16/effdee39-a828-464c-a502-bdf287422b6c_a7232001-7c53-4c2a-b098-df2332640215.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "12179209",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481767",
+"name": "Wow Thunderzz Virgin Mojito",
+"category": "Beverage",
+"description": "Serves 1 | Lemon mint flavoured Icy Fizzy Drink and served with new Reusable Glass.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/15/16b502bd-a8d8-4d7c-80fd-21d361d3dcf4_0e246971-c7c0-4463-b7e4-b55eb090371c.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "106864692",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481769",
+"name": "Wow Thunderzz Green Apple",
+"category": "Beverage",
+"description": "Serves 1 | Green apple flavoured Icy Fizzy Drink and served with new Reusable Glass.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/15/ff633bf9-a771-4ea4-bbd9-1f1761781d57_8fc9061d-e784-48a5-894b-10c646d284e8.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "12179207",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481766",
+"name": "Wow Thunderzz Orange",
+"category": "Beverage",
+"description": "Serves 1 | Orange mint flavoured Icy Fizzy Drink and served with new Reusable Glass.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/15/e83d2d0d-cbb6-4a4e-89ba-8fcb5c514e3b_4fc3555e-ef75-4aee-a9e2-6dd01604f696.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "1.8",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "12179210",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "61196091"
+},
+{
+"title": "Beverages.",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "181851774",
+"name": "Coca-Cola 475 ml bottle",
+"category": "Beverage",
+"description": "Serves 1 | Sparkling and Refreshing Beverage.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/11/b5aed138-2a13-499c-ac1f-c734e534aba8_11970aef-4991-4f78-817c-bb7447d09acf.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6667,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "104949232",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182468428",
+"name": "Thums Up 330 ml Can",
+"category": "Beverage",
+"description": "Serves 1 | Carbonated & Sweet Soft Drinks.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/11/0f35f402-12dd-4a04-a175-32d1915f9812_4a0af0b2-df9a-40d1-b2ca-18c2f1d4ff9a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6667,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "104949236",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481838",
+"name": "Red Bull",
+"category": "Beverage",
+"description": "Serves 1 | Energy Drink. 330 ml.",
+"imageId": "q7lsbotpf8ovs3o3h1ai",
+"inStock": 1,
+"isVeg": 1,
+"price": 18095,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "12178073",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "181851776",
+"name": "Coca-Cola 330 ml Can",
+"category": "Beverage",
+"description": "Serves 1 | Chilled Coca-Cola Fizzy Drinks.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/11/4ffd5f4c-64b8-479d-a7b2-db1068a588d5_2533d8bc-a1c8-4b2a-8102-897147ddb7e4.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6667,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "104949231",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "181851775",
+"name": "Coca-Cola Zero Sugar 330 ml Can",
+"category": "Beverage",
+"description": "Serves 1 | Best Taste, Zero Sugar.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/11/0223efea-8bae-40bd-9cbb-790d14c1c791_495fecd2-d2b9-480c-8990-22b70228c0b4.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6667,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.8",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+}
+],
+"parentId": "104949233",
+"menuFilterIds": [
+"EATRIGHT",
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182468427",
+"name": "Sprite 475 ml bottle",
+"category": "Beverage",
+"description": "Serves 1 | Refreshing clear drink with natural lemon flavour.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/6/11/d9836e57-d1dc-4ac9-83f3-2638424b36be_9c2dc9a1-5195-4862-ab83-6132a90b29f8.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6667,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "104949235",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481960",
+"name": "COCO CHARGE Tender Coconut Water",
+"category": "Beverage",
+"description": "COCO CHARGE is made from fresh and young coconuts, and it is 100% natural. It has a refreshing taste and is packed with essential nutrients and electrolytes.",
+"imageId": "47bf0be29dc2ab7f719d8153319dde02",
+"inStock": 1,
+"isVeg": 1,
+"price": 9523,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "66299445",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481805",
+"name": "Coolberg Ginger Non Alcoholic Beer 330ml",
+"category": "Beverage",
+"description": "Brewed with barley malt and ginger, this one is for the bold people.",
+"imageId": "zclqjnbhbs102ddrdygi",
+"inStock": 1,
+"isVeg": 1,
+"price": 11905,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "53079677",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481806",
+"name": "Coolberg Peach Non Alcoholic Beer 330ml",
+"category": "Beverage",
+"description": "Coolberg Peach Zero Alcohol Beer is crisp and light with sharp blend of peaches on top of a subtle malt base , making it yet another amazing drink.",
+"imageId": "tmlsonz9nsiiq5wddto5",
+"inStock": 1,
+"isVeg": 1,
+"price": 11905,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "52587448",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481808",
+"name": "Coolberg Cranberry Non Alcoholic Beer 330ml",
+"category": "Beverage",
+"description": "A unique twist to a berry brew , Coolberg Cranberry Zero Alcohol Beer is everyone's delight.",
+"imageId": "tmlsonz9nsiiq5wddto5",
+"inStock": 1,
+"isVeg": 1,
+"price": 11905,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "52587447",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "61196090"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/5/9/af4e0aae-4b9b-4758-b106-22a1b361e216_36eb0f24-ad6d-43ef-ba9d-60d1b9305379.png",
+"categoryId": "61196076"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Dessert",
+"categories": [
+{
+"title": "Cold Dessert",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "146612815",
+"name": "Rasmalai [1PC]",
+"category": "Dessert",
+"description": "It is soft & creamy Indian dessert made from soft cottage cheese cooked and soaked in enriched sweetened saffron milk.Per Serving: Calories 186kcal, Total Fat 8g (Serves 1) (Approx",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/9/3cae1356-0ef5-4597-865e-077495837cb2_37838084-5b64-4286-bebe-bb5aad7b8966.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 5900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111236",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390377",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390384",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "2.5",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "84263451",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "146612816",
+"name": "Rasmalai [2PC]",
+"category": "Dessert",
+"description": "Ras Malai is a delectable Indian sweet made with tender cheese balls immersed in a rich, sweetened milk flavored with cardamom. It's beautifully topped with finely chopped nuts, creating a creamy and aromatic dessert that's both flavorful and visually delightful. Per Serving: Calories 186kcal, Total Protein 6g (Serves 1-2) (Approx).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/9/5edf1494-f786-412e-9b49-3956ed61b6a1_e7458fc4-858d-46a0-90ec-eb6001fd97e8.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248110799",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390281",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390285",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "2.2",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "84263452",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "174423235",
+"name": "Popsicle Dairy Milk Chocolate",
+"category": "Dessert",
+"description": "Serves 1 | Indulge in the velvety richness of Dairy Milk Silk, a frozen delight beyond compare. Per Serving: Total Protein 6.17g.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/24/da958f32-6e9f-44c6-bce2-21c3f86c835e_3599eb79-5dbf-41d0-879e-1b3ef6c65fee.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 16000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "95136991",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "173905768",
+"name": "Orange Ice Pops",
+"category": "Dessert",
+"description": "Serves 1 | Revitalize with zesty Ice Pops Orange, bursting with orange providing a refreshing twist to beat the heat.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/20/0ccaea8d-87e0-4309-8817-ee736b1ee301_c0fba50c-e5dd-463a-b062-357066fa2af5.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 4900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "95136989",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169731766",
+"name": "Popsicle Jamun Sorbet",
+"category": "Dessert",
+"description": "Serves 1- Experience the bold burst of Jamun in every bite. Our Jamun Popsicle is a unique and refreshing treat. Per Serving: Calories 225.58kcal.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/24/4062bb6e-e0f0-4f9f-9436-0ca8a9afb1cb_ad1950fc-e80f-4840-a7d4-c0cf247a8aa4.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "95136992",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "173905769",
+"name": "Mango Ice Pops",
+"category": "Dessert",
+"description": "Serves 1 | Indulge in sweet & tangy Ice Pops Mango, capturing the essence of India's king of fruits.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/20/3d2dfaa0-aa69-4c4b-b7af-d2c9da9beff3_9e489448-96c2-4625-8bcf-f1215c05dba7.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 4900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "95136988",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169731768",
+"name": "Popsicle Oreo Cookie Cream",
+"category": "Dessert",
+"description": "Serves 1- Crunchy Oreo goodness in every bite. A delightful combination of cookies and creamy indulgence. Per Serving: Total Protein 6.17g.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/24/862442ec-10a8-4449-b96c-cb55f492a20f_63ba7af3-1189-4d04-b07d-0072f06077e7.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 16000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "95136993",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "154283266",
+"name": "Popsicle Strawberry Sorbet",
+"category": "Dessert",
+"description": "Serves 1- Cool off with Strawberry Sorbet Popsicle. A refreshing burst of fruity sweetness in every delightful bite. Per Serving: Calories 225.58kcal.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/24/5627a9c3-cf97-409b-a166-7463d738ceeb_e43ff78f-4ba8-45b8-9d85-ed301a6dd364.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 13000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "91905249",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "68160450"
+},
+{
+"title": "Hot Dessert",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "146612814",
+"name": "Kesar Gulab Jamun [2PC]",
+"category": "Dessert",
+"description": "Enjoy our classic Indian dessert: soft khoya balls fried to perfection, bathed in sweet syrup infused with kesar (saffron). Rich, sweet, and utterly irresistible. Per Serving: Calories 326kcal, Total Protein 6.57g (Serves 1-2) (Approx).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/9/e52fb24d-b8ae-4c3e-8498-cb17b57657ba_7873d352-7130-42f7-9700-e980094a8a1f.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111222",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390471",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390475",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "84449872",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182301235",
+"name": "Choco Lava Cake (1 pc)",
+"category": "Dessert",
+"description": "Serves 1 | Indulge in the ultimate dessert experience with our Hot Molten Eggless Choco Lava Cake — a rich, moist chocolate cake with a warm, gooey molten center that melts in your mouth. Made without eggs and crafted to perfection, it’s the perfect sweet ending to every meal. (Energy: 371Kcal, Carbohydrates: 49.3gm, Proteins: 3.9g, Fat: 18gm, Sodium: 2mg).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/12/3e2c8b59-15d3-483c-8517-4be805345184_ea7e4859-6288-4a15-92d4-ba110002b44a.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248110410",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390496",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390499",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"parentId": "110466553",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182301236",
+"name": "Choco Lava Cake (2 pcs)",
+"category": "Dessert",
+"description": "Treat yourself to a decadent dessert with our Hot Molten Eggless Choco Lava Cake – a soft, moist chocolate cake filled with a luscious molten chocolate center that flows with every bite. Eggless and expertly baked, it's the ideal finish to any meal. (Energy: 371Kcal, Carbohydrates: 49.3gm, Proteins: 3.9g, Fat: 18gm, Sodium: 2mg)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/9/12/61a0dd1c-468f-48ae-bce4-e47a8be46c1d_67ba6f6a-47b9-432e-b873-aabd75edb156.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 16900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248112783",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390416",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390420",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "110466554",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "146612813",
+"name": "Kesar Gulab Jamun [1PC]",
+"category": "Dessert",
+"description": "Savor the essence of tradition with our soft, fried khoya balls soaked in a sweet sugary syrup infused with kesar (saffron). This classic Indian dessert offers a perfect balance of richness and sweetness in every bite.Per Serving: Calories 326kcal, Total Fat 7.50g (Serves 1) (Approx).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/3/9/dda34b46-b7c6-4d43-aa25-9169b205f9fb_c25d960b-affb-4697-ba34-57bf1e459e9e.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 3900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111300",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390018",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390021",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "26 ratings",
+"ratingCountV2": "26"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "84449871",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481762",
+"name": "Chocolate Momo (1 Pc)",
+"category": "Dessert",
+"description": "Serve 1 - Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (01 Pcs).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/29/3c3db8bc-dc19-4615-a2b4-ddfc7dd93b7b_118f6110-8d1c-4f79-8393-ab6eb4b8b3d7.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 6900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111491",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390870",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390876",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12176593",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481763",
+"name": "Chocolate Momo Platter (4 Pcs)",
+"category": "Dessert",
+"description": "Serve 2 - Crunchy Momo filled with Brownie, topped with Chocolate Fudge & Garnished with Chocolate flakes. (04 Pieces ).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/8/22/f0598e79-531a-40dc-8a0e-604fd05a11a1_885f6bac-2780-4e9a-b7c4-060091cc2b38.JPG_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 22900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "248111006",
+"groupName": "Make it a Meal",
+"choices": [
+{
+"id": "145363240",
+"name": "OG Crispy Fries Regular (Save Rs 50)",
+"price": 5900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363241",
+"name": "Peri Peri OG Crispy Fries Regular ( Save Rs 50 )",
+"price": 7900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363242",
+"name": "OG Crispy Fries Regular + 250ml Coke (Save EXTRA Rs 19)",
+"price": 11000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "145363239",
+"name": "Peri Peri OG Crispy Fries Regular + 250ml Coke (Save Extra Rs 20)",
+"price": 12900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140276319",
+"name": "Chocolate Momo + Coke 475 ML (Save EXTRA 30%)",
+"price": 10900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 5,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390448",
+"groupName": "Choose Your Dip & Sauce",
+"choices": [
+{
+"id": "140310467",
+"name": "Spicy Darjeeling Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310413",
+"name": "Mayo Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310529",
+"name": "Schezwan Momo Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310531",
+"name": "Coriander Green Sauce 30gms",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310535",
+"name": "Cheesy Jalapeno Dip",
+"price": 2857,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310430",
+"name": "2 Pack Dips (1 Mayo dip + 1 Cheesy Jalapeno Dip)",
+"price": 4900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310377",
+"name": "Peri Peri Seasoning",
+"price": 2500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 7,
+"maxFreeAddons": -1
+},
+{
+"groupId": "248390451",
+"groupName": "Choose Your Beverage",
+"choices": [
+{
+"id": "140310496",
+"name": "Coca-Cola 330 ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310498",
+"name": "Coco-Cola Zero Sugar 330ml Can",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310500",
+"name": "Sprite 475 ml bottle",
+"price": 6667,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140541997",
+"name": "Wow Thunderzz Orange",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310516",
+"name": "Wow Thunderzz Black Jack",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310517",
+"name": "Wow Thunderzz Green Apple",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310520",
+"name": "Wow Thunderzz Virgin Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310523",
+"name": "Wow Thunderzz Watermelon Mojito",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140310501",
+"name": "Wow Thunderzz Mausambi Masala",
+"price": 11900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 9,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12176601",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66527211"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/3/9/3cae1356-0ef5-4597-865e-077495837cb2_37838084-5b64-4286-bebe-bb5aad7b8966.png",
+"categoryId": "66527210"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Dips & More",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170848738",
+"name": "Schezwan Momo Sauce 30 gms",
+"category": "Dips & More",
+"description": "Serves 1 | Spicy, garlicky Schezwan sauce packed with bold flavors—perfect with momos.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/ad8b59d0-4d28-401a-80e9-94ee6f3e2cda_149e1a39-550f-4a09-9791-89beb8b13868.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 2000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.1",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "103097039",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "175913723",
+"name": "2 Pack dips (1 Mayo dip + 1 Cheesy Jalapeno dip)",
+"category": "Dips & More",
+"description": "Serves 1 | 1pc spicy, tangy flavoured cheesy jalapeno dip & 1 pc Eggless mayonnaise dip",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/5/7cb2b632-3c0f-48c8-b7c7-92a016ffa205_20d4c783-71e4-47ed-9e32-b5c167fd4d27.png",
+"inStock": 1,
+"isVeg": 1,
+"price": 4900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "108296040",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170848736",
+"name": "Spicy Darjeeling Sauce 30 gms",
+"category": "Dips & More",
+"description": "Serves 1 | A spicy and tangy sauce inspired by Darjeeling flavors, perfect for adding heat to your favorite bites.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/53411936-c691-497f-bea1-ea5e5675e08a_951bee07-1a60-402a-aee3-777f177f4529.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 2000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.4",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "103097040",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "170848740",
+"name": "Coriander Green Sauce 30gms",
+"category": "Dips & More",
+"description": "Serves 1 | Fresh, herby green sauce with a zesty coriander kick.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/145c9ad8-63d6-4d80-9db7-42b20a4a9632_63177da5-94bb-46dd-b5b0-5880860b5ba2.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 2000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "2.7",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#FFF0CD",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_low",
+"ratingTextColor": "rating_low",
+"ratingCountTextColor": "rating_low",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "103097038",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481764",
+"name": "Cheesy Jalapeno Dip",
+"category": "Dips & More",
+"description": "A spicy, tangy flavoured cheesy jalapeno dip is an absolute delight with your favourite steamed & fried momos & burgers.",
+"imageId": "071556381231df27f1ff95b5c4086a07",
+"inStock": 1,
+"isVeg": 1,
+"price": 2857,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "108296041",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481765",
+"name": "Mayo Dip",
+"category": "Dips & More",
+"description": "Wow! delicisious eggless mayonnaise dip, goes well with momos & burgers.",
+"imageId": "11a0d03b6d6cc00c202dbac6d699c777",
+"inStock": 1,
+"isVeg": 1,
+"price": 2857,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "12177292",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481820",
+"name": "Peri Peri",
+"category": "Dips & More",
+"description": "Peri peri seasoning sachet [01piece]",
+"imageId": "8d580043e632548ebc1c002548682301",
+"inStock": 1,
+"isVeg": 1,
+"price": 2500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "56025958",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2025/5/2/ad8b59d0-4d28-401a-80e9-94ee6f3e2cda_149e1a39-550f-4a09-9791-89beb8b13868.png_compressed",
+"categoryId": "61196074"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Wow! China on Wow! Momo",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668824",
+"name": "Veggie Rice In Hot Garlic Sauce Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Steamed rice wok tossed with veggies in hot garlic sauce, medium spicy in flavour. NO MSG.",
+"imageId": "ogcgfcvj0f1xmfd00md0",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178755",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481785",
+"name": "Veggie Fried Rice Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Steamed rice wok tossed with veggies, perfectly seasoned. NO MSG.",
+"imageId": "caoew9vk7kn7ve1othac",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.1",
+"ratingCount": "9 ratings",
+"ratingCountV2": "9"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178592",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481777",
+"name": "Chicken Sweet Corn Soup",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Thick Broth Soup Typically Made By Sweet Corn Paste, Served With Chicken.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/24/d1a67a66-826d-4533-a97a-813c58e0415d_3926c4d9-ee1c-473e-a634-36fc81b25362.jpg",
+"inStock": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.7",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "Low%20cal/Low%20cal%201_1.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12176452",
+"menuFilterIds": [
+"EATRIGHT",
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668820",
+"name": "Veggie Noodles In Schezwan Sauce Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Noodles wok tossed with veggies in schezwan sauce, peppery spicy in flavour. NO MSG.",
+"imageId": "gasoprx5d7aoxvxzsrf4",
+"inStock": 1,
+"isVeg": 1,
+"price": 32500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178709",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668825",
+"name": "Veg Manchurian Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Vegetable coins made up of chopped mix vegetables served in manchurian sauce with a dominant flavour of garlic and onion to it. NO MSG.",
+"imageId": "ueecvjl11eekutbrotdx",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178951",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668819",
+"name": "Veggie Noodles In Hot Garlic Sauce Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Noodles wok tossed with veggies in hot garlic sauce, medium spicy in flavour. NO MSG.",
+"imageId": "gasoprx5d7aoxvxzsrf4",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178707",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481776",
+"name": "Veg Sweet Corn Soup",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Thick Broth Soup Typically Made By Sweet Corn Paste, Served With Veggies.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/24/cedc4368-09f8-4b72-ad62-5891e05fe4d5_433d0d6e-5abe-47d2-ad7b-1f0890cfafec.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"imageBadges": [
+{
+"imageId": "Low%20cal/Low%20cal%201_1.png"
+}
+],
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12179059",
+"menuFilterIds": [
+"EATRIGHT",
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668822",
+"name": "Veggie Rice In Schewan Sauce Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Steamed rice wok tossed with veggies in schezwan sauce, peppery spicy in flavour. NO MSG.",
+"imageId": "ogcgfcvj0f1xmfd00md0",
+"inStock": 1,
+"isVeg": 1,
+"price": 30500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178757",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120481786",
+"name": "Veg Hakka Noodle Regular",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1",
+"imageId": "fcx2ziimjzjt3c36vvtb",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "75097142",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668827",
+"name": "Chilli Paneer Large..",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Fried Paneer, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+"imageId": "zcxqidhkf0fndswpbhip",
+"inStock": 1,
+"isVeg": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12176551",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668828",
+"name": "Chilli Paneer Regular..",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Fried Paneer, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+"imageId": "zcxqidhkf0fndswpbhip",
+"inStock": 1,
+"isVeg": 1,
+"price": 26500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12176554",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668831",
+"name": "Veg Manchurian Large",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Vegetable Coins Made Up Of Chopped Mix Vegetables Served In Manchurian Sauce With A Dominant Flavour Of Garlic And Onion To It.",
+"imageId": "ueecvjl11eekutbrotdx",
+"inStock": 1,
+"isVeg": 1,
+"price": 37500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12178950",
+"menuFilterIds": [
+"VEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668837",
+"name": "Chilli Chicken Large..",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Chicken, Bell Pepper & Onion Cooked In Soya & Chilli Flavoured Gravy.",
+"imageId": "cmmyla5gcjk10aehop1j",
+"inStock": 1,
+"price": 45500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12176535",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "169668839",
+"name": "Chicken Manchurian Large..",
+"category": "Wow! China on Wow! Momo",
+"description": "Serves 1 | Chicken, Onion, Coriander Cooked In Manchurian Sauce With A Dominant Flavour Of Garlic And Onion To It.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/30/422265b7-7348-488e-b3a6-e6ccdd1c8756_753a2891-35fc-4cfc-a2f0-c4947e1ef6aa.jpg",
+"inStock": 1,
+"price": 44500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG",
+"portionSize": "Serves 1"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"title": "60% OFF",
+"subTitle": "USE TRYNEW",
+"textColor": "#DB6742",
+"backgroundColor": "#FAE8E3",
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"itemPriceStrikeOff": true,
+"offerIds": [
+"7f6f4ae1-dc45-474e-a1f4-16575c6c8e68"
+],
+"parentId": "12175980",
+"menuFilterIds": [
+"NONVEG",
+"offer"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "ogcgfcvj0f1xmfd00md0",
+"categoryId": "61196077"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+"type": "FSSAI",
+"imageId": "fssai_final_edss9i",
+"text": [
+"License No. 11223334001130"
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+"name": "Wow! Momo",
+"area": "KORAMANGALA",
+"completeAddress": "Wow! Momo, NO.507, PID.67-8-507, KORAMANGALA LAYOUT EXTENSION, 6TH BLOCK, KORAMANGALA, BANGALORE, BTM Layout , B.B.M.P South, Karnataka-560034"
+}
+}
+}
+]
+}
+}
+}
+}
+],
+"firstOffsetRequest": true,
+"isQCLink": false
+},
+"tid": "a5a040f3-ceab-41e2-bdfc-2363238c1e9d",
+"sid": "qbz147d1f47-a486-4bb3-b9fa-676f5633f",
+"deviceId": "fb77e146-6d38-18e1-2efd-3183bdb8ccf8",
+"csrfToken": "X6CEcRb6sDhA-vHVI2lGMxu_RkPS5c7qbIYEDHtI"
+}
+
+export default restraunt21;

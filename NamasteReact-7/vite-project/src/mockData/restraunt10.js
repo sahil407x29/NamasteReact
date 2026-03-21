@@ -1,0 +1,38935 @@
+const restraunt10 = {
+"statusCode": 0,
+"data": {
+"statusMessage": "done successfully",
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+"text": "Paris Panini - Gourmet Sandwiches & Wraps",
+"headerStyling": {
+"textColor": "text_Highest_Emphasis",
+"textVariant": "header_H3_Black"
+}
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+"tabs": [
+{
+"id": "Order Online",
+"title": "Order Online"
+}
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+"info": {
+"id": "717421",
+"name": "Paris Panini - Gourmet Sandwiches & Wraps",
+"city": "Bangalore",
+"slugs": {
+"restaurant": "paris-panini-–-gourmet-sandwiches-koramangala-koramangala",
+"city": "bangalore"
+},
+"uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+"cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/10/1b14de7e-7efc-4eaa-aa07-95f1ab50dc58_717421 (1).jpg",
+"locality": "BTM Layout",
+"areaName": "Koramangala",
+"costForTwo": "50000",
+"costForTwoMessage": "₹500 for two",
+"cuisines": [
+"sandwich",
+"wrap"
+],
+"avgRating": 4.6,
+"feeDetails": {
+"restaurantId": "717421",
+"fees": [
+{}
+]
+},
+"parentId": "21019",
+"avgRatingString": "4.6",
+"totalRatingsString": "5.3K+ ratings",
+"sla": {
+"restaurantId": "717421",
+"lastMileTravel": 2329,
+"serviceability": "NON_SERVICEABLE",
+"rainMode": "RAIN_MODE_NONE",
+"longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+"lastMileTravelString": "2329.0 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-03-20 23:30:00",
+"visibility": true,
+"opened": true,
+"restaurantClosedMeta": {}
+},
+"aggregatedDiscountInfo": {
+"header": "40% off",
+"shortDescriptionList": [
+{
+"meta": "40% off | Use TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "40% off up to ₹80 | Use code TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"visible": true
+},
+"badges": {},
+"slugString": "paris-panini-–-gourmet-sandwiches-koramangala-koramangala",
+"isOpen": true,
+"labels": [
+{
+"title": "Timings",
+"message": "null"
+},
+{
+"title": "Address",
+"message": "NO 35, 4TH B CROSS, KORAMANGALA 5TH BLOCK, BANGALORE, BTM Layout , B.B.M.P South, Karnataka-560095"
+},
+{
+"title": "Cuisines",
+"message": "sandwich,wrap"
+}
+],
+"totalRatings": 5300,
+"aggregatedDiscountInfoV2": {
+"header": "40% off",
+"shortDescriptionList": [
+{
+"meta": "40% off | Use TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "40% off up to ₹80 | Use code TRYNEW",
+"discountType": "Percentage",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹125 off | Use FLAVORFUL",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"couponDetailsCta": "View coupon details"
+},
+"type": "F",
+"nudgeBanners": [
+{
+"minValue": 559,
+"maxValue": 799,
+"priority": 2,
+"couponCode": "FLAVORFUL",
+"discountInfo": {
+"discountType": "Flat",
+"value": 125
+},
+"lockedMessage": "Add items worth ₹<amount> to save ₹125 | Code FLAVORFUL",
+"unlockedMessage": "FLAVORFUL Coupon Unlocked! Use it to save ₹125",
+"logoCtx": {},
+"movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+}
+],
+"headerBanner": {
+"url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/717421"
+},
+"generalPurposeInfoListV2": [
+{
+"cta": {
+"info": {
+"recordings": {}
+},
+"linkCta": {}
+}
+}
+],
+"ratingSlab": "RATING_SLAB_5",
+"availabilityServiceabilityMessage": "Does not deliver to your location",
+"orderabilityCommunication": {
+"title": {
+"text": "Wish you were"
+},
+"subTitle": {
+"text": "CLOSER!"
+},
+"message": {
+"text": "This location is outside the outlet's delivery area",
+"textColour": "negative"
+},
+"customIcon": {
+"bgGradientColorStart": "#F64C41",
+"bgGradientColorEnd": "#E53554"
+},
+"commsStyling": {}
+},
+"hasBestsellerItems": true,
+"cartOrderabilityNudgeBanner": {
+"parameters": {},
+"presentation": {}
+},
+"latLong": "12.933654,77.614791",
+"backgroundImageOverlayInfo": {},
+"featuredSectionInfo": {}
+},
+"analytics": {}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+"sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+"layout": {
+"rows": 1,
+"columns": 5,
+"horizontalScrollEnabled": true,
+"itemSpacing": 12,
+"lineSpacing": 10,
+"widgetPadding": {},
+"containerStyle": {
+"containerPadding": {
+"left": 10,
+"right": 10,
+"bottom": 16
+}
+}
+},
+"id": "offerCollectionWidget_UX4",
+"gridElements": {
+"infoWithStyle": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+"offers": [
+{
+"info": {
+"header": "40% OFF UPTO ₹80",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"17d877b7-e799-403f-ae7a-c918e94bebe2"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE TRYNEW",
+"description": "ABOVE ₹179",
+"offerType": "offers",
+"restId": "717421",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE TRYNEW"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹125 OFF",
+"offerTag": "FLAT DEAL",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"6d5f23c0-4b12-4e2c-bb3c-820ff0b81ae0"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE FLAVORFUL",
+"description": "ABOVE ₹799",
+"offerType": "offers",
+"restId": "717421",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE FLAVORFUL"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "7.5% OFF UPTO ₹100",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/fa07ebc1-f02e-4584-8057-29c92f4872b8_YESBankMenuLogoNew1.png",
+"offerIds": [
+"c97946a6-dfd8-492f-89dd-b9c970531b7c"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "NO CODE REQUIRED",
+"description": "ABOVE ₹399",
+"offerType": "offers",
+"restId": "717421",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/fa07ebc1-f02e-4584-8057-29c92f4872b8_YESBankMenuLogoNew1.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "NO CODE REQUIRED"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹200 OFF",
+"offerTag": "FLAT DEAL",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"e90abff2-b228-46c0-856c-705e8e851249"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE CELEBRATIONS",
+"description": "ABOVE ₹1099",
+"offerType": "offers",
+"restId": "717421",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE CELEBRATIONS"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹150 OFF",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/3/1/297211d6-0a0c-4d11-a6f4-f8727ac2aff6_Axis.png",
+"offerIds": [
+"49c6aa12-f2fa-4298-9d4e-71d9f736e34a"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE AXISREWARDS",
+"description": "ABOVE ₹500",
+"offerType": "offers",
+"restId": "717421",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/3/1/297211d6-0a0c-4d11-a6f4-f8727ac2aff6_Axis.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE AXISREWARDS"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+}
+],
+"habitMilestoneInfo": {
+"callout": {}
+},
+"loyaltyDiscoverPresentationInfo": {
+"logoCtx": {}
+}
+}
+}
+}
+}
+},
+{
+"groupedCard": {
+"cardGroupMap": {
+"REGULAR": {
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+"badges": {},
+"vegOnlyDetails": {
+"imageId": "AutoVegOnly_qkjowj",
+"title": "Showing only vegetarian options.",
+"description": "Tap on the VEG ONLY button to turn off the setting"
+},
+"topRatedFilter": {
+"attributes": {
+"displayText": "Ratings 4.0+"
+}
+},
+"kidsCategoryFilter": {
+"attributes": {
+"displayText": "Kids Favourites",
+"tooltip": {
+"enabled": true,
+"displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+}
+}
+},
+"vegFilter": {
+"attributes": {
+"displayText": "VEG"
+}
+},
+"nonvegFilter": {
+"attributes": {
+"displayText": "NONVEG"
+}
+}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+"sectionId": "MENU_FILTER_TOGGLE"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Recommended",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530273",
+"name": "Estelle (Veggies & Mozza Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted zucchini, bell pepper, fresh mozzarella, jalapeno, sliced onions, olive tapenade, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/24/95b44b8e-8a5a-4043-ac3f-09239020918d_9fa0760d-7b08-483f-aa04-fdbd31bca2ab.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000441",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860413",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000442",
+"variationId": "199860415"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860414",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000442",
+"variationId": "199860415"
+}
+}
+]
+},
+{
+"groupId": "66000442",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860415",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860416",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860413"
+},
+{
+"groupId": "66000442",
+"variationId": "199860415"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860413"
+},
+{
+"groupId": "66000442",
+"variationId": "199860416"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860414"
+},
+{
+"groupId": "66000442",
+"variationId": "199860415"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860414"
+},
+{
+"groupId": "66000442",
+"variationId": "199860416"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522942",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522945",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522948",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522951",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 23500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "186 ratings",
+"ratingCountV2": "186"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894384",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530346",
+"name": "Laura (Mozza & Basil Pesto Sandwich)",
+"category": "Gourmet Panini",
+"description": "Fresh & creamy basil pesto, fresh mozzarella, sun-dried tomatoes, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/4b57324b-283a-4ab4-a848-c1b44ae06284_21bd1e9c-a8f9-4f98-a90f-156f6c29f888.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000443",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 225,
+"default": 1,
+"id": "199860417",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000444",
+"variationId": "199860419"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 345,
+"id": "199860418",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000444",
+"variationId": "199860419"
+}
+}
+]
+},
+{
+"groupId": "66000444",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860419",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860420",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860417"
+},
+{
+"groupId": "66000444",
+"variationId": "199860419"
+}
+],
+"price": 22500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860417"
+},
+{
+"groupId": "66000444",
+"variationId": "199860420"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860418"
+},
+{
+"groupId": "66000444",
+"variationId": "199860419"
+}
+],
+"price": 34500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860418"
+},
+{
+"groupId": "66000444",
+"variationId": "199860420"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522958",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522961",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522964",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522966",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 22500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "439 ratings",
+"ratingCountV2": "439"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894389",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530410",
+"name": "Sophie (Feta & Olives Sandwich)",
+"category": "Gourmet Panini",
+"description": "Marinated olives, feta cheese, cucumber, fried onions and sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "smgjelnmygt6xabnreig",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000446",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 225,
+"default": 1,
+"id": "199860422",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000448",
+"variationId": "199860426"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 345,
+"id": "199860424",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000448",
+"variationId": "199860426"
+}
+}
+]
+},
+{
+"groupId": "66000448",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860426",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860428",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860422"
+},
+{
+"groupId": "66000448",
+"variationId": "199860426"
+}
+],
+"price": 22500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860422"
+},
+{
+"groupId": "66000448",
+"variationId": "199860428"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860424"
+},
+{
+"groupId": "66000448",
+"variationId": "199860426"
+}
+],
+"price": 34500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860424"
+},
+{
+"groupId": "66000448",
+"variationId": "199860428"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522971",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522973",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522976",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522980",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 22500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "83 ratings",
+"ratingCountV2": "83"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894393",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530371",
+"name": "Olivia (Mushroom & Feta Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted mushrooms, fresh feta cheese, onion rings and olive tapenade, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/24/124300d9-2dd5-4198-8854-e2d4b2ca8719_127c7fd8-5fda-465e-91d0-bd4e1440dc05.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000456",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860443",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000458",
+"variationId": "199860445"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860444",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000458",
+"variationId": "199860445"
+}
+}
+]
+},
+{
+"groupId": "66000458",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860445",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860447",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860443"
+},
+{
+"groupId": "66000458",
+"variationId": "199860445"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860443"
+},
+{
+"groupId": "66000458",
+"variationId": "199860447"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860444"
+},
+{
+"groupId": "66000458",
+"variationId": "199860445"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860444"
+},
+{
+"groupId": "66000458",
+"variationId": "199860447"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523000",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523008",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523013",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523016",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 23500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "422 ratings",
+"ratingCountV2": "422"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894391",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530284",
+"name": "Franck (Deviled Egg & Sriracha Sandwich)",
+"category": "Gourmet Panini",
+"description": "Mashed deviled egg, sun-dried tomatoes, crispy onion rings, sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "xkxktydgyfkvko7ddgwd",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000463",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860459",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000465",
+"variationId": "199860462"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860460",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000465",
+"variationId": "199860462"
+}
+}
+]
+},
+{
+"groupId": "66000465",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860462",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860464",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860459"
+},
+{
+"groupId": "66000465",
+"variationId": "199860462"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860459"
+},
+{
+"groupId": "66000465",
+"variationId": "199860464"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860460"
+},
+{
+"groupId": "66000465",
+"variationId": "199860462"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860460"
+},
+{
+"groupId": "66000465",
+"variationId": "199860464"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523032",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523037",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523042",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523045",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 23500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "127 ratings",
+"ratingCountV2": "127"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "61718722",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530324",
+"name": "Hugo (Fried Chicken & Mozza Sandwich)",
+"category": "Gourmet Panini",
+"description": "Fried chicken, fresh mozzarella, sun-dried tomatoes, onions, lettuce, basil and sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/070680df-d5ba-424e-baf4-62605e25a2f4_10f53b64-8e0c-4945-8117-6815dd0c9882.png_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000567",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 265,
+"default": 1,
+"id": "199860708",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000568",
+"variationId": "199860710"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 435,
+"id": "199860709",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000568",
+"variationId": "199860710"
+}
+}
+]
+},
+{
+"groupId": "66000568",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860710",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860711",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860708"
+},
+{
+"groupId": "66000568",
+"variationId": "199860710"
+}
+],
+"price": 26500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860708"
+},
+{
+"groupId": "66000568",
+"variationId": "199860711"
+}
+],
+"price": 27500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860709"
+},
+{
+"groupId": "66000568",
+"variationId": "199860710"
+}
+],
+"price": 43500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860709"
+},
+{
+"groupId": "66000568",
+"variationId": "199860711"
+}
+],
+"price": 44500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523737",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523738",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523740",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523741",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 26500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "774 ratings",
+"ratingCountV2": "774"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894386",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530444",
+"name": "Victor (Lamb & Garlic Aioli Sandwich)",
+"category": "Gourmet Panini",
+"description": "Crumbled lamb, red paprika, sliced onion, jalapeno, lettuce and garlic aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "auuvogrqz6xv2v5qfhpt",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000583",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 305,
+"default": 1,
+"id": "199860740",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000584",
+"variationId": "199860742"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 480,
+"id": "199860741",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000584",
+"variationId": "199860742"
+}
+}
+]
+},
+{
+"groupId": "66000584",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860742",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860743",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860740"
+},
+{
+"groupId": "66000584",
+"variationId": "199860742"
+}
+],
+"price": 30500,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860740"
+},
+{
+"groupId": "66000584",
+"variationId": "199860743"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860741"
+},
+{
+"groupId": "66000584",
+"variationId": "199860742"
+}
+],
+"price": 48000,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860741"
+},
+{
+"groupId": "66000584",
+"variationId": "199860743"
+}
+],
+"price": 49000,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523782",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523785",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523786",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523789",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 30500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "168 ratings",
+"ratingCountV2": "168"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894396",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530329",
+"name": "Jacques (Butter Garlic Prawns & Aioli Sandwich)",
+"category": "Gourmet Panini",
+"description": "Garlic butter prawns, sun-dried tomato, garlic aioli, lettuce & crispy onion rings, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/28/2ac14f50-a58d-42bd-b824-6361b28aabfd_3a5eeb78-684b-4c30-a4a2-6b0b77d88906.jpg",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000587",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 315,
+"default": 1,
+"id": "199860748",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000588",
+"variationId": "199860750"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 495,
+"id": "199860749",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000588",
+"variationId": "199860750"
+}
+}
+]
+},
+{
+"groupId": "66000588",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860750",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860751",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860748"
+},
+{
+"groupId": "66000588",
+"variationId": "199860750"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860748"
+},
+{
+"groupId": "66000588",
+"variationId": "199860751"
+}
+],
+"price": 32500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860749"
+},
+{
+"groupId": "66000588",
+"variationId": "199860750"
+}
+],
+"price": 49500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860749"
+},
+{
+"groupId": "66000588",
+"variationId": "199860751"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523795",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523796",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523798",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523799",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 31500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "93 ratings",
+"ratingCountV2": "93"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894387",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530345",
+"name": "Jean (Bacon & Feta Sandwich)",
+"category": "Gourmet Panini",
+"description": "Bacon, fresh feta cheese, fried onions, lettuce, sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/949a6e41-37c2-44e2-b1b3-6fbf2646b55c_8fb0bdf3-7fed-410e-bcfb-92eb19662d2a.png_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000591",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 315,
+"default": 1,
+"id": "199860756",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000592",
+"variationId": "199860758"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 495,
+"id": "199860757",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000592",
+"variationId": "199860758"
+}
+}
+]
+},
+{
+"groupId": "66000592",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860758",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860759",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860756"
+},
+{
+"groupId": "66000592",
+"variationId": "199860758"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860756"
+},
+{
+"groupId": "66000592",
+"variationId": "199860759"
+}
+],
+"price": 32500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860757"
+},
+{
+"groupId": "66000592",
+"variationId": "199860758"
+}
+],
+"price": 49500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860757"
+},
+{
+"groupId": "66000592",
+"variationId": "199860759"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523805",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523807",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523808",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523809",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 31500,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "214 ratings",
+"ratingCountV2": "214"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894388",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530233",
+"name": "Cajun Spiced Fries",
+"category": "Fries & Sides",
+"description": "French fries tossed with our in-house Cajun spice mix, served with homemade ketchup and spiced garlic dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/109b2e50-1de6-44f3-b071-819e2c4ae4da_994a3382-4c72-490a-a0aa-00bf7e77bc8a.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 26000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523691",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "132 ratings",
+"ratingCountV2": "132"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425692",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530304",
+"name": "Fries with Cheese Dip",
+"category": "Fries & Sides",
+"description": "French fries served with a delicious home-made cheese sauce.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/a974d817-5dcc-4dd8-9c18-84a7515fbe84_89cdd60c-54b9-4162-918f-7efab281e86d.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 30000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523693",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "27 ratings",
+"ratingCountV2": "27"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "66609713",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530326",
+"name": "Hummus with Olives & Toasted Bread",
+"category": "Fries & Sides",
+"description": "Traditional chickpea & tahini hummus served with marinated olives, chunky chilli dip and our toasted multigrain bread (vegan).",
+"imageId": "dp9o38zssvq0stggqljn",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523709",
+"groupName": "Add-ons",
+"choices": [
+{
+"id": "139553993",
+"name": "Extra Toasted Bread (6pcs)",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "185 ratings",
+"ratingCountV2": "185"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "66681326",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530377",
+"name": "Onion Rings",
+"category": "Fries & Sides",
+"description": "Crunchy made-in-house onion rings served with spiced garlic dip.",
+"imageId": "f074460be78eb565be498a0ecbb63cc6",
+"inStock": 1,
+"isVeg": 1,
+"price": 28000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523715",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "52 ratings",
+"ratingCountV2": "52"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425822",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530299",
+"name": "Chicken Strips",
+"category": "Fries & Sides",
+"description": "Fried to perfection chicken strips served with spiced garlic dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/a32a4e15-cbd6-4e21-b8d2-5f031540e4e9_ab50c33f-8fd3-4ffc-aec0-90481c59e024_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000551",
+"name": "Quantity",
+"variations": [
+{
+"name": "3 Pcs",
+"price": 200,
+"default": 1,
+"id": "199860676",
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"name": "6 Pcs",
+"price": 350,
+"id": "199860677",
+"inStock": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000551",
+"variationId": "199860676"
+}
+],
+"price": 20000,
+"addonCombinations": [
+{
+"groupId": "242523674",
+"addonId": "139554008"
+},
+{
+"groupId": "242523674",
+"addonId": "139554003"
+},
+{
+"groupId": "242523674",
+"addonId": "139554005"
+},
+{
+"groupId": "242523674",
+"addonId": "139553987"
+},
+{
+"groupId": "242523674",
+"addonId": "139554004"
+},
+{
+"groupId": "242523674",
+"addonId": "139553990"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000551",
+"variationId": "199860677"
+}
+],
+"price": 35000,
+"addonCombinations": [
+{
+"groupId": "242523674",
+"addonId": "139554008"
+},
+{
+"groupId": "242523674",
+"addonId": "139554003"
+},
+{
+"groupId": "242523674",
+"addonId": "139554005"
+},
+{
+"groupId": "242523674",
+"addonId": "139553987"
+},
+{
+"groupId": "242523674",
+"addonId": "139554004"
+},
+{
+"groupId": "242523674",
+"addonId": "139553990"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523674",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 20000,
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "63 ratings",
+"ratingCountV2": "63"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425701",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530219",
+"name": "Blackened BBQ Chicken Wings",
+"category": "Fries & Sides",
+"description": "Served with spiced garlic dip.",
+"imageId": "muajgrdfld3bbwf78njl",
+"inStock": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "57058243",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530263",
+"name": "Dark Chocolate Crepe",
+"category": "Sweet Crepes",
+"description": "Filled with our delicious made-in-house dark chocolate spread, whipped cream and topped with roasted almond slivers, served with vanilla ice cream.",
+"imageId": "nimiswmvd2m8foycmrl1",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523406",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "56 ratings",
+"ratingCountV2": "56"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425730",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530405",
+"name": "Salted Caramel & Biscuit Crepe",
+"category": "Sweet Crepes",
+"description": "With salted caramel cream, whipped cream, biscuit chunks, served with vanilla ice cream.",
+"imageId": "i0wqwlg90qqyfhxotcva",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523414",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "31 ratings",
+"ratingCountV2": "31"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425844",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530369",
+"name": "Nutella Crepe",
+"category": "Sweet Crepes",
+"description": "Loaded with Nutella, whipped cream and topped with roasted almond slivers, served with vanilla ice cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/28/cbdef8f4-3be3-4ed2-9f3b-cd87b1dd0b1f_391b2bb2-1d4f-44d7-8d7e-39928bed6461.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523421",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "57 ratings",
+"ratingCountV2": "57"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425818",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530407",
+"name": "Salted Caramel Cream Cup",
+"category": "Desserts",
+"description": "Home-made caramel cream served with our made-in-house french vanilla biscuits (5 Pcs).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/9ea2fbd0-05b8-44b6-ad7e-83ada7e7d3e0_d436b0d8-b81d-4a8b-9e5b-f22336a56edf_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 22000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523377",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "139553968",
+"name": "Extra Vanilla Biscuits (3 Pcs)",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523380",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "62 ratings",
+"ratingCountV2": "62"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "51270323",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "121447064",
+"name": "Chunky Chocolate Cookie",
+"category": "Desserts",
+"description": "Freshly baked cookie (1 pc) filled with dark chocolate chunks.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/42f53c2e-c356-48dc-9808-ec023f1e5f07_ee4dcb60-203c-462c-8f10-6d2de9810516_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 18000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "69 ratings",
+"ratingCountV2": "69"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "57572044",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"type": "CATEGORY_TYPE_RECOMMENDED",
+"subtitleSuffix": {},
+"categoryId": "-1"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "What's New",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028932",
+"name": "Gaston (Buffalo Fried Chicken & Jalapeno Sandwich)",
+"category": "What's New",
+"description": "Buffalo sauce dunked fried chicken, jalapenos, sliced onions, garlic aioli, lettuce, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/7f766739-00d1-4433-9d33-7c35eaa47590_c57cc4de-b78f-4f35-8593-a9e714e22607.jpeg",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "71800660",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 265,
+"default": 1,
+"id": "212765842",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "71800966",
+"variationId": "212766491"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 435,
+"id": "212765843",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "71800966",
+"variationId": "212766491"
+}
+}
+]
+},
+{
+"groupId": "71800966",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "212766491",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "212766492",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "71800660",
+"variationId": "212765842"
+},
+{
+"groupId": "71800966",
+"variationId": "212766491"
+}
+],
+"price": 26500,
+"addonCombinations": [
+{
+"groupId": "274236167",
+"addonId": "139554008"
+},
+{
+"groupId": "274236167",
+"addonId": "139554003"
+},
+{
+"groupId": "274236167",
+"addonId": "139554005"
+},
+{
+"groupId": "274236167",
+"addonId": "139553987"
+},
+{
+"groupId": "274236167",
+"addonId": "139554004"
+},
+{
+"groupId": "274236167",
+"addonId": "139553990"
+},
+{
+"groupId": "274236174",
+"addonId": "139553962"
+},
+{
+"groupId": "274236174",
+"addonId": "139553984"
+},
+{
+"groupId": "274236174",
+"addonId": "139554006"
+},
+{
+"groupId": "274236174",
+"addonId": "139553999"
+},
+{
+"groupId": "274236174",
+"addonId": "139553998"
+},
+{
+"groupId": "274236174",
+"addonId": "139553974"
+},
+{
+"groupId": "274236174",
+"addonId": "139553983"
+},
+{
+"groupId": "274236170",
+"addonId": "139553996"
+},
+{
+"groupId": "274236170",
+"addonId": "139553969"
+},
+{
+"groupId": "274236170",
+"addonId": "139553980"
+},
+{
+"groupId": "274236170",
+"addonId": "139553977"
+},
+{
+"groupId": "274236170",
+"addonId": "139553979"
+},
+{
+"groupId": "274236170",
+"addonId": "139553982"
+},
+{
+"groupId": "274236170",
+"addonId": "139553964"
+},
+{
+"groupId": "274236170",
+"addonId": "139553959"
+},
+{
+"groupId": "274236166",
+"addonId": "139553986"
+},
+{
+"groupId": "274236166",
+"addonId": "139553973"
+},
+{
+"groupId": "274236166",
+"addonId": "140670877"
+},
+{
+"groupId": "274236166",
+"addonId": "139553989"
+},
+{
+"groupId": "274236166",
+"addonId": "139553988"
+},
+{
+"groupId": "274236166",
+"addonId": "139553997"
+},
+{
+"groupId": "274236166",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "71800660",
+"variationId": "212765842"
+},
+{
+"groupId": "71800966",
+"variationId": "212766492"
+}
+],
+"price": 27500,
+"addonCombinations": [
+{
+"groupId": "274236167",
+"addonId": "139554008"
+},
+{
+"groupId": "274236167",
+"addonId": "139554003"
+},
+{
+"groupId": "274236167",
+"addonId": "139554005"
+},
+{
+"groupId": "274236167",
+"addonId": "139553987"
+},
+{
+"groupId": "274236167",
+"addonId": "139554004"
+},
+{
+"groupId": "274236167",
+"addonId": "139553990"
+},
+{
+"groupId": "274236174",
+"addonId": "139553962"
+},
+{
+"groupId": "274236174",
+"addonId": "139553984"
+},
+{
+"groupId": "274236174",
+"addonId": "139554006"
+},
+{
+"groupId": "274236174",
+"addonId": "139553999"
+},
+{
+"groupId": "274236174",
+"addonId": "139553998"
+},
+{
+"groupId": "274236174",
+"addonId": "139553974"
+},
+{
+"groupId": "274236174",
+"addonId": "139553983"
+},
+{
+"groupId": "274236170",
+"addonId": "139553996"
+},
+{
+"groupId": "274236170",
+"addonId": "139553969"
+},
+{
+"groupId": "274236170",
+"addonId": "139553980"
+},
+{
+"groupId": "274236170",
+"addonId": "139553977"
+},
+{
+"groupId": "274236170",
+"addonId": "139553979"
+},
+{
+"groupId": "274236170",
+"addonId": "139553982"
+},
+{
+"groupId": "274236170",
+"addonId": "139553964"
+},
+{
+"groupId": "274236170",
+"addonId": "139553959"
+},
+{
+"groupId": "274236166",
+"addonId": "139553986"
+},
+{
+"groupId": "274236166",
+"addonId": "139553973"
+},
+{
+"groupId": "274236166",
+"addonId": "140670877"
+},
+{
+"groupId": "274236166",
+"addonId": "139553989"
+},
+{
+"groupId": "274236166",
+"addonId": "139553988"
+},
+{
+"groupId": "274236166",
+"addonId": "139553997"
+},
+{
+"groupId": "274236166",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "71800660",
+"variationId": "212765843"
+},
+{
+"groupId": "71800966",
+"variationId": "212766491"
+}
+],
+"price": 43500,
+"addonCombinations": [
+{
+"groupId": "274236167",
+"addonId": "139554008"
+},
+{
+"groupId": "274236167",
+"addonId": "139554003"
+},
+{
+"groupId": "274236167",
+"addonId": "139554005"
+},
+{
+"groupId": "274236167",
+"addonId": "139553987"
+},
+{
+"groupId": "274236167",
+"addonId": "139554004"
+},
+{
+"groupId": "274236167",
+"addonId": "139553990"
+},
+{
+"groupId": "274236174",
+"addonId": "139553962"
+},
+{
+"groupId": "274236174",
+"addonId": "139553984"
+},
+{
+"groupId": "274236174",
+"addonId": "139554006"
+},
+{
+"groupId": "274236174",
+"addonId": "139553999"
+},
+{
+"groupId": "274236174",
+"addonId": "139553998"
+},
+{
+"groupId": "274236174",
+"addonId": "139553974"
+},
+{
+"groupId": "274236174",
+"addonId": "139553983"
+},
+{
+"groupId": "274236170",
+"addonId": "139553996"
+},
+{
+"groupId": "274236170",
+"addonId": "139553969"
+},
+{
+"groupId": "274236170",
+"addonId": "139553980"
+},
+{
+"groupId": "274236170",
+"addonId": "139553977"
+},
+{
+"groupId": "274236170",
+"addonId": "139553979"
+},
+{
+"groupId": "274236170",
+"addonId": "139553982"
+},
+{
+"groupId": "274236170",
+"addonId": "139553964"
+},
+{
+"groupId": "274236170",
+"addonId": "139553959"
+},
+{
+"groupId": "274236166",
+"addonId": "139553986"
+},
+{
+"groupId": "274236166",
+"addonId": "139553973"
+},
+{
+"groupId": "274236166",
+"addonId": "140670877"
+},
+{
+"groupId": "274236166",
+"addonId": "139553989"
+},
+{
+"groupId": "274236166",
+"addonId": "139553988"
+},
+{
+"groupId": "274236166",
+"addonId": "139553997"
+},
+{
+"groupId": "274236166",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "71800660",
+"variationId": "212765843"
+},
+{
+"groupId": "71800966",
+"variationId": "212766492"
+}
+],
+"price": 44500,
+"addonCombinations": [
+{
+"groupId": "274236167",
+"addonId": "139554008"
+},
+{
+"groupId": "274236167",
+"addonId": "139554003"
+},
+{
+"groupId": "274236167",
+"addonId": "139554005"
+},
+{
+"groupId": "274236167",
+"addonId": "139553987"
+},
+{
+"groupId": "274236167",
+"addonId": "139554004"
+},
+{
+"groupId": "274236167",
+"addonId": "139553990"
+},
+{
+"groupId": "274236174",
+"addonId": "139553962"
+},
+{
+"groupId": "274236174",
+"addonId": "139553984"
+},
+{
+"groupId": "274236174",
+"addonId": "139554006"
+},
+{
+"groupId": "274236174",
+"addonId": "139553999"
+},
+{
+"groupId": "274236174",
+"addonId": "139553998"
+},
+{
+"groupId": "274236174",
+"addonId": "139553974"
+},
+{
+"groupId": "274236174",
+"addonId": "139553983"
+},
+{
+"groupId": "274236170",
+"addonId": "139553996"
+},
+{
+"groupId": "274236170",
+"addonId": "139553969"
+},
+{
+"groupId": "274236170",
+"addonId": "139553980"
+},
+{
+"groupId": "274236170",
+"addonId": "139553977"
+},
+{
+"groupId": "274236170",
+"addonId": "139553979"
+},
+{
+"groupId": "274236170",
+"addonId": "139553982"
+},
+{
+"groupId": "274236170",
+"addonId": "139553964"
+},
+{
+"groupId": "274236170",
+"addonId": "139553959"
+},
+{
+"groupId": "274236166",
+"addonId": "139553986"
+},
+{
+"groupId": "274236166",
+"addonId": "139553973"
+},
+{
+"groupId": "274236166",
+"addonId": "140670877"
+},
+{
+"groupId": "274236166",
+"addonId": "139553989"
+},
+{
+"groupId": "274236166",
+"addonId": "139553988"
+},
+{
+"groupId": "274236166",
+"addonId": "139553997"
+},
+{
+"groupId": "274236166",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "274236166",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236167",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236170",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236174",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 26500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "118350438",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028933",
+"name": "Andre (Lamb & Pepperoni Sandwich)",
+"category": "What's New",
+"description": "Pork pepperoni, crumbled lamb, fresh mozzarella, sliced onions, lettuce, garlic aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/b5c0b7c7-249f-47d9-a3ff-3c9cdfe0840f_4ad35c0e-0583-4e3c-9c39-4974b366b174.png_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "71800967",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"price": 450,
+"default": 1,
+"id": "212766493",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "71800661",
+"variationId": "212777166"
+}
+},
+{
+"name": "Multigrain",
+"price": 460,
+"id": "212766494",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "71800661",
+"variationId": "212777166"
+}
+}
+]
+},
+{
+"groupId": "71800661",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"default": 1,
+"id": "212777166",
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 300,
+"id": "212777167",
+"inStock": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "71800967",
+"variationId": "212766493"
+},
+{
+"groupId": "71800661",
+"variationId": "212777166"
+}
+],
+"price": 45000,
+"addonCombinations": [
+{
+"groupId": "274236267",
+"addonId": "139554008"
+},
+{
+"groupId": "274236267",
+"addonId": "139554003"
+},
+{
+"groupId": "274236267",
+"addonId": "139554005"
+},
+{
+"groupId": "274236267",
+"addonId": "139553987"
+},
+{
+"groupId": "274236267",
+"addonId": "139554004"
+},
+{
+"groupId": "274236267",
+"addonId": "139553990"
+},
+{
+"groupId": "274236279",
+"addonId": "139553962"
+},
+{
+"groupId": "274236279",
+"addonId": "139553984"
+},
+{
+"groupId": "274236279",
+"addonId": "139554006"
+},
+{
+"groupId": "274236279",
+"addonId": "139553999"
+},
+{
+"groupId": "274236279",
+"addonId": "139553998"
+},
+{
+"groupId": "274236279",
+"addonId": "139553974"
+},
+{
+"groupId": "274236279",
+"addonId": "139553983"
+},
+{
+"groupId": "274236272",
+"addonId": "139553996"
+},
+{
+"groupId": "274236272",
+"addonId": "139553969"
+},
+{
+"groupId": "274236272",
+"addonId": "139553980"
+},
+{
+"groupId": "274236272",
+"addonId": "139553977"
+},
+{
+"groupId": "274236272",
+"addonId": "139553979"
+},
+{
+"groupId": "274236272",
+"addonId": "139553982"
+},
+{
+"groupId": "274236272",
+"addonId": "139553964"
+},
+{
+"groupId": "274236272",
+"addonId": "139553959"
+},
+{
+"groupId": "274236264",
+"addonId": "139553986"
+},
+{
+"groupId": "274236264",
+"addonId": "139553973"
+},
+{
+"groupId": "274236264",
+"addonId": "140670877"
+},
+{
+"groupId": "274236264",
+"addonId": "139553989"
+},
+{
+"groupId": "274236264",
+"addonId": "139553988"
+},
+{
+"groupId": "274236264",
+"addonId": "139553997"
+},
+{
+"groupId": "274236264",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "71800967",
+"variationId": "212766493"
+},
+{
+"groupId": "71800661",
+"variationId": "212777167"
+}
+],
+"price": 75000,
+"addonCombinations": [
+{
+"groupId": "274236267",
+"addonId": "139554008"
+},
+{
+"groupId": "274236267",
+"addonId": "139554003"
+},
+{
+"groupId": "274236267",
+"addonId": "139554005"
+},
+{
+"groupId": "274236267",
+"addonId": "139553987"
+},
+{
+"groupId": "274236267",
+"addonId": "139554004"
+},
+{
+"groupId": "274236267",
+"addonId": "139553990"
+},
+{
+"groupId": "274236279",
+"addonId": "139553962"
+},
+{
+"groupId": "274236279",
+"addonId": "139553984"
+},
+{
+"groupId": "274236279",
+"addonId": "139554006"
+},
+{
+"groupId": "274236279",
+"addonId": "139553999"
+},
+{
+"groupId": "274236279",
+"addonId": "139553998"
+},
+{
+"groupId": "274236279",
+"addonId": "139553974"
+},
+{
+"groupId": "274236279",
+"addonId": "139553983"
+},
+{
+"groupId": "274236272",
+"addonId": "139553996"
+},
+{
+"groupId": "274236272",
+"addonId": "139553969"
+},
+{
+"groupId": "274236272",
+"addonId": "139553980"
+},
+{
+"groupId": "274236272",
+"addonId": "139553977"
+},
+{
+"groupId": "274236272",
+"addonId": "139553979"
+},
+{
+"groupId": "274236272",
+"addonId": "139553982"
+},
+{
+"groupId": "274236272",
+"addonId": "139553964"
+},
+{
+"groupId": "274236272",
+"addonId": "139553959"
+},
+{
+"groupId": "274236264",
+"addonId": "139553986"
+},
+{
+"groupId": "274236264",
+"addonId": "139553973"
+},
+{
+"groupId": "274236264",
+"addonId": "140670877"
+},
+{
+"groupId": "274236264",
+"addonId": "139553989"
+},
+{
+"groupId": "274236264",
+"addonId": "139553988"
+},
+{
+"groupId": "274236264",
+"addonId": "139553997"
+},
+{
+"groupId": "274236264",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "71800967",
+"variationId": "212766494"
+},
+{
+"groupId": "71800661",
+"variationId": "212777166"
+}
+],
+"price": 46000,
+"addonCombinations": [
+{
+"groupId": "274236267",
+"addonId": "139554008"
+},
+{
+"groupId": "274236267",
+"addonId": "139554003"
+},
+{
+"groupId": "274236267",
+"addonId": "139554005"
+},
+{
+"groupId": "274236267",
+"addonId": "139553987"
+},
+{
+"groupId": "274236267",
+"addonId": "139554004"
+},
+{
+"groupId": "274236267",
+"addonId": "139553990"
+},
+{
+"groupId": "274236279",
+"addonId": "139553962"
+},
+{
+"groupId": "274236279",
+"addonId": "139553984"
+},
+{
+"groupId": "274236279",
+"addonId": "139554006"
+},
+{
+"groupId": "274236279",
+"addonId": "139553999"
+},
+{
+"groupId": "274236279",
+"addonId": "139553998"
+},
+{
+"groupId": "274236279",
+"addonId": "139553974"
+},
+{
+"groupId": "274236279",
+"addonId": "139553983"
+},
+{
+"groupId": "274236272",
+"addonId": "139553996"
+},
+{
+"groupId": "274236272",
+"addonId": "139553969"
+},
+{
+"groupId": "274236272",
+"addonId": "139553980"
+},
+{
+"groupId": "274236272",
+"addonId": "139553977"
+},
+{
+"groupId": "274236272",
+"addonId": "139553979"
+},
+{
+"groupId": "274236272",
+"addonId": "139553982"
+},
+{
+"groupId": "274236272",
+"addonId": "139553964"
+},
+{
+"groupId": "274236272",
+"addonId": "139553959"
+},
+{
+"groupId": "274236264",
+"addonId": "139553986"
+},
+{
+"groupId": "274236264",
+"addonId": "139553973"
+},
+{
+"groupId": "274236264",
+"addonId": "140670877"
+},
+{
+"groupId": "274236264",
+"addonId": "139553989"
+},
+{
+"groupId": "274236264",
+"addonId": "139553988"
+},
+{
+"groupId": "274236264",
+"addonId": "139553997"
+},
+{
+"groupId": "274236264",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "71800967",
+"variationId": "212766494"
+},
+{
+"groupId": "71800661",
+"variationId": "212777167"
+}
+],
+"price": 76000,
+"addonCombinations": [
+{
+"groupId": "274236267",
+"addonId": "139554008"
+},
+{
+"groupId": "274236267",
+"addonId": "139554003"
+},
+{
+"groupId": "274236267",
+"addonId": "139554005"
+},
+{
+"groupId": "274236267",
+"addonId": "139553987"
+},
+{
+"groupId": "274236267",
+"addonId": "139554004"
+},
+{
+"groupId": "274236267",
+"addonId": "139553990"
+},
+{
+"groupId": "274236279",
+"addonId": "139553962"
+},
+{
+"groupId": "274236279",
+"addonId": "139553984"
+},
+{
+"groupId": "274236279",
+"addonId": "139554006"
+},
+{
+"groupId": "274236279",
+"addonId": "139553999"
+},
+{
+"groupId": "274236279",
+"addonId": "139553998"
+},
+{
+"groupId": "274236279",
+"addonId": "139553974"
+},
+{
+"groupId": "274236279",
+"addonId": "139553983"
+},
+{
+"groupId": "274236272",
+"addonId": "139553996"
+},
+{
+"groupId": "274236272",
+"addonId": "139553969"
+},
+{
+"groupId": "274236272",
+"addonId": "139553980"
+},
+{
+"groupId": "274236272",
+"addonId": "139553977"
+},
+{
+"groupId": "274236272",
+"addonId": "139553979"
+},
+{
+"groupId": "274236272",
+"addonId": "139553982"
+},
+{
+"groupId": "274236272",
+"addonId": "139553964"
+},
+{
+"groupId": "274236272",
+"addonId": "139553959"
+},
+{
+"groupId": "274236264",
+"addonId": "139553986"
+},
+{
+"groupId": "274236264",
+"addonId": "139553973"
+},
+{
+"groupId": "274236264",
+"addonId": "140670877"
+},
+{
+"groupId": "274236264",
+"addonId": "139553989"
+},
+{
+"groupId": "274236264",
+"addonId": "139553988"
+},
+{
+"groupId": "274236264",
+"addonId": "139553997"
+},
+{
+"groupId": "274236264",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "274236264",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236267",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236272",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236279",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 45000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "118350433",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028934",
+"name": "Classic Caesar Wrap",
+"category": "What's New",
+"description": "Marinated olives, sliced boiled egg, sundried tomato, broken crouton, lettuce, caesar dressing. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/14b6b1f2-b46a-4655-9f20-619e94eada1a_821c712f-1f7c-4cac-b97f-a39f94890c8f.jpeg",
+"inStock": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "274235893",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274235895",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274235898",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274235901",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "118350437",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028935",
+"name": "Chicken Caesar Wrap",
+"category": "What's New",
+"description": "Marinated olives, grilled chicken, sundried tomato, broken crouton, lettuce, caesar dressing. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/11/df370066-eff5-4853-b4c8-4f8921d0a16f_8b428f19-56f6-436f-9e7c-80cad6c50f80.jpeg",
+"inStock": 1,
+"price": 30500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "274236073",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236075",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236077",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236080",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "118350436",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028936",
+"name": "Buffalo Fried Chicken & Jalapeno Wrap",
+"category": "What's New",
+"description": "Buffalo sauce dunked fried chicken, jalapenos, sliced onions, garlic aioli, lettuce. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/2bb32cea-1115-467c-85e0-cdc54f325782_d58551b0-8c9f-4da7-bec9-05065ba490c7.png_compressed",
+"inStock": 1,
+"price": 30500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "274236041",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236043",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236044",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236046",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "118350435",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028937",
+"name": "Bacon Caesar Wrap",
+"category": "What's New",
+"description": "Marinated olives, pork bacon, sundried tomato, broken crouton, lettuce, caesar dressing. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/80080e69-6f7e-4c15-9889-7ab2aedef0c7_b7dc1f4c-135c-4c24-8b72-bdc943d637ec.jpeg",
+"inStock": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "274236449",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236450",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236451",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236452",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "118350434",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194028938",
+"name": "Lamb & Pepperoni Wrap",
+"category": "What's New",
+"description": "Pork pepperoni, crumbled lamb, fresh mozzarella, sliced onions, lettuce, garlic aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/11/17c43445-5306-4bdc-925d-65e92cb5fe8a_0f4ab2d2-05b4-4198-96f8-a4b225f5ddbd.jpeg",
+"inStock": 1,
+"price": 45000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "274236562",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236565",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236567",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "274236568",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118350439",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "192080591",
+"name": "Salted Pistachio Shake",
+"category": "What's New",
+"description": "Salted pistachio sauce blended with vanilla ice cream for a rich, nutty shake.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/1/21/17a90d19-40a3-4762-8511-7a095b15f2d0_11c40639-095f-465f-90c1-3cdf9049c33e.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 32000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "117004238",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2026/2/18/7f766739-00d1-4433-9d33-7c35eaa47590_c57cc4de-b78f-4f35-8593-a9e714e22607.jpeg",
+"categoryId": "71949252"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Grilled Wraps",
+"categories": [
+{
+"title": "Veg Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434684",
+"name": "Roasted Veggies & Mozzarella Wrap",
+"category": "Grilled Wraps",
+"description": "Roasted bell pepper, zucchini, jalapeno, mozzarella, sliced onions, lettuce, olive tapenade. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "d6363974cc024c3e9878000667bb406d",
+"inStock": 1,
+"isVeg": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522686",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522688",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522689",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522690",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "70 ratings",
+"ratingCountV2": "70"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874886",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "152504596",
+"name": "Herbed Paneer & Bell pepper Wrap",
+"category": "Grilled Wraps",
+"description": "Herbed paneer, bell pepper, fresh mozzarella, onion rings, lettuce, creamy pesto. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/22/29df7724-79e5-4ab5-9e17-cd74275a21f1_a6b6ced8-d2dc-45a5-9f95-ad44a3600593.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522694",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522696",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522698",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522697",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "35 ratings",
+"ratingCountV2": "35"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "90705214",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120730517",
+"name": "Hummus & Bell Pepper Wrap",
+"category": "Grilled Wraps",
+"description": "Hummus, sun-dried tomato, red bell pepper, chunky chilli, onion rings and lettuce (vegan). Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "8c62e8edaa2c87d4cacd231b98898675",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522702",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522704",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522706",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522705",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "111 ratings",
+"ratingCountV2": "111"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "69201454",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "120730518",
+"name": "Hummus & Olives Wrap",
+"category": "Grilled Wraps",
+"description": "Hummus, marinated olives, cucumber, chunky chilli, onion rings and lettuce (vegan). Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "749cf18d4c1875d3073fbea9401f4ac3",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522708",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522710",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522713",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522712",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "104 ratings",
+"ratingCountV2": "104"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "69201455",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434677",
+"name": "Mushroom & Feta Wrap",
+"category": "Grilled Wraps",
+"description": "Roasted mushrooms, feta cheese, onion rings, lettuce, olive tapenade. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "d4b1462ebfe4afb4c8d02861323898f3",
+"inStock": 1,
+"isVeg": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522724",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522723",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522720",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522717",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "38 ratings",
+"ratingCountV2": "38"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874881",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434682",
+"name": "Roasted Mushroom & Veggies Wrap",
+"category": "Grilled Wraps",
+"description": "Roasted mushrooms, roasted bell pepper, zucchini, sliced onions, lettuce, fresh basil pesto. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "087ea7b01cd8bac8178b4052eb18c1c1",
+"inStock": 1,
+"isVeg": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522727",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522729",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522732",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522731",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "40 ratings",
+"ratingCountV2": "40"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874885",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619550"
+},
+{
+"title": "Egg Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434674",
+"name": "Deviled Egg & Sriracha Wrap",
+"category": "Grilled Wraps",
+"description": "Mashed deviled egg, sun-dried tomatoes, onion rings, lettuce, sriracha aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "f64296527289d9950c1e8d1cf06c96bc",
+"inStock": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522738",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522740",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522744",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522742",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "38 ratings",
+"ratingCountV2": "38"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874878",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619547"
+},
+{
+"title": "Chicken Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "138924055",
+"name": "French Dipped Chicken Wrap",
+"category": "Grilled Wraps",
+"description": "Chicken dipped in a french roast gravy, onion rings, lettuce, sliced onions, garlic aioli. Served with our homemade French Dip. Made-to-order in a fresh home-made wrap and grilled to perfection. ",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/e1c1d3a0-37b8-4fc4-ad4e-2737757aa3a0_110472ca-5695-422a-83c8-7e52e32cb2ac.jpg_compressed",
+"inStock": 1,
+"price": 30500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522750",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522752",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522757",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522755",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "116 ratings",
+"ratingCountV2": "116"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "81621379",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "132293032",
+"name": "Fried Chicken & Hummus Wrap",
+"category": "Grilled Wraps",
+"description": "Fried chicken, sun-dried tomatoes, hummus, chunky chilli, sliced onion, lettuce. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "2664a734d91256953d5d3ef5607b7dce",
+"inStock": 1,
+"price": 30500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522760",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522762",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522767",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522764",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "99 ratings",
+"ratingCountV2": "99"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "77111311",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434675",
+"name": "Fried Chicken & Mozzarella Wrap",
+"category": "Grilled Wraps",
+"description": "Fried chicken, fresh mozzarella, sun-dried tomatoes, onion, lettuce, basil and sriracha aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "e4acf5202c9844a800a0b45da740d980",
+"inStock": 1,
+"price": 30500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522770",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522772",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522776",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522774",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "60 ratings",
+"ratingCountV2": "60"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874879",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434673",
+"name": "Chicken & Egg Wrap",
+"category": "Grilled Wraps",
+"description": "Mustard chicken, hard-boiled egg, fried onions, lettuce, basil aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "0d96282e7e90968cdbc4e79a7c096b5b",
+"inStock": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "277519187",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "277519189",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "277519191",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "277519194",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "31 ratings",
+"ratingCountV2": "31"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874877",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619549"
+},
+{
+"title": "Lamb, Seafood Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434676",
+"name": "Lamb & Aioli Wrap",
+"category": "Grilled Wraps",
+"description": "Crumbled lamb, red paprika, onion, jalapeno, lettuce, garlic aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "d5ccdbbcbf1b907e6ce95546663bd55c",
+"inStock": 1,
+"price": 34500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522822",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522825",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522827",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522830",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "23 ratings",
+"ratingCountV2": "23"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874880",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434680",
+"name": "Prawns & Aioli Wrap",
+"category": "Grilled Wraps",
+"description": "Garlic butter prawns, sun-dried tomato, lettuce, onion rings, garlic aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "8dcd48989e33860ea5c99d4149fa763b",
+"inStock": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522839",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522841",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522844",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522843",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "29 ratings",
+"ratingCountV2": "29"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874884",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619548"
+},
+{
+"title": "Pork Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434672",
+"name": "Bacon & Feta Wrap",
+"category": "Grilled Wraps",
+"description": "Bacon, fresh feta cheese, fried onions, lettuce, sriracha aioli. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "228a02f9f34036f7199bdf28c7e046d2",
+"inStock": 1,
+"price": 35500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522853",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522856",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522861",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522857",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "20 ratings",
+"ratingCountV2": "20"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874876",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619546"
+},
+{
+"title": "Vegan Wraps",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "142239507",
+"name": "Vegan Hummus & Bell Pepper Wrap",
+"category": "Grilled Wraps",
+"description": "Hummus, sun-dried tomato, red bell pepper, chunky chilli, onion rings and lettuce. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "8c62e8edaa2c87d4cacd231b98898675",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522867",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522868",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522874",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522871",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "83955787",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "142239508",
+"name": "Vegan Hummus & Olives Wrap",
+"category": "Grilled Wraps",
+"description": "Hummus, marinated olives, cucumber, chunky chilli, onion rings and lettuce. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "749cf18d4c1875d3073fbea9401f4ac3",
+"inStock": 1,
+"isVeg": 1,
+"price": 27500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522883",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522884",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522891",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522887",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "83955788",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434690",
+"name": "Vegan Mushroom Wrap",
+"category": "Grilled Wraps",
+"description": "Roasted mushrooms, roasted bell pepper, zucchini, sliced onions, lettuce, fresh basil pesto. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "087ea7b01cd8bac8178b4052eb18c1c1",
+"inStock": 1,
+"isVeg": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522897",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522900",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522905",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522903",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874888",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "118434693",
+"name": "Vegan Veggies Wrap",
+"category": "Grilled Wraps",
+"description": "Roasted bell pepper, zucchini, jalapeno, mozzarella, sliced onions, lettuce, olive tapenade. Made-to-order in a fresh home-made wrap and grilled to perfection.",
+"imageId": "3980a2a119eda98e43530a190e8dd890",
+"inStock": 1,
+"isVeg": 1,
+"price": 28500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242522911",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522913",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522919",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522916",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "67874889",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619551"
+}
+],
+"image": "d6363974cc024c3e9878000667bb406d",
+"categoryId": "66619534"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Gourmet Panini",
+"categories": [
+{
+"title": "Veg Panini",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "152504597",
+"name": "Julie (Herbed Paneer & Bell pepper Sandwich)",
+"category": "Gourmet Panini",
+"description": "Herbed paneer, bell pepper, fresh mozzarella, onion rings, creamy pesto, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/22/f49f7c3c-59bb-45d6-a679-f349469c5e57_0b522fc9-0e58-428d-91c3-8c171740bc9e.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000439",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 255,
+"default": 1,
+"id": "199860409",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000440",
+"variationId": "199860411"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 425,
+"id": "199860410",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000440",
+"variationId": "199860411"
+}
+}
+]
+},
+{
+"groupId": "66000440",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860411",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860412",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000439",
+"variationId": "199860409"
+},
+{
+"groupId": "66000440",
+"variationId": "199860411"
+}
+],
+"price": 25500,
+"addonCombinations": [
+{
+"groupId": "242522929",
+"addonId": "139554008"
+},
+{
+"groupId": "242522929",
+"addonId": "139554003"
+},
+{
+"groupId": "242522929",
+"addonId": "139554005"
+},
+{
+"groupId": "242522929",
+"addonId": "139553987"
+},
+{
+"groupId": "242522929",
+"addonId": "139554004"
+},
+{
+"groupId": "242522929",
+"addonId": "139553990"
+},
+{
+"groupId": "242522935",
+"addonId": "139553962"
+},
+{
+"groupId": "242522935",
+"addonId": "139553984"
+},
+{
+"groupId": "242522935",
+"addonId": "139554006"
+},
+{
+"groupId": "242522935",
+"addonId": "139553999"
+},
+{
+"groupId": "242522935",
+"addonId": "139553998"
+},
+{
+"groupId": "242522935",
+"addonId": "139553974"
+},
+{
+"groupId": "242522935",
+"addonId": "139553983"
+},
+{
+"groupId": "242522932",
+"addonId": "139553996"
+},
+{
+"groupId": "242522932",
+"addonId": "139553969"
+},
+{
+"groupId": "242522932",
+"addonId": "139553980"
+},
+{
+"groupId": "242522932",
+"addonId": "139553977"
+},
+{
+"groupId": "242522932",
+"addonId": "139553979"
+},
+{
+"groupId": "242522932",
+"addonId": "139553982"
+},
+{
+"groupId": "242522932",
+"addonId": "139553964"
+},
+{
+"groupId": "242522932",
+"addonId": "139553959"
+},
+{
+"groupId": "242522928",
+"addonId": "139553986"
+},
+{
+"groupId": "242522928",
+"addonId": "139553973"
+},
+{
+"groupId": "242522928",
+"addonId": "140670877"
+},
+{
+"groupId": "242522928",
+"addonId": "139553989"
+},
+{
+"groupId": "242522928",
+"addonId": "139553988"
+},
+{
+"groupId": "242522928",
+"addonId": "139553997"
+},
+{
+"groupId": "242522928",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000439",
+"variationId": "199860409"
+},
+{
+"groupId": "66000440",
+"variationId": "199860412"
+}
+],
+"price": 26500,
+"addonCombinations": [
+{
+"groupId": "242522929",
+"addonId": "139554008"
+},
+{
+"groupId": "242522929",
+"addonId": "139554003"
+},
+{
+"groupId": "242522929",
+"addonId": "139554005"
+},
+{
+"groupId": "242522929",
+"addonId": "139553987"
+},
+{
+"groupId": "242522929",
+"addonId": "139554004"
+},
+{
+"groupId": "242522929",
+"addonId": "139553990"
+},
+{
+"groupId": "242522935",
+"addonId": "139553962"
+},
+{
+"groupId": "242522935",
+"addonId": "139553984"
+},
+{
+"groupId": "242522935",
+"addonId": "139554006"
+},
+{
+"groupId": "242522935",
+"addonId": "139553999"
+},
+{
+"groupId": "242522935",
+"addonId": "139553998"
+},
+{
+"groupId": "242522935",
+"addonId": "139553974"
+},
+{
+"groupId": "242522935",
+"addonId": "139553983"
+},
+{
+"groupId": "242522932",
+"addonId": "139553996"
+},
+{
+"groupId": "242522932",
+"addonId": "139553969"
+},
+{
+"groupId": "242522932",
+"addonId": "139553980"
+},
+{
+"groupId": "242522932",
+"addonId": "139553977"
+},
+{
+"groupId": "242522932",
+"addonId": "139553979"
+},
+{
+"groupId": "242522932",
+"addonId": "139553982"
+},
+{
+"groupId": "242522932",
+"addonId": "139553964"
+},
+{
+"groupId": "242522932",
+"addonId": "139553959"
+},
+{
+"groupId": "242522928",
+"addonId": "139553986"
+},
+{
+"groupId": "242522928",
+"addonId": "139553973"
+},
+{
+"groupId": "242522928",
+"addonId": "140670877"
+},
+{
+"groupId": "242522928",
+"addonId": "139553989"
+},
+{
+"groupId": "242522928",
+"addonId": "139553988"
+},
+{
+"groupId": "242522928",
+"addonId": "139553997"
+},
+{
+"groupId": "242522928",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000439",
+"variationId": "199860410"
+},
+{
+"groupId": "66000440",
+"variationId": "199860411"
+}
+],
+"price": 42500,
+"addonCombinations": [
+{
+"groupId": "242522929",
+"addonId": "139554008"
+},
+{
+"groupId": "242522929",
+"addonId": "139554003"
+},
+{
+"groupId": "242522929",
+"addonId": "139554005"
+},
+{
+"groupId": "242522929",
+"addonId": "139553987"
+},
+{
+"groupId": "242522929",
+"addonId": "139554004"
+},
+{
+"groupId": "242522929",
+"addonId": "139553990"
+},
+{
+"groupId": "242522935",
+"addonId": "139553962"
+},
+{
+"groupId": "242522935",
+"addonId": "139553984"
+},
+{
+"groupId": "242522935",
+"addonId": "139554006"
+},
+{
+"groupId": "242522935",
+"addonId": "139553999"
+},
+{
+"groupId": "242522935",
+"addonId": "139553998"
+},
+{
+"groupId": "242522935",
+"addonId": "139553974"
+},
+{
+"groupId": "242522935",
+"addonId": "139553983"
+},
+{
+"groupId": "242522932",
+"addonId": "139553996"
+},
+{
+"groupId": "242522932",
+"addonId": "139553969"
+},
+{
+"groupId": "242522932",
+"addonId": "139553980"
+},
+{
+"groupId": "242522932",
+"addonId": "139553977"
+},
+{
+"groupId": "242522932",
+"addonId": "139553979"
+},
+{
+"groupId": "242522932",
+"addonId": "139553982"
+},
+{
+"groupId": "242522932",
+"addonId": "139553964"
+},
+{
+"groupId": "242522932",
+"addonId": "139553959"
+},
+{
+"groupId": "242522928",
+"addonId": "139553986"
+},
+{
+"groupId": "242522928",
+"addonId": "139553973"
+},
+{
+"groupId": "242522928",
+"addonId": "140670877"
+},
+{
+"groupId": "242522928",
+"addonId": "139553989"
+},
+{
+"groupId": "242522928",
+"addonId": "139553988"
+},
+{
+"groupId": "242522928",
+"addonId": "139553997"
+},
+{
+"groupId": "242522928",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000439",
+"variationId": "199860410"
+},
+{
+"groupId": "66000440",
+"variationId": "199860412"
+}
+],
+"price": 43500,
+"addonCombinations": [
+{
+"groupId": "242522929",
+"addonId": "139554008"
+},
+{
+"groupId": "242522929",
+"addonId": "139554003"
+},
+{
+"groupId": "242522929",
+"addonId": "139554005"
+},
+{
+"groupId": "242522929",
+"addonId": "139553987"
+},
+{
+"groupId": "242522929",
+"addonId": "139554004"
+},
+{
+"groupId": "242522929",
+"addonId": "139553990"
+},
+{
+"groupId": "242522935",
+"addonId": "139553962"
+},
+{
+"groupId": "242522935",
+"addonId": "139553984"
+},
+{
+"groupId": "242522935",
+"addonId": "139554006"
+},
+{
+"groupId": "242522935",
+"addonId": "139553999"
+},
+{
+"groupId": "242522935",
+"addonId": "139553998"
+},
+{
+"groupId": "242522935",
+"addonId": "139553974"
+},
+{
+"groupId": "242522935",
+"addonId": "139553983"
+},
+{
+"groupId": "242522932",
+"addonId": "139553996"
+},
+{
+"groupId": "242522932",
+"addonId": "139553969"
+},
+{
+"groupId": "242522932",
+"addonId": "139553980"
+},
+{
+"groupId": "242522932",
+"addonId": "139553977"
+},
+{
+"groupId": "242522932",
+"addonId": "139553979"
+},
+{
+"groupId": "242522932",
+"addonId": "139553982"
+},
+{
+"groupId": "242522932",
+"addonId": "139553964"
+},
+{
+"groupId": "242522932",
+"addonId": "139553959"
+},
+{
+"groupId": "242522928",
+"addonId": "139553986"
+},
+{
+"groupId": "242522928",
+"addonId": "139553973"
+},
+{
+"groupId": "242522928",
+"addonId": "140670877"
+},
+{
+"groupId": "242522928",
+"addonId": "139553989"
+},
+{
+"groupId": "242522928",
+"addonId": "139553988"
+},
+{
+"groupId": "242522928",
+"addonId": "139553997"
+},
+{
+"groupId": "242522928",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522928",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522929",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522932",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522935",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 25500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "94 ratings",
+"ratingCountV2": "94"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "90705215",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530273",
+"name": "Estelle (Veggies & Mozza Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted zucchini, bell pepper, fresh mozzarella, jalapeno, sliced onions, olive tapenade, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/24/95b44b8e-8a5a-4043-ac3f-09239020918d_9fa0760d-7b08-483f-aa04-fdbd31bca2ab.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000441",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860413",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000442",
+"variationId": "199860415"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860414",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000442",
+"variationId": "199860415"
+}
+}
+]
+},
+{
+"groupId": "66000442",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860415",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860416",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860413"
+},
+{
+"groupId": "66000442",
+"variationId": "199860415"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860413"
+},
+{
+"groupId": "66000442",
+"variationId": "199860416"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860414"
+},
+{
+"groupId": "66000442",
+"variationId": "199860415"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000441",
+"variationId": "199860414"
+},
+{
+"groupId": "66000442",
+"variationId": "199860416"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242522945",
+"addonId": "139554008"
+},
+{
+"groupId": "242522945",
+"addonId": "139554003"
+},
+{
+"groupId": "242522945",
+"addonId": "139554005"
+},
+{
+"groupId": "242522945",
+"addonId": "139553987"
+},
+{
+"groupId": "242522945",
+"addonId": "139554004"
+},
+{
+"groupId": "242522945",
+"addonId": "139553990"
+},
+{
+"groupId": "242522951",
+"addonId": "139553962"
+},
+{
+"groupId": "242522951",
+"addonId": "139553984"
+},
+{
+"groupId": "242522951",
+"addonId": "139554006"
+},
+{
+"groupId": "242522951",
+"addonId": "139553999"
+},
+{
+"groupId": "242522951",
+"addonId": "139553998"
+},
+{
+"groupId": "242522951",
+"addonId": "139553974"
+},
+{
+"groupId": "242522951",
+"addonId": "139553983"
+},
+{
+"groupId": "242522948",
+"addonId": "139553996"
+},
+{
+"groupId": "242522948",
+"addonId": "139553969"
+},
+{
+"groupId": "242522948",
+"addonId": "139553980"
+},
+{
+"groupId": "242522948",
+"addonId": "139553977"
+},
+{
+"groupId": "242522948",
+"addonId": "139553979"
+},
+{
+"groupId": "242522948",
+"addonId": "139553982"
+},
+{
+"groupId": "242522948",
+"addonId": "139553964"
+},
+{
+"groupId": "242522948",
+"addonId": "139553959"
+},
+{
+"groupId": "242522942",
+"addonId": "139553986"
+},
+{
+"groupId": "242522942",
+"addonId": "139553973"
+},
+{
+"groupId": "242522942",
+"addonId": "140670877"
+},
+{
+"groupId": "242522942",
+"addonId": "139553989"
+},
+{
+"groupId": "242522942",
+"addonId": "139553988"
+},
+{
+"groupId": "242522942",
+"addonId": "139553997"
+},
+{
+"groupId": "242522942",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522942",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522945",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522948",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522951",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 23500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "186 ratings",
+"ratingCountV2": "186"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894384",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530346",
+"name": "Laura (Mozza & Basil Pesto Sandwich)",
+"category": "Gourmet Panini",
+"description": "Fresh & creamy basil pesto, fresh mozzarella, sun-dried tomatoes, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/4b57324b-283a-4ab4-a848-c1b44ae06284_21bd1e9c-a8f9-4f98-a90f-156f6c29f888.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000443",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 225,
+"default": 1,
+"id": "199860417",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000444",
+"variationId": "199860419"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 345,
+"id": "199860418",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000444",
+"variationId": "199860419"
+}
+}
+]
+},
+{
+"groupId": "66000444",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860419",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860420",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860417"
+},
+{
+"groupId": "66000444",
+"variationId": "199860419"
+}
+],
+"price": 22500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860417"
+},
+{
+"groupId": "66000444",
+"variationId": "199860420"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860418"
+},
+{
+"groupId": "66000444",
+"variationId": "199860419"
+}
+],
+"price": 34500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000443",
+"variationId": "199860418"
+},
+{
+"groupId": "66000444",
+"variationId": "199860420"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "242522961",
+"addonId": "139554008"
+},
+{
+"groupId": "242522961",
+"addonId": "139554003"
+},
+{
+"groupId": "242522961",
+"addonId": "139554005"
+},
+{
+"groupId": "242522961",
+"addonId": "139553987"
+},
+{
+"groupId": "242522961",
+"addonId": "139554004"
+},
+{
+"groupId": "242522961",
+"addonId": "139553990"
+},
+{
+"groupId": "242522966",
+"addonId": "139553962"
+},
+{
+"groupId": "242522966",
+"addonId": "139553984"
+},
+{
+"groupId": "242522966",
+"addonId": "139554006"
+},
+{
+"groupId": "242522966",
+"addonId": "139553999"
+},
+{
+"groupId": "242522966",
+"addonId": "139553998"
+},
+{
+"groupId": "242522966",
+"addonId": "139553974"
+},
+{
+"groupId": "242522966",
+"addonId": "139553983"
+},
+{
+"groupId": "242522964",
+"addonId": "139553996"
+},
+{
+"groupId": "242522964",
+"addonId": "139553969"
+},
+{
+"groupId": "242522964",
+"addonId": "139553980"
+},
+{
+"groupId": "242522964",
+"addonId": "139553977"
+},
+{
+"groupId": "242522964",
+"addonId": "139553979"
+},
+{
+"groupId": "242522964",
+"addonId": "139553982"
+},
+{
+"groupId": "242522964",
+"addonId": "139553964"
+},
+{
+"groupId": "242522964",
+"addonId": "139553959"
+},
+{
+"groupId": "242522958",
+"addonId": "139553986"
+},
+{
+"groupId": "242522958",
+"addonId": "139553973"
+},
+{
+"groupId": "242522958",
+"addonId": "140670877"
+},
+{
+"groupId": "242522958",
+"addonId": "139553989"
+},
+{
+"groupId": "242522958",
+"addonId": "139553988"
+},
+{
+"groupId": "242522958",
+"addonId": "139553997"
+},
+{
+"groupId": "242522958",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522958",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522961",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522964",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522966",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 22500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "439 ratings",
+"ratingCountV2": "439"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894389",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530410",
+"name": "Sophie (Feta & Olives Sandwich)",
+"category": "Gourmet Panini",
+"description": "Marinated olives, feta cheese, cucumber, fried onions and sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "smgjelnmygt6xabnreig",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000446",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 225,
+"default": 1,
+"id": "199860422",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000448",
+"variationId": "199860426"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 345,
+"id": "199860424",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000448",
+"variationId": "199860426"
+}
+}
+]
+},
+{
+"groupId": "66000448",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860426",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860428",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860422"
+},
+{
+"groupId": "66000448",
+"variationId": "199860426"
+}
+],
+"price": 22500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860422"
+},
+{
+"groupId": "66000448",
+"variationId": "199860428"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860424"
+},
+{
+"groupId": "66000448",
+"variationId": "199860426"
+}
+],
+"price": 34500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000446",
+"variationId": "199860424"
+},
+{
+"groupId": "66000448",
+"variationId": "199860428"
+}
+],
+"price": 35500,
+"addonCombinations": [
+{
+"groupId": "242522973",
+"addonId": "139554008"
+},
+{
+"groupId": "242522973",
+"addonId": "139554003"
+},
+{
+"groupId": "242522973",
+"addonId": "139554005"
+},
+{
+"groupId": "242522973",
+"addonId": "139553987"
+},
+{
+"groupId": "242522973",
+"addonId": "139554004"
+},
+{
+"groupId": "242522973",
+"addonId": "139553990"
+},
+{
+"groupId": "242522980",
+"addonId": "139553962"
+},
+{
+"groupId": "242522980",
+"addonId": "139553984"
+},
+{
+"groupId": "242522980",
+"addonId": "139554006"
+},
+{
+"groupId": "242522980",
+"addonId": "139553999"
+},
+{
+"groupId": "242522980",
+"addonId": "139553998"
+},
+{
+"groupId": "242522980",
+"addonId": "139553974"
+},
+{
+"groupId": "242522980",
+"addonId": "139553983"
+},
+{
+"groupId": "242522976",
+"addonId": "139553996"
+},
+{
+"groupId": "242522976",
+"addonId": "139553969"
+},
+{
+"groupId": "242522976",
+"addonId": "139553980"
+},
+{
+"groupId": "242522976",
+"addonId": "139553977"
+},
+{
+"groupId": "242522976",
+"addonId": "139553979"
+},
+{
+"groupId": "242522976",
+"addonId": "139553982"
+},
+{
+"groupId": "242522976",
+"addonId": "139553964"
+},
+{
+"groupId": "242522976",
+"addonId": "139553959"
+},
+{
+"groupId": "242522971",
+"addonId": "139553986"
+},
+{
+"groupId": "242522971",
+"addonId": "139553973"
+},
+{
+"groupId": "242522971",
+"addonId": "140670877"
+},
+{
+"groupId": "242522971",
+"addonId": "139553989"
+},
+{
+"groupId": "242522971",
+"addonId": "139553988"
+},
+{
+"groupId": "242522971",
+"addonId": "139553997"
+},
+{
+"groupId": "242522971",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522971",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522973",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522976",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522980",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 22500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "83 ratings",
+"ratingCountV2": "83"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894393",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "182149590",
+"name": "Colette (Roasted Mushroom & Veggies Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted mushrooms, roasted zucchini, bell pepper, sliced onions, fresh basil pesto, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/8ef5d951-e9ad-45b0-a6af-e0635887e63c_38257c33-609e-4753-8719-61925b19fee7.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000451",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860433",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000453",
+"variationId": "199860437"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860435",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000453",
+"variationId": "199860437"
+}
+}
+]
+},
+{
+"groupId": "66000453",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860437",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860438",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000451",
+"variationId": "199860433"
+},
+{
+"groupId": "66000453",
+"variationId": "199860437"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242522989",
+"addonId": "139554008"
+},
+{
+"groupId": "242522989",
+"addonId": "139554003"
+},
+{
+"groupId": "242522989",
+"addonId": "139554005"
+},
+{
+"groupId": "242522989",
+"addonId": "139553987"
+},
+{
+"groupId": "242522989",
+"addonId": "139554004"
+},
+{
+"groupId": "242522989",
+"addonId": "139553990"
+},
+{
+"groupId": "242522995",
+"addonId": "139553962"
+},
+{
+"groupId": "242522995",
+"addonId": "139553984"
+},
+{
+"groupId": "242522995",
+"addonId": "139554006"
+},
+{
+"groupId": "242522995",
+"addonId": "139553999"
+},
+{
+"groupId": "242522995",
+"addonId": "139553998"
+},
+{
+"groupId": "242522995",
+"addonId": "139553974"
+},
+{
+"groupId": "242522995",
+"addonId": "139553983"
+},
+{
+"groupId": "242522992",
+"addonId": "139553996"
+},
+{
+"groupId": "242522992",
+"addonId": "139553969"
+},
+{
+"groupId": "242522992",
+"addonId": "139553980"
+},
+{
+"groupId": "242522992",
+"addonId": "139553977"
+},
+{
+"groupId": "242522992",
+"addonId": "139553979"
+},
+{
+"groupId": "242522992",
+"addonId": "139553982"
+},
+{
+"groupId": "242522992",
+"addonId": "139553964"
+},
+{
+"groupId": "242522992",
+"addonId": "139553959"
+},
+{
+"groupId": "242522986",
+"addonId": "139553986"
+},
+{
+"groupId": "242522986",
+"addonId": "139553973"
+},
+{
+"groupId": "242522986",
+"addonId": "140670877"
+},
+{
+"groupId": "242522986",
+"addonId": "139553989"
+},
+{
+"groupId": "242522986",
+"addonId": "139553988"
+},
+{
+"groupId": "242522986",
+"addonId": "139553997"
+},
+{
+"groupId": "242522986",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000451",
+"variationId": "199860433"
+},
+{
+"groupId": "66000453",
+"variationId": "199860438"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242522989",
+"addonId": "139554008"
+},
+{
+"groupId": "242522989",
+"addonId": "139554003"
+},
+{
+"groupId": "242522989",
+"addonId": "139554005"
+},
+{
+"groupId": "242522989",
+"addonId": "139553987"
+},
+{
+"groupId": "242522989",
+"addonId": "139554004"
+},
+{
+"groupId": "242522989",
+"addonId": "139553990"
+},
+{
+"groupId": "242522995",
+"addonId": "139553962"
+},
+{
+"groupId": "242522995",
+"addonId": "139553984"
+},
+{
+"groupId": "242522995",
+"addonId": "139554006"
+},
+{
+"groupId": "242522995",
+"addonId": "139553999"
+},
+{
+"groupId": "242522995",
+"addonId": "139553998"
+},
+{
+"groupId": "242522995",
+"addonId": "139553974"
+},
+{
+"groupId": "242522995",
+"addonId": "139553983"
+},
+{
+"groupId": "242522992",
+"addonId": "139553996"
+},
+{
+"groupId": "242522992",
+"addonId": "139553969"
+},
+{
+"groupId": "242522992",
+"addonId": "139553980"
+},
+{
+"groupId": "242522992",
+"addonId": "139553977"
+},
+{
+"groupId": "242522992",
+"addonId": "139553979"
+},
+{
+"groupId": "242522992",
+"addonId": "139553982"
+},
+{
+"groupId": "242522992",
+"addonId": "139553964"
+},
+{
+"groupId": "242522992",
+"addonId": "139553959"
+},
+{
+"groupId": "242522986",
+"addonId": "139553986"
+},
+{
+"groupId": "242522986",
+"addonId": "139553973"
+},
+{
+"groupId": "242522986",
+"addonId": "140670877"
+},
+{
+"groupId": "242522986",
+"addonId": "139553989"
+},
+{
+"groupId": "242522986",
+"addonId": "139553988"
+},
+{
+"groupId": "242522986",
+"addonId": "139553997"
+},
+{
+"groupId": "242522986",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000451",
+"variationId": "199860435"
+},
+{
+"groupId": "66000453",
+"variationId": "199860437"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242522989",
+"addonId": "139554008"
+},
+{
+"groupId": "242522989",
+"addonId": "139554003"
+},
+{
+"groupId": "242522989",
+"addonId": "139554005"
+},
+{
+"groupId": "242522989",
+"addonId": "139553987"
+},
+{
+"groupId": "242522989",
+"addonId": "139554004"
+},
+{
+"groupId": "242522989",
+"addonId": "139553990"
+},
+{
+"groupId": "242522995",
+"addonId": "139553962"
+},
+{
+"groupId": "242522995",
+"addonId": "139553984"
+},
+{
+"groupId": "242522995",
+"addonId": "139554006"
+},
+{
+"groupId": "242522995",
+"addonId": "139553999"
+},
+{
+"groupId": "242522995",
+"addonId": "139553998"
+},
+{
+"groupId": "242522995",
+"addonId": "139553974"
+},
+{
+"groupId": "242522995",
+"addonId": "139553983"
+},
+{
+"groupId": "242522992",
+"addonId": "139553996"
+},
+{
+"groupId": "242522992",
+"addonId": "139553969"
+},
+{
+"groupId": "242522992",
+"addonId": "139553980"
+},
+{
+"groupId": "242522992",
+"addonId": "139553977"
+},
+{
+"groupId": "242522992",
+"addonId": "139553979"
+},
+{
+"groupId": "242522992",
+"addonId": "139553982"
+},
+{
+"groupId": "242522992",
+"addonId": "139553964"
+},
+{
+"groupId": "242522992",
+"addonId": "139553959"
+},
+{
+"groupId": "242522986",
+"addonId": "139553986"
+},
+{
+"groupId": "242522986",
+"addonId": "139553973"
+},
+{
+"groupId": "242522986",
+"addonId": "140670877"
+},
+{
+"groupId": "242522986",
+"addonId": "139553989"
+},
+{
+"groupId": "242522986",
+"addonId": "139553988"
+},
+{
+"groupId": "242522986",
+"addonId": "139553997"
+},
+{
+"groupId": "242522986",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000451",
+"variationId": "199860435"
+},
+{
+"groupId": "66000453",
+"variationId": "199860438"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242522989",
+"addonId": "139554008"
+},
+{
+"groupId": "242522989",
+"addonId": "139554003"
+},
+{
+"groupId": "242522989",
+"addonId": "139554005"
+},
+{
+"groupId": "242522989",
+"addonId": "139553987"
+},
+{
+"groupId": "242522989",
+"addonId": "139554004"
+},
+{
+"groupId": "242522989",
+"addonId": "139553990"
+},
+{
+"groupId": "242522995",
+"addonId": "139553962"
+},
+{
+"groupId": "242522995",
+"addonId": "139553984"
+},
+{
+"groupId": "242522995",
+"addonId": "139554006"
+},
+{
+"groupId": "242522995",
+"addonId": "139553999"
+},
+{
+"groupId": "242522995",
+"addonId": "139553998"
+},
+{
+"groupId": "242522995",
+"addonId": "139553974"
+},
+{
+"groupId": "242522995",
+"addonId": "139553983"
+},
+{
+"groupId": "242522992",
+"addonId": "139553996"
+},
+{
+"groupId": "242522992",
+"addonId": "139553969"
+},
+{
+"groupId": "242522992",
+"addonId": "139553980"
+},
+{
+"groupId": "242522992",
+"addonId": "139553977"
+},
+{
+"groupId": "242522992",
+"addonId": "139553979"
+},
+{
+"groupId": "242522992",
+"addonId": "139553982"
+},
+{
+"groupId": "242522992",
+"addonId": "139553964"
+},
+{
+"groupId": "242522992",
+"addonId": "139553959"
+},
+{
+"groupId": "242522986",
+"addonId": "139553986"
+},
+{
+"groupId": "242522986",
+"addonId": "139553973"
+},
+{
+"groupId": "242522986",
+"addonId": "140670877"
+},
+{
+"groupId": "242522986",
+"addonId": "139553989"
+},
+{
+"groupId": "242522986",
+"addonId": "139553988"
+},
+{
+"groupId": "242522986",
+"addonId": "139553997"
+},
+{
+"groupId": "242522986",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242522986",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522989",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522992",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242522995",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 23500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "257 ratings",
+"ratingCountV2": "257"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894383",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530371",
+"name": "Olivia (Mushroom & Feta Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted mushrooms, fresh feta cheese, onion rings and olive tapenade, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/24/124300d9-2dd5-4198-8854-e2d4b2ca8719_127c7fd8-5fda-465e-91d0-bd4e1440dc05.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000456",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860443",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000458",
+"variationId": "199860445"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860444",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000458",
+"variationId": "199860445"
+}
+}
+]
+},
+{
+"groupId": "66000458",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860445",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860447",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860443"
+},
+{
+"groupId": "66000458",
+"variationId": "199860445"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860443"
+},
+{
+"groupId": "66000458",
+"variationId": "199860447"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860444"
+},
+{
+"groupId": "66000458",
+"variationId": "199860445"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000456",
+"variationId": "199860444"
+},
+{
+"groupId": "66000458",
+"variationId": "199860447"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242523008",
+"addonId": "139554008"
+},
+{
+"groupId": "242523008",
+"addonId": "139554003"
+},
+{
+"groupId": "242523008",
+"addonId": "139554005"
+},
+{
+"groupId": "242523008",
+"addonId": "139553987"
+},
+{
+"groupId": "242523008",
+"addonId": "139554004"
+},
+{
+"groupId": "242523008",
+"addonId": "139553990"
+},
+{
+"groupId": "242523016",
+"addonId": "139553962"
+},
+{
+"groupId": "242523016",
+"addonId": "139553984"
+},
+{
+"groupId": "242523016",
+"addonId": "139554006"
+},
+{
+"groupId": "242523016",
+"addonId": "139553999"
+},
+{
+"groupId": "242523016",
+"addonId": "139553998"
+},
+{
+"groupId": "242523016",
+"addonId": "139553974"
+},
+{
+"groupId": "242523016",
+"addonId": "139553983"
+},
+{
+"groupId": "242523013",
+"addonId": "139553996"
+},
+{
+"groupId": "242523013",
+"addonId": "139553969"
+},
+{
+"groupId": "242523013",
+"addonId": "139553980"
+},
+{
+"groupId": "242523013",
+"addonId": "139553977"
+},
+{
+"groupId": "242523013",
+"addonId": "139553979"
+},
+{
+"groupId": "242523013",
+"addonId": "139553982"
+},
+{
+"groupId": "242523013",
+"addonId": "139553964"
+},
+{
+"groupId": "242523013",
+"addonId": "139553959"
+},
+{
+"groupId": "242523000",
+"addonId": "139553986"
+},
+{
+"groupId": "242523000",
+"addonId": "139553973"
+},
+{
+"groupId": "242523000",
+"addonId": "140670877"
+},
+{
+"groupId": "242523000",
+"addonId": "139553989"
+},
+{
+"groupId": "242523000",
+"addonId": "139553988"
+},
+{
+"groupId": "242523000",
+"addonId": "139553997"
+},
+{
+"groupId": "242523000",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523000",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523008",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523013",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523016",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 23500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "422 ratings",
+"ratingCountV2": "422"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894391",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619555"
+},
+{
+"title": "Egg Panini",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530284",
+"name": "Franck (Deviled Egg & Sriracha Sandwich)",
+"category": "Gourmet Panini",
+"description": "Mashed deviled egg, sun-dried tomatoes, crispy onion rings, sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "xkxktydgyfkvko7ddgwd",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000463",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860459",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000465",
+"variationId": "199860462"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860460",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000465",
+"variationId": "199860462"
+}
+}
+]
+},
+{
+"groupId": "66000465",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860462",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860464",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860459"
+},
+{
+"groupId": "66000465",
+"variationId": "199860462"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860459"
+},
+{
+"groupId": "66000465",
+"variationId": "199860464"
+}
+],
+"price": 24500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860460"
+},
+{
+"groupId": "66000465",
+"variationId": "199860462"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000463",
+"variationId": "199860460"
+},
+{
+"groupId": "66000465",
+"variationId": "199860464"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242523037",
+"addonId": "139554008"
+},
+{
+"groupId": "242523037",
+"addonId": "139554003"
+},
+{
+"groupId": "242523037",
+"addonId": "139554005"
+},
+{
+"groupId": "242523037",
+"addonId": "139553987"
+},
+{
+"groupId": "242523037",
+"addonId": "139554004"
+},
+{
+"groupId": "242523037",
+"addonId": "139553990"
+},
+{
+"groupId": "242523045",
+"addonId": "139553962"
+},
+{
+"groupId": "242523045",
+"addonId": "139553984"
+},
+{
+"groupId": "242523045",
+"addonId": "139554006"
+},
+{
+"groupId": "242523045",
+"addonId": "139553999"
+},
+{
+"groupId": "242523045",
+"addonId": "139553998"
+},
+{
+"groupId": "242523045",
+"addonId": "139553974"
+},
+{
+"groupId": "242523045",
+"addonId": "139553983"
+},
+{
+"groupId": "242523042",
+"addonId": "139553996"
+},
+{
+"groupId": "242523042",
+"addonId": "139553969"
+},
+{
+"groupId": "242523042",
+"addonId": "139553980"
+},
+{
+"groupId": "242523042",
+"addonId": "139553977"
+},
+{
+"groupId": "242523042",
+"addonId": "139553979"
+},
+{
+"groupId": "242523042",
+"addonId": "139553982"
+},
+{
+"groupId": "242523042",
+"addonId": "139553964"
+},
+{
+"groupId": "242523042",
+"addonId": "139553959"
+},
+{
+"groupId": "242523032",
+"addonId": "139553986"
+},
+{
+"groupId": "242523032",
+"addonId": "139553973"
+},
+{
+"groupId": "242523032",
+"addonId": "140670877"
+},
+{
+"groupId": "242523032",
+"addonId": "139553989"
+},
+{
+"groupId": "242523032",
+"addonId": "139553988"
+},
+{
+"groupId": "242523032",
+"addonId": "139553997"
+},
+{
+"groupId": "242523032",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523032",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523037",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523042",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523045",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 23500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "127 ratings",
+"ratingCountV2": "127"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "61718722",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619553"
+},
+{
+"title": "Chicken Panini",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "138924056",
+"name": "Mathieu (French Dipped Chicken Sandwich)",
+"category": "Gourmet Panini",
+"description": "Chicken dipped in a french roast gravy, onion rings, lettuce, sliced onions, garlic aioli, made with our daily-baked panini bread & freshly grilled. Served with our homemade French Dip. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/e5e2a856-be1b-484b-a083-e34d8d226bf8_95183550-7fc6-4fb5-b8b7-faef3a5fdc6b.jpg_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000563",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 265,
+"default": 1,
+"id": "199860700",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000564",
+"variationId": "199860702"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 435,
+"id": "199860701",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000564",
+"variationId": "199860702"
+}
+}
+]
+},
+{
+"groupId": "66000564",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860702",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860703",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000563",
+"variationId": "199860700"
+},
+{
+"groupId": "66000564",
+"variationId": "199860702"
+}
+],
+"price": 26500,
+"addonCombinations": [
+{
+"groupId": "242523729",
+"addonId": "139554008"
+},
+{
+"groupId": "242523729",
+"addonId": "139554003"
+},
+{
+"groupId": "242523729",
+"addonId": "139554005"
+},
+{
+"groupId": "242523729",
+"addonId": "139553987"
+},
+{
+"groupId": "242523729",
+"addonId": "139554004"
+},
+{
+"groupId": "242523729",
+"addonId": "139553990"
+},
+{
+"groupId": "242523731",
+"addonId": "139553962"
+},
+{
+"groupId": "242523731",
+"addonId": "139553984"
+},
+{
+"groupId": "242523731",
+"addonId": "139554006"
+},
+{
+"groupId": "242523731",
+"addonId": "139553999"
+},
+{
+"groupId": "242523731",
+"addonId": "139553998"
+},
+{
+"groupId": "242523731",
+"addonId": "139553974"
+},
+{
+"groupId": "242523731",
+"addonId": "139553983"
+},
+{
+"groupId": "242523730",
+"addonId": "139553996"
+},
+{
+"groupId": "242523730",
+"addonId": "139553969"
+},
+{
+"groupId": "242523730",
+"addonId": "139553980"
+},
+{
+"groupId": "242523730",
+"addonId": "139553977"
+},
+{
+"groupId": "242523730",
+"addonId": "139553979"
+},
+{
+"groupId": "242523730",
+"addonId": "139553982"
+},
+{
+"groupId": "242523730",
+"addonId": "139553964"
+},
+{
+"groupId": "242523730",
+"addonId": "139553959"
+},
+{
+"groupId": "242523727",
+"addonId": "139553986"
+},
+{
+"groupId": "242523727",
+"addonId": "139553973"
+},
+{
+"groupId": "242523727",
+"addonId": "140670877"
+},
+{
+"groupId": "242523727",
+"addonId": "139553989"
+},
+{
+"groupId": "242523727",
+"addonId": "139553988"
+},
+{
+"groupId": "242523727",
+"addonId": "139553997"
+},
+{
+"groupId": "242523727",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000563",
+"variationId": "199860700"
+},
+{
+"groupId": "66000564",
+"variationId": "199860703"
+}
+],
+"price": 27500,
+"addonCombinations": [
+{
+"groupId": "242523729",
+"addonId": "139554008"
+},
+{
+"groupId": "242523729",
+"addonId": "139554003"
+},
+{
+"groupId": "242523729",
+"addonId": "139554005"
+},
+{
+"groupId": "242523729",
+"addonId": "139553987"
+},
+{
+"groupId": "242523729",
+"addonId": "139554004"
+},
+{
+"groupId": "242523729",
+"addonId": "139553990"
+},
+{
+"groupId": "242523731",
+"addonId": "139553962"
+},
+{
+"groupId": "242523731",
+"addonId": "139553984"
+},
+{
+"groupId": "242523731",
+"addonId": "139554006"
+},
+{
+"groupId": "242523731",
+"addonId": "139553999"
+},
+{
+"groupId": "242523731",
+"addonId": "139553998"
+},
+{
+"groupId": "242523731",
+"addonId": "139553974"
+},
+{
+"groupId": "242523731",
+"addonId": "139553983"
+},
+{
+"groupId": "242523730",
+"addonId": "139553996"
+},
+{
+"groupId": "242523730",
+"addonId": "139553969"
+},
+{
+"groupId": "242523730",
+"addonId": "139553980"
+},
+{
+"groupId": "242523730",
+"addonId": "139553977"
+},
+{
+"groupId": "242523730",
+"addonId": "139553979"
+},
+{
+"groupId": "242523730",
+"addonId": "139553982"
+},
+{
+"groupId": "242523730",
+"addonId": "139553964"
+},
+{
+"groupId": "242523730",
+"addonId": "139553959"
+},
+{
+"groupId": "242523727",
+"addonId": "139553986"
+},
+{
+"groupId": "242523727",
+"addonId": "139553973"
+},
+{
+"groupId": "242523727",
+"addonId": "140670877"
+},
+{
+"groupId": "242523727",
+"addonId": "139553989"
+},
+{
+"groupId": "242523727",
+"addonId": "139553988"
+},
+{
+"groupId": "242523727",
+"addonId": "139553997"
+},
+{
+"groupId": "242523727",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000563",
+"variationId": "199860701"
+},
+{
+"groupId": "66000564",
+"variationId": "199860702"
+}
+],
+"price": 43500,
+"addonCombinations": [
+{
+"groupId": "242523729",
+"addonId": "139554008"
+},
+{
+"groupId": "242523729",
+"addonId": "139554003"
+},
+{
+"groupId": "242523729",
+"addonId": "139554005"
+},
+{
+"groupId": "242523729",
+"addonId": "139553987"
+},
+{
+"groupId": "242523729",
+"addonId": "139554004"
+},
+{
+"groupId": "242523729",
+"addonId": "139553990"
+},
+{
+"groupId": "242523731",
+"addonId": "139553962"
+},
+{
+"groupId": "242523731",
+"addonId": "139553984"
+},
+{
+"groupId": "242523731",
+"addonId": "139554006"
+},
+{
+"groupId": "242523731",
+"addonId": "139553999"
+},
+{
+"groupId": "242523731",
+"addonId": "139553998"
+},
+{
+"groupId": "242523731",
+"addonId": "139553974"
+},
+{
+"groupId": "242523731",
+"addonId": "139553983"
+},
+{
+"groupId": "242523730",
+"addonId": "139553996"
+},
+{
+"groupId": "242523730",
+"addonId": "139553969"
+},
+{
+"groupId": "242523730",
+"addonId": "139553980"
+},
+{
+"groupId": "242523730",
+"addonId": "139553977"
+},
+{
+"groupId": "242523730",
+"addonId": "139553979"
+},
+{
+"groupId": "242523730",
+"addonId": "139553982"
+},
+{
+"groupId": "242523730",
+"addonId": "139553964"
+},
+{
+"groupId": "242523730",
+"addonId": "139553959"
+},
+{
+"groupId": "242523727",
+"addonId": "139553986"
+},
+{
+"groupId": "242523727",
+"addonId": "139553973"
+},
+{
+"groupId": "242523727",
+"addonId": "140670877"
+},
+{
+"groupId": "242523727",
+"addonId": "139553989"
+},
+{
+"groupId": "242523727",
+"addonId": "139553988"
+},
+{
+"groupId": "242523727",
+"addonId": "139553997"
+},
+{
+"groupId": "242523727",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000563",
+"variationId": "199860701"
+},
+{
+"groupId": "66000564",
+"variationId": "199860703"
+}
+],
+"price": 44500,
+"addonCombinations": [
+{
+"groupId": "242523729",
+"addonId": "139554008"
+},
+{
+"groupId": "242523729",
+"addonId": "139554003"
+},
+{
+"groupId": "242523729",
+"addonId": "139554005"
+},
+{
+"groupId": "242523729",
+"addonId": "139553987"
+},
+{
+"groupId": "242523729",
+"addonId": "139554004"
+},
+{
+"groupId": "242523729",
+"addonId": "139553990"
+},
+{
+"groupId": "242523731",
+"addonId": "139553962"
+},
+{
+"groupId": "242523731",
+"addonId": "139553984"
+},
+{
+"groupId": "242523731",
+"addonId": "139554006"
+},
+{
+"groupId": "242523731",
+"addonId": "139553999"
+},
+{
+"groupId": "242523731",
+"addonId": "139553998"
+},
+{
+"groupId": "242523731",
+"addonId": "139553974"
+},
+{
+"groupId": "242523731",
+"addonId": "139553983"
+},
+{
+"groupId": "242523730",
+"addonId": "139553996"
+},
+{
+"groupId": "242523730",
+"addonId": "139553969"
+},
+{
+"groupId": "242523730",
+"addonId": "139553980"
+},
+{
+"groupId": "242523730",
+"addonId": "139553977"
+},
+{
+"groupId": "242523730",
+"addonId": "139553979"
+},
+{
+"groupId": "242523730",
+"addonId": "139553982"
+},
+{
+"groupId": "242523730",
+"addonId": "139553964"
+},
+{
+"groupId": "242523730",
+"addonId": "139553959"
+},
+{
+"groupId": "242523727",
+"addonId": "139553986"
+},
+{
+"groupId": "242523727",
+"addonId": "139553973"
+},
+{
+"groupId": "242523727",
+"addonId": "140670877"
+},
+{
+"groupId": "242523727",
+"addonId": "139553989"
+},
+{
+"groupId": "242523727",
+"addonId": "139553988"
+},
+{
+"groupId": "242523727",
+"addonId": "139553997"
+},
+{
+"groupId": "242523727",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523727",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523729",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523730",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523731",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 26500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "261 ratings",
+"ratingCountV2": "261"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "81621380",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530324",
+"name": "Hugo (Fried Chicken & Mozza Sandwich)",
+"category": "Gourmet Panini",
+"description": "Fried chicken, fresh mozzarella, sun-dried tomatoes, onions, lettuce, basil and sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/070680df-d5ba-424e-baf4-62605e25a2f4_10f53b64-8e0c-4945-8117-6815dd0c9882.png_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000567",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 265,
+"default": 1,
+"id": "199860708",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000568",
+"variationId": "199860710"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 435,
+"id": "199860709",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000568",
+"variationId": "199860710"
+}
+}
+]
+},
+{
+"groupId": "66000568",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860710",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860711",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860708"
+},
+{
+"groupId": "66000568",
+"variationId": "199860710"
+}
+],
+"price": 26500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860708"
+},
+{
+"groupId": "66000568",
+"variationId": "199860711"
+}
+],
+"price": 27500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860709"
+},
+{
+"groupId": "66000568",
+"variationId": "199860710"
+}
+],
+"price": 43500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000567",
+"variationId": "199860709"
+},
+{
+"groupId": "66000568",
+"variationId": "199860711"
+}
+],
+"price": 44500,
+"addonCombinations": [
+{
+"groupId": "242523738",
+"addonId": "139554008"
+},
+{
+"groupId": "242523738",
+"addonId": "139554003"
+},
+{
+"groupId": "242523738",
+"addonId": "139554005"
+},
+{
+"groupId": "242523738",
+"addonId": "139553987"
+},
+{
+"groupId": "242523738",
+"addonId": "139554004"
+},
+{
+"groupId": "242523738",
+"addonId": "139553990"
+},
+{
+"groupId": "242523741",
+"addonId": "139553962"
+},
+{
+"groupId": "242523741",
+"addonId": "139553984"
+},
+{
+"groupId": "242523741",
+"addonId": "139554006"
+},
+{
+"groupId": "242523741",
+"addonId": "139553999"
+},
+{
+"groupId": "242523741",
+"addonId": "139553998"
+},
+{
+"groupId": "242523741",
+"addonId": "139553974"
+},
+{
+"groupId": "242523741",
+"addonId": "139553983"
+},
+{
+"groupId": "242523740",
+"addonId": "139553996"
+},
+{
+"groupId": "242523740",
+"addonId": "139553969"
+},
+{
+"groupId": "242523740",
+"addonId": "139553980"
+},
+{
+"groupId": "242523740",
+"addonId": "139553977"
+},
+{
+"groupId": "242523740",
+"addonId": "139553979"
+},
+{
+"groupId": "242523740",
+"addonId": "139553982"
+},
+{
+"groupId": "242523740",
+"addonId": "139553964"
+},
+{
+"groupId": "242523740",
+"addonId": "139553959"
+},
+{
+"groupId": "242523737",
+"addonId": "139553986"
+},
+{
+"groupId": "242523737",
+"addonId": "139553973"
+},
+{
+"groupId": "242523737",
+"addonId": "140670877"
+},
+{
+"groupId": "242523737",
+"addonId": "139553989"
+},
+{
+"groupId": "242523737",
+"addonId": "139553988"
+},
+{
+"groupId": "242523737",
+"addonId": "139553997"
+},
+{
+"groupId": "242523737",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523737",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523738",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523740",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523741",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 26500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "774 ratings",
+"ratingCountV2": "774"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894386",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530380",
+"name": "Patrick (Chicken & Egg Sandwich)",
+"category": "Gourmet Panini",
+"description": "Juicy mustard chicken, hard-boiled egg, fried onions and basil aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "f2hk8vqz149opbg6a6g0",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000579",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 255,
+"default": 1,
+"id": "199860732",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000580",
+"variationId": "199860734"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 395,
+"id": "199860733",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000580",
+"variationId": "199860734"
+}
+}
+]
+},
+{
+"groupId": "66000580",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860734",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860735",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000579",
+"variationId": "199860732"
+},
+{
+"groupId": "66000580",
+"variationId": "199860734"
+}
+],
+"price": 25500,
+"addonCombinations": [
+{
+"groupId": "242523773",
+"addonId": "139554008"
+},
+{
+"groupId": "242523773",
+"addonId": "139554003"
+},
+{
+"groupId": "242523773",
+"addonId": "139554005"
+},
+{
+"groupId": "242523773",
+"addonId": "139553987"
+},
+{
+"groupId": "242523773",
+"addonId": "139554004"
+},
+{
+"groupId": "242523773",
+"addonId": "139553990"
+},
+{
+"groupId": "242523777",
+"addonId": "139553962"
+},
+{
+"groupId": "242523777",
+"addonId": "139553984"
+},
+{
+"groupId": "242523777",
+"addonId": "139554006"
+},
+{
+"groupId": "242523777",
+"addonId": "139553999"
+},
+{
+"groupId": "242523777",
+"addonId": "139553998"
+},
+{
+"groupId": "242523777",
+"addonId": "139553974"
+},
+{
+"groupId": "242523777",
+"addonId": "139553983"
+},
+{
+"groupId": "242523775",
+"addonId": "139553996"
+},
+{
+"groupId": "242523775",
+"addonId": "139553969"
+},
+{
+"groupId": "242523775",
+"addonId": "139553980"
+},
+{
+"groupId": "242523775",
+"addonId": "139553977"
+},
+{
+"groupId": "242523775",
+"addonId": "139553979"
+},
+{
+"groupId": "242523775",
+"addonId": "139553982"
+},
+{
+"groupId": "242523775",
+"addonId": "139553964"
+},
+{
+"groupId": "242523775",
+"addonId": "139553959"
+},
+{
+"groupId": "242523772",
+"addonId": "139553986"
+},
+{
+"groupId": "242523772",
+"addonId": "139553973"
+},
+{
+"groupId": "242523772",
+"addonId": "140670877"
+},
+{
+"groupId": "242523772",
+"addonId": "139553989"
+},
+{
+"groupId": "242523772",
+"addonId": "139553988"
+},
+{
+"groupId": "242523772",
+"addonId": "139553997"
+},
+{
+"groupId": "242523772",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000579",
+"variationId": "199860732"
+},
+{
+"groupId": "66000580",
+"variationId": "199860735"
+}
+],
+"price": 26500,
+"addonCombinations": [
+{
+"groupId": "242523773",
+"addonId": "139554008"
+},
+{
+"groupId": "242523773",
+"addonId": "139554003"
+},
+{
+"groupId": "242523773",
+"addonId": "139554005"
+},
+{
+"groupId": "242523773",
+"addonId": "139553987"
+},
+{
+"groupId": "242523773",
+"addonId": "139554004"
+},
+{
+"groupId": "242523773",
+"addonId": "139553990"
+},
+{
+"groupId": "242523777",
+"addonId": "139553962"
+},
+{
+"groupId": "242523777",
+"addonId": "139553984"
+},
+{
+"groupId": "242523777",
+"addonId": "139554006"
+},
+{
+"groupId": "242523777",
+"addonId": "139553999"
+},
+{
+"groupId": "242523777",
+"addonId": "139553998"
+},
+{
+"groupId": "242523777",
+"addonId": "139553974"
+},
+{
+"groupId": "242523777",
+"addonId": "139553983"
+},
+{
+"groupId": "242523775",
+"addonId": "139553996"
+},
+{
+"groupId": "242523775",
+"addonId": "139553969"
+},
+{
+"groupId": "242523775",
+"addonId": "139553980"
+},
+{
+"groupId": "242523775",
+"addonId": "139553977"
+},
+{
+"groupId": "242523775",
+"addonId": "139553979"
+},
+{
+"groupId": "242523775",
+"addonId": "139553982"
+},
+{
+"groupId": "242523775",
+"addonId": "139553964"
+},
+{
+"groupId": "242523775",
+"addonId": "139553959"
+},
+{
+"groupId": "242523772",
+"addonId": "139553986"
+},
+{
+"groupId": "242523772",
+"addonId": "139553973"
+},
+{
+"groupId": "242523772",
+"addonId": "140670877"
+},
+{
+"groupId": "242523772",
+"addonId": "139553989"
+},
+{
+"groupId": "242523772",
+"addonId": "139553988"
+},
+{
+"groupId": "242523772",
+"addonId": "139553997"
+},
+{
+"groupId": "242523772",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000579",
+"variationId": "199860733"
+},
+{
+"groupId": "66000580",
+"variationId": "199860734"
+}
+],
+"price": 39500,
+"addonCombinations": [
+{
+"groupId": "242523773",
+"addonId": "139554008"
+},
+{
+"groupId": "242523773",
+"addonId": "139554003"
+},
+{
+"groupId": "242523773",
+"addonId": "139554005"
+},
+{
+"groupId": "242523773",
+"addonId": "139553987"
+},
+{
+"groupId": "242523773",
+"addonId": "139554004"
+},
+{
+"groupId": "242523773",
+"addonId": "139553990"
+},
+{
+"groupId": "242523777",
+"addonId": "139553962"
+},
+{
+"groupId": "242523777",
+"addonId": "139553984"
+},
+{
+"groupId": "242523777",
+"addonId": "139554006"
+},
+{
+"groupId": "242523777",
+"addonId": "139553999"
+},
+{
+"groupId": "242523777",
+"addonId": "139553998"
+},
+{
+"groupId": "242523777",
+"addonId": "139553974"
+},
+{
+"groupId": "242523777",
+"addonId": "139553983"
+},
+{
+"groupId": "242523775",
+"addonId": "139553996"
+},
+{
+"groupId": "242523775",
+"addonId": "139553969"
+},
+{
+"groupId": "242523775",
+"addonId": "139553980"
+},
+{
+"groupId": "242523775",
+"addonId": "139553977"
+},
+{
+"groupId": "242523775",
+"addonId": "139553979"
+},
+{
+"groupId": "242523775",
+"addonId": "139553982"
+},
+{
+"groupId": "242523775",
+"addonId": "139553964"
+},
+{
+"groupId": "242523775",
+"addonId": "139553959"
+},
+{
+"groupId": "242523772",
+"addonId": "139553986"
+},
+{
+"groupId": "242523772",
+"addonId": "139553973"
+},
+{
+"groupId": "242523772",
+"addonId": "140670877"
+},
+{
+"groupId": "242523772",
+"addonId": "139553989"
+},
+{
+"groupId": "242523772",
+"addonId": "139553988"
+},
+{
+"groupId": "242523772",
+"addonId": "139553997"
+},
+{
+"groupId": "242523772",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000579",
+"variationId": "199860733"
+},
+{
+"groupId": "66000580",
+"variationId": "199860735"
+}
+],
+"price": 40500,
+"addonCombinations": [
+{
+"groupId": "242523773",
+"addonId": "139554008"
+},
+{
+"groupId": "242523773",
+"addonId": "139554003"
+},
+{
+"groupId": "242523773",
+"addonId": "139554005"
+},
+{
+"groupId": "242523773",
+"addonId": "139553987"
+},
+{
+"groupId": "242523773",
+"addonId": "139554004"
+},
+{
+"groupId": "242523773",
+"addonId": "139553990"
+},
+{
+"groupId": "242523777",
+"addonId": "139553962"
+},
+{
+"groupId": "242523777",
+"addonId": "139553984"
+},
+{
+"groupId": "242523777",
+"addonId": "139554006"
+},
+{
+"groupId": "242523777",
+"addonId": "139553999"
+},
+{
+"groupId": "242523777",
+"addonId": "139553998"
+},
+{
+"groupId": "242523777",
+"addonId": "139553974"
+},
+{
+"groupId": "242523777",
+"addonId": "139553983"
+},
+{
+"groupId": "242523775",
+"addonId": "139553996"
+},
+{
+"groupId": "242523775",
+"addonId": "139553969"
+},
+{
+"groupId": "242523775",
+"addonId": "139553980"
+},
+{
+"groupId": "242523775",
+"addonId": "139553977"
+},
+{
+"groupId": "242523775",
+"addonId": "139553979"
+},
+{
+"groupId": "242523775",
+"addonId": "139553982"
+},
+{
+"groupId": "242523775",
+"addonId": "139553964"
+},
+{
+"groupId": "242523775",
+"addonId": "139553959"
+},
+{
+"groupId": "242523772",
+"addonId": "139553986"
+},
+{
+"groupId": "242523772",
+"addonId": "139553973"
+},
+{
+"groupId": "242523772",
+"addonId": "140670877"
+},
+{
+"groupId": "242523772",
+"addonId": "139553989"
+},
+{
+"groupId": "242523772",
+"addonId": "139553988"
+},
+{
+"groupId": "242523772",
+"addonId": "139553997"
+},
+{
+"groupId": "242523772",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523772",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523773",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523775",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523777",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 25500,
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "227 ratings",
+"ratingCountV2": "227"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894392",
+"menuFilterIds": [
+"bestseller",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619552"
+},
+{
+"title": "Lamb, Seafood Panini",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530444",
+"name": "Victor (Lamb & Garlic Aioli Sandwich)",
+"category": "Gourmet Panini",
+"description": "Crumbled lamb, red paprika, sliced onion, jalapeno, lettuce and garlic aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "auuvogrqz6xv2v5qfhpt",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000583",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 305,
+"default": 1,
+"id": "199860740",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000584",
+"variationId": "199860742"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 480,
+"id": "199860741",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000584",
+"variationId": "199860742"
+}
+}
+]
+},
+{
+"groupId": "66000584",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860742",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860743",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860740"
+},
+{
+"groupId": "66000584",
+"variationId": "199860742"
+}
+],
+"price": 30500,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860740"
+},
+{
+"groupId": "66000584",
+"variationId": "199860743"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860741"
+},
+{
+"groupId": "66000584",
+"variationId": "199860742"
+}
+],
+"price": 48000,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000583",
+"variationId": "199860741"
+},
+{
+"groupId": "66000584",
+"variationId": "199860743"
+}
+],
+"price": 49000,
+"addonCombinations": [
+{
+"groupId": "242523785",
+"addonId": "139554008"
+},
+{
+"groupId": "242523785",
+"addonId": "139554003"
+},
+{
+"groupId": "242523785",
+"addonId": "139554005"
+},
+{
+"groupId": "242523785",
+"addonId": "139553987"
+},
+{
+"groupId": "242523785",
+"addonId": "139554004"
+},
+{
+"groupId": "242523785",
+"addonId": "139553990"
+},
+{
+"groupId": "242523789",
+"addonId": "139553962"
+},
+{
+"groupId": "242523789",
+"addonId": "139553984"
+},
+{
+"groupId": "242523789",
+"addonId": "139554006"
+},
+{
+"groupId": "242523789",
+"addonId": "139553999"
+},
+{
+"groupId": "242523789",
+"addonId": "139553998"
+},
+{
+"groupId": "242523789",
+"addonId": "139553974"
+},
+{
+"groupId": "242523789",
+"addonId": "139553983"
+},
+{
+"groupId": "242523786",
+"addonId": "139553996"
+},
+{
+"groupId": "242523786",
+"addonId": "139553969"
+},
+{
+"groupId": "242523786",
+"addonId": "139553980"
+},
+{
+"groupId": "242523786",
+"addonId": "139553977"
+},
+{
+"groupId": "242523786",
+"addonId": "139553979"
+},
+{
+"groupId": "242523786",
+"addonId": "139553982"
+},
+{
+"groupId": "242523786",
+"addonId": "139553964"
+},
+{
+"groupId": "242523786",
+"addonId": "139553959"
+},
+{
+"groupId": "242523782",
+"addonId": "139553986"
+},
+{
+"groupId": "242523782",
+"addonId": "139553973"
+},
+{
+"groupId": "242523782",
+"addonId": "140670877"
+},
+{
+"groupId": "242523782",
+"addonId": "139553989"
+},
+{
+"groupId": "242523782",
+"addonId": "139553988"
+},
+{
+"groupId": "242523782",
+"addonId": "139553997"
+},
+{
+"groupId": "242523782",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523782",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523785",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523786",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523789",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 30500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "168 ratings",
+"ratingCountV2": "168"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894396",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530329",
+"name": "Jacques (Butter Garlic Prawns & Aioli Sandwich)",
+"category": "Gourmet Panini",
+"description": "Garlic butter prawns, sun-dried tomato, garlic aioli, lettuce & crispy onion rings, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/28/2ac14f50-a58d-42bd-b824-6361b28aabfd_3a5eeb78-684b-4c30-a4a2-6b0b77d88906.jpg",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000587",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 315,
+"default": 1,
+"id": "199860748",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000588",
+"variationId": "199860750"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 495,
+"id": "199860749",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000588",
+"variationId": "199860750"
+}
+}
+]
+},
+{
+"groupId": "66000588",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860750",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860751",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860748"
+},
+{
+"groupId": "66000588",
+"variationId": "199860750"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860748"
+},
+{
+"groupId": "66000588",
+"variationId": "199860751"
+}
+],
+"price": 32500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860749"
+},
+{
+"groupId": "66000588",
+"variationId": "199860750"
+}
+],
+"price": 49500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000587",
+"variationId": "199860749"
+},
+{
+"groupId": "66000588",
+"variationId": "199860751"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "242523796",
+"addonId": "139554008"
+},
+{
+"groupId": "242523796",
+"addonId": "139554003"
+},
+{
+"groupId": "242523796",
+"addonId": "139554005"
+},
+{
+"groupId": "242523796",
+"addonId": "139553987"
+},
+{
+"groupId": "242523796",
+"addonId": "139554004"
+},
+{
+"groupId": "242523796",
+"addonId": "139553990"
+},
+{
+"groupId": "242523799",
+"addonId": "139553962"
+},
+{
+"groupId": "242523799",
+"addonId": "139553984"
+},
+{
+"groupId": "242523799",
+"addonId": "139554006"
+},
+{
+"groupId": "242523799",
+"addonId": "139553999"
+},
+{
+"groupId": "242523799",
+"addonId": "139553998"
+},
+{
+"groupId": "242523799",
+"addonId": "139553974"
+},
+{
+"groupId": "242523799",
+"addonId": "139553983"
+},
+{
+"groupId": "242523798",
+"addonId": "139553996"
+},
+{
+"groupId": "242523798",
+"addonId": "139553969"
+},
+{
+"groupId": "242523798",
+"addonId": "139553980"
+},
+{
+"groupId": "242523798",
+"addonId": "139553977"
+},
+{
+"groupId": "242523798",
+"addonId": "139553979"
+},
+{
+"groupId": "242523798",
+"addonId": "139553982"
+},
+{
+"groupId": "242523798",
+"addonId": "139553964"
+},
+{
+"groupId": "242523798",
+"addonId": "139553959"
+},
+{
+"groupId": "242523795",
+"addonId": "139553986"
+},
+{
+"groupId": "242523795",
+"addonId": "139553973"
+},
+{
+"groupId": "242523795",
+"addonId": "140670877"
+},
+{
+"groupId": "242523795",
+"addonId": "139553989"
+},
+{
+"groupId": "242523795",
+"addonId": "139553988"
+},
+{
+"groupId": "242523795",
+"addonId": "139553997"
+},
+{
+"groupId": "242523795",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523795",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523796",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523798",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523799",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 31500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "93 ratings",
+"ratingCountV2": "93"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894387",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619556"
+},
+{
+"title": "Pork Panini",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530345",
+"name": "Jean (Bacon & Feta Sandwich)",
+"category": "Gourmet Panini",
+"description": "Bacon, fresh feta cheese, fried onions, lettuce, sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/949a6e41-37c2-44e2-b1b3-6fbf2646b55c_8fb0bdf3-7fed-410e-bcfb-92eb19662d2a.png_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000591",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 315,
+"default": 1,
+"id": "199860756",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000592",
+"variationId": "199860758"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 495,
+"id": "199860757",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000592",
+"variationId": "199860758"
+}
+}
+]
+},
+{
+"groupId": "66000592",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860758",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860759",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860756"
+},
+{
+"groupId": "66000592",
+"variationId": "199860758"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860756"
+},
+{
+"groupId": "66000592",
+"variationId": "199860759"
+}
+],
+"price": 32500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860757"
+},
+{
+"groupId": "66000592",
+"variationId": "199860758"
+}
+],
+"price": 49500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000591",
+"variationId": "199860757"
+},
+{
+"groupId": "66000592",
+"variationId": "199860759"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "242523807",
+"addonId": "139554008"
+},
+{
+"groupId": "242523807",
+"addonId": "139554003"
+},
+{
+"groupId": "242523807",
+"addonId": "139554005"
+},
+{
+"groupId": "242523807",
+"addonId": "139553987"
+},
+{
+"groupId": "242523807",
+"addonId": "139554004"
+},
+{
+"groupId": "242523807",
+"addonId": "139553990"
+},
+{
+"groupId": "242523809",
+"addonId": "139553962"
+},
+{
+"groupId": "242523809",
+"addonId": "139553984"
+},
+{
+"groupId": "242523809",
+"addonId": "139554006"
+},
+{
+"groupId": "242523809",
+"addonId": "139553999"
+},
+{
+"groupId": "242523809",
+"addonId": "139553998"
+},
+{
+"groupId": "242523809",
+"addonId": "139553974"
+},
+{
+"groupId": "242523809",
+"addonId": "139553983"
+},
+{
+"groupId": "242523808",
+"addonId": "139553996"
+},
+{
+"groupId": "242523808",
+"addonId": "139553969"
+},
+{
+"groupId": "242523808",
+"addonId": "139553980"
+},
+{
+"groupId": "242523808",
+"addonId": "139553977"
+},
+{
+"groupId": "242523808",
+"addonId": "139553979"
+},
+{
+"groupId": "242523808",
+"addonId": "139553982"
+},
+{
+"groupId": "242523808",
+"addonId": "139553964"
+},
+{
+"groupId": "242523808",
+"addonId": "139553959"
+},
+{
+"groupId": "242523805",
+"addonId": "139553986"
+},
+{
+"groupId": "242523805",
+"addonId": "139553973"
+},
+{
+"groupId": "242523805",
+"addonId": "140670877"
+},
+{
+"groupId": "242523805",
+"addonId": "139553989"
+},
+{
+"groupId": "242523805",
+"addonId": "139553988"
+},
+{
+"groupId": "242523805",
+"addonId": "139553997"
+},
+{
+"groupId": "242523805",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523805",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523807",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523808",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523809",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 31500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "214 ratings",
+"ratingCountV2": "214"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894388",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530348",
+"name": "Leon (Pork Pepperoni & Mozza Sandwich)",
+"category": "Gourmet Panini",
+"description": "Pork pepperoni, fresh mozzarella, crunchy onion rings, sriracha aioli, made with our daily-baked panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/7/24/7c1c0eb4-982c-4b30-9883-def3671c0a09_8448c6b2-ee25-4de3-8b1b-18696075ad75.jpg",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000594",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 315,
+"default": 1,
+"id": "199860762",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000595",
+"variationId": "199860764"
+}
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 495,
+"id": "199860763",
+"inStock": 1,
+"isEnabled": 1,
+"dependantVariation": {
+"groupId": "66000595",
+"variationId": "199860764"
+}
+}
+]
+},
+{
+"groupId": "66000595",
+"name": "Choose Your Bread",
+"variations": [
+{
+"name": "Classic",
+"default": 1,
+"id": "199860764",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Multigrain",
+"price": 10,
+"id": "199860765",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000594",
+"variationId": "199860762"
+},
+{
+"groupId": "66000595",
+"variationId": "199860764"
+}
+],
+"price": 31500,
+"addonCombinations": [
+{
+"groupId": "242523817",
+"addonId": "139554008"
+},
+{
+"groupId": "242523817",
+"addonId": "139554003"
+},
+{
+"groupId": "242523817",
+"addonId": "139554005"
+},
+{
+"groupId": "242523817",
+"addonId": "139553987"
+},
+{
+"groupId": "242523817",
+"addonId": "139554004"
+},
+{
+"groupId": "242523817",
+"addonId": "139553990"
+},
+{
+"groupId": "242523820",
+"addonId": "139553962"
+},
+{
+"groupId": "242523820",
+"addonId": "139553984"
+},
+{
+"groupId": "242523820",
+"addonId": "139554006"
+},
+{
+"groupId": "242523820",
+"addonId": "139553999"
+},
+{
+"groupId": "242523820",
+"addonId": "139553998"
+},
+{
+"groupId": "242523820",
+"addonId": "139553974"
+},
+{
+"groupId": "242523820",
+"addonId": "139553983"
+},
+{
+"groupId": "242523818",
+"addonId": "139553996"
+},
+{
+"groupId": "242523818",
+"addonId": "139553969"
+},
+{
+"groupId": "242523818",
+"addonId": "139553980"
+},
+{
+"groupId": "242523818",
+"addonId": "139553977"
+},
+{
+"groupId": "242523818",
+"addonId": "139553979"
+},
+{
+"groupId": "242523818",
+"addonId": "139553982"
+},
+{
+"groupId": "242523818",
+"addonId": "139553964"
+},
+{
+"groupId": "242523818",
+"addonId": "139553959"
+},
+{
+"groupId": "242523816",
+"addonId": "139553986"
+},
+{
+"groupId": "242523816",
+"addonId": "139553973"
+},
+{
+"groupId": "242523816",
+"addonId": "140670877"
+},
+{
+"groupId": "242523816",
+"addonId": "139553989"
+},
+{
+"groupId": "242523816",
+"addonId": "139553988"
+},
+{
+"groupId": "242523816",
+"addonId": "139553997"
+},
+{
+"groupId": "242523816",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000594",
+"variationId": "199860762"
+},
+{
+"groupId": "66000595",
+"variationId": "199860765"
+}
+],
+"price": 32500,
+"addonCombinations": [
+{
+"groupId": "242523817",
+"addonId": "139554008"
+},
+{
+"groupId": "242523817",
+"addonId": "139554003"
+},
+{
+"groupId": "242523817",
+"addonId": "139554005"
+},
+{
+"groupId": "242523817",
+"addonId": "139553987"
+},
+{
+"groupId": "242523817",
+"addonId": "139554004"
+},
+{
+"groupId": "242523817",
+"addonId": "139553990"
+},
+{
+"groupId": "242523820",
+"addonId": "139553962"
+},
+{
+"groupId": "242523820",
+"addonId": "139553984"
+},
+{
+"groupId": "242523820",
+"addonId": "139554006"
+},
+{
+"groupId": "242523820",
+"addonId": "139553999"
+},
+{
+"groupId": "242523820",
+"addonId": "139553998"
+},
+{
+"groupId": "242523820",
+"addonId": "139553974"
+},
+{
+"groupId": "242523820",
+"addonId": "139553983"
+},
+{
+"groupId": "242523818",
+"addonId": "139553996"
+},
+{
+"groupId": "242523818",
+"addonId": "139553969"
+},
+{
+"groupId": "242523818",
+"addonId": "139553980"
+},
+{
+"groupId": "242523818",
+"addonId": "139553977"
+},
+{
+"groupId": "242523818",
+"addonId": "139553979"
+},
+{
+"groupId": "242523818",
+"addonId": "139553982"
+},
+{
+"groupId": "242523818",
+"addonId": "139553964"
+},
+{
+"groupId": "242523818",
+"addonId": "139553959"
+},
+{
+"groupId": "242523816",
+"addonId": "139553986"
+},
+{
+"groupId": "242523816",
+"addonId": "139553973"
+},
+{
+"groupId": "242523816",
+"addonId": "140670877"
+},
+{
+"groupId": "242523816",
+"addonId": "139553989"
+},
+{
+"groupId": "242523816",
+"addonId": "139553988"
+},
+{
+"groupId": "242523816",
+"addonId": "139553997"
+},
+{
+"groupId": "242523816",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000594",
+"variationId": "199860763"
+},
+{
+"groupId": "66000595",
+"variationId": "199860764"
+}
+],
+"price": 49500,
+"addonCombinations": [
+{
+"groupId": "242523817",
+"addonId": "139554008"
+},
+{
+"groupId": "242523817",
+"addonId": "139554003"
+},
+{
+"groupId": "242523817",
+"addonId": "139554005"
+},
+{
+"groupId": "242523817",
+"addonId": "139553987"
+},
+{
+"groupId": "242523817",
+"addonId": "139554004"
+},
+{
+"groupId": "242523817",
+"addonId": "139553990"
+},
+{
+"groupId": "242523820",
+"addonId": "139553962"
+},
+{
+"groupId": "242523820",
+"addonId": "139553984"
+},
+{
+"groupId": "242523820",
+"addonId": "139554006"
+},
+{
+"groupId": "242523820",
+"addonId": "139553999"
+},
+{
+"groupId": "242523820",
+"addonId": "139553998"
+},
+{
+"groupId": "242523820",
+"addonId": "139553974"
+},
+{
+"groupId": "242523820",
+"addonId": "139553983"
+},
+{
+"groupId": "242523818",
+"addonId": "139553996"
+},
+{
+"groupId": "242523818",
+"addonId": "139553969"
+},
+{
+"groupId": "242523818",
+"addonId": "139553980"
+},
+{
+"groupId": "242523818",
+"addonId": "139553977"
+},
+{
+"groupId": "242523818",
+"addonId": "139553979"
+},
+{
+"groupId": "242523818",
+"addonId": "139553982"
+},
+{
+"groupId": "242523818",
+"addonId": "139553964"
+},
+{
+"groupId": "242523818",
+"addonId": "139553959"
+},
+{
+"groupId": "242523816",
+"addonId": "139553986"
+},
+{
+"groupId": "242523816",
+"addonId": "139553973"
+},
+{
+"groupId": "242523816",
+"addonId": "140670877"
+},
+{
+"groupId": "242523816",
+"addonId": "139553989"
+},
+{
+"groupId": "242523816",
+"addonId": "139553988"
+},
+{
+"groupId": "242523816",
+"addonId": "139553997"
+},
+{
+"groupId": "242523816",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000594",
+"variationId": "199860763"
+},
+{
+"groupId": "66000595",
+"variationId": "199860765"
+}
+],
+"price": 50500,
+"addonCombinations": [
+{
+"groupId": "242523817",
+"addonId": "139554008"
+},
+{
+"groupId": "242523817",
+"addonId": "139554003"
+},
+{
+"groupId": "242523817",
+"addonId": "139554005"
+},
+{
+"groupId": "242523817",
+"addonId": "139553987"
+},
+{
+"groupId": "242523817",
+"addonId": "139554004"
+},
+{
+"groupId": "242523817",
+"addonId": "139553990"
+},
+{
+"groupId": "242523820",
+"addonId": "139553962"
+},
+{
+"groupId": "242523820",
+"addonId": "139553984"
+},
+{
+"groupId": "242523820",
+"addonId": "139554006"
+},
+{
+"groupId": "242523820",
+"addonId": "139553999"
+},
+{
+"groupId": "242523820",
+"addonId": "139553998"
+},
+{
+"groupId": "242523820",
+"addonId": "139553974"
+},
+{
+"groupId": "242523820",
+"addonId": "139553983"
+},
+{
+"groupId": "242523818",
+"addonId": "139553996"
+},
+{
+"groupId": "242523818",
+"addonId": "139553969"
+},
+{
+"groupId": "242523818",
+"addonId": "139553980"
+},
+{
+"groupId": "242523818",
+"addonId": "139553977"
+},
+{
+"groupId": "242523818",
+"addonId": "139553979"
+},
+{
+"groupId": "242523818",
+"addonId": "139553982"
+},
+{
+"groupId": "242523818",
+"addonId": "139553964"
+},
+{
+"groupId": "242523818",
+"addonId": "139553959"
+},
+{
+"groupId": "242523816",
+"addonId": "139553986"
+},
+{
+"groupId": "242523816",
+"addonId": "139553973"
+},
+{
+"groupId": "242523816",
+"addonId": "140670877"
+},
+{
+"groupId": "242523816",
+"addonId": "139553989"
+},
+{
+"groupId": "242523816",
+"addonId": "139553988"
+},
+{
+"groupId": "242523816",
+"addonId": "139553997"
+},
+{
+"groupId": "242523816",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523816",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523817",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523818",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523820",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 31500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "65 ratings",
+"ratingCountV2": "65"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "59215344",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619554"
+},
+{
+"title": "Vegan Panini",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530443",
+"name": "Vegan Estelle (Veggies & Olive Tapenade Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted zucchini, bell pepper, sliced onions, jalapeno, olive tapenade, made with our daily-baked multigrain panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "bf2bbfe21ad0471e0f61e78340da5ddb",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000598",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 235,
+"default": 1,
+"id": "199860771",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 365,
+"id": "199860772",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000598",
+"variationId": "199860771"
+}
+],
+"price": 23500,
+"addonCombinations": [
+{
+"groupId": "242523830",
+"addonId": "139554008"
+},
+{
+"groupId": "242523830",
+"addonId": "139554003"
+},
+{
+"groupId": "242523830",
+"addonId": "139554005"
+},
+{
+"groupId": "242523830",
+"addonId": "139553987"
+},
+{
+"groupId": "242523830",
+"addonId": "139554004"
+},
+{
+"groupId": "242523830",
+"addonId": "139553990"
+},
+{
+"groupId": "242523832",
+"addonId": "139553962"
+},
+{
+"groupId": "242523832",
+"addonId": "139553984"
+},
+{
+"groupId": "242523832",
+"addonId": "139554006"
+},
+{
+"groupId": "242523832",
+"addonId": "139553999"
+},
+{
+"groupId": "242523832",
+"addonId": "139553998"
+},
+{
+"groupId": "242523832",
+"addonId": "139553974"
+},
+{
+"groupId": "242523832",
+"addonId": "139553983"
+},
+{
+"groupId": "242523831",
+"addonId": "139553996"
+},
+{
+"groupId": "242523831",
+"addonId": "139553969"
+},
+{
+"groupId": "242523831",
+"addonId": "139553980"
+},
+{
+"groupId": "242523831",
+"addonId": "139553977"
+},
+{
+"groupId": "242523831",
+"addonId": "139553979"
+},
+{
+"groupId": "242523831",
+"addonId": "139553982"
+},
+{
+"groupId": "242523831",
+"addonId": "139553964"
+},
+{
+"groupId": "242523831",
+"addonId": "139553959"
+},
+{
+"groupId": "242523827",
+"addonId": "139553986"
+},
+{
+"groupId": "242523827",
+"addonId": "139553973"
+},
+{
+"groupId": "242523827",
+"addonId": "140670877"
+},
+{
+"groupId": "242523827",
+"addonId": "139553989"
+},
+{
+"groupId": "242523827",
+"addonId": "139553988"
+},
+{
+"groupId": "242523827",
+"addonId": "139553997"
+},
+{
+"groupId": "242523827",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000598",
+"variationId": "199860772"
+}
+],
+"price": 36500,
+"addonCombinations": [
+{
+"groupId": "242523830",
+"addonId": "139554008"
+},
+{
+"groupId": "242523830",
+"addonId": "139554003"
+},
+{
+"groupId": "242523830",
+"addonId": "139554005"
+},
+{
+"groupId": "242523830",
+"addonId": "139553987"
+},
+{
+"groupId": "242523830",
+"addonId": "139554004"
+},
+{
+"groupId": "242523830",
+"addonId": "139553990"
+},
+{
+"groupId": "242523832",
+"addonId": "139553962"
+},
+{
+"groupId": "242523832",
+"addonId": "139553984"
+},
+{
+"groupId": "242523832",
+"addonId": "139554006"
+},
+{
+"groupId": "242523832",
+"addonId": "139553999"
+},
+{
+"groupId": "242523832",
+"addonId": "139553998"
+},
+{
+"groupId": "242523832",
+"addonId": "139553974"
+},
+{
+"groupId": "242523832",
+"addonId": "139553983"
+},
+{
+"groupId": "242523831",
+"addonId": "139553996"
+},
+{
+"groupId": "242523831",
+"addonId": "139553969"
+},
+{
+"groupId": "242523831",
+"addonId": "139553980"
+},
+{
+"groupId": "242523831",
+"addonId": "139553977"
+},
+{
+"groupId": "242523831",
+"addonId": "139553979"
+},
+{
+"groupId": "242523831",
+"addonId": "139553982"
+},
+{
+"groupId": "242523831",
+"addonId": "139553964"
+},
+{
+"groupId": "242523831",
+"addonId": "139553959"
+},
+{
+"groupId": "242523827",
+"addonId": "139553986"
+},
+{
+"groupId": "242523827",
+"addonId": "139553973"
+},
+{
+"groupId": "242523827",
+"addonId": "140670877"
+},
+{
+"groupId": "242523827",
+"addonId": "139553989"
+},
+{
+"groupId": "242523827",
+"addonId": "139553988"
+},
+{
+"groupId": "242523827",
+"addonId": "139553997"
+},
+{
+"groupId": "242523827",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523827",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523830",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523831",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523832",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 23500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "46 ratings",
+"ratingCountV2": "46"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894395",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530441",
+"name": "Vegan Colette (Mushroom & Veggies Sandwich)",
+"category": "Gourmet Panini",
+"description": "Roasted mushrooms, roasted zucchini, bell pepper, sliced onions, fresh basil pesto, made with our daily-baked multigrain panini bread & freshly grilled. Panini is like a gourmet grilled sandwich.",
+"imageId": "o2kdhsh37zbajebmftve",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000599",
+"name": "Choose Your Size",
+"variations": [
+{
+"name": "Half Panini (5 inch)",
+"price": 225,
+"default": 1,
+"id": "199860773",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Full Panini (10 inch)",
+"price": 350,
+"id": "199860774",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000599",
+"variationId": "199860773"
+}
+],
+"price": 22500,
+"addonCombinations": [
+{
+"groupId": "242523834",
+"addonId": "139554008"
+},
+{
+"groupId": "242523834",
+"addonId": "139554003"
+},
+{
+"groupId": "242523834",
+"addonId": "139554005"
+},
+{
+"groupId": "242523834",
+"addonId": "139553987"
+},
+{
+"groupId": "242523834",
+"addonId": "139554004"
+},
+{
+"groupId": "242523834",
+"addonId": "139553990"
+},
+{
+"groupId": "242523836",
+"addonId": "139553962"
+},
+{
+"groupId": "242523836",
+"addonId": "139553984"
+},
+{
+"groupId": "242523836",
+"addonId": "139554006"
+},
+{
+"groupId": "242523836",
+"addonId": "139553999"
+},
+{
+"groupId": "242523836",
+"addonId": "139553998"
+},
+{
+"groupId": "242523836",
+"addonId": "139553974"
+},
+{
+"groupId": "242523836",
+"addonId": "139553983"
+},
+{
+"groupId": "242523835",
+"addonId": "139553996"
+},
+{
+"groupId": "242523835",
+"addonId": "139553969"
+},
+{
+"groupId": "242523835",
+"addonId": "139553980"
+},
+{
+"groupId": "242523835",
+"addonId": "139553977"
+},
+{
+"groupId": "242523835",
+"addonId": "139553979"
+},
+{
+"groupId": "242523835",
+"addonId": "139553982"
+},
+{
+"groupId": "242523835",
+"addonId": "139553964"
+},
+{
+"groupId": "242523835",
+"addonId": "139553959"
+},
+{
+"groupId": "242523833",
+"addonId": "139553986"
+},
+{
+"groupId": "242523833",
+"addonId": "139553973"
+},
+{
+"groupId": "242523833",
+"addonId": "140670877"
+},
+{
+"groupId": "242523833",
+"addonId": "139553989"
+},
+{
+"groupId": "242523833",
+"addonId": "139553988"
+},
+{
+"groupId": "242523833",
+"addonId": "139553997"
+},
+{
+"groupId": "242523833",
+"addonId": "139553995"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000599",
+"variationId": "199860774"
+}
+],
+"price": 35000,
+"addonCombinations": [
+{
+"groupId": "242523834",
+"addonId": "139554008"
+},
+{
+"groupId": "242523834",
+"addonId": "139554003"
+},
+{
+"groupId": "242523834",
+"addonId": "139554005"
+},
+{
+"groupId": "242523834",
+"addonId": "139553987"
+},
+{
+"groupId": "242523834",
+"addonId": "139554004"
+},
+{
+"groupId": "242523834",
+"addonId": "139553990"
+},
+{
+"groupId": "242523836",
+"addonId": "139553962"
+},
+{
+"groupId": "242523836",
+"addonId": "139553984"
+},
+{
+"groupId": "242523836",
+"addonId": "139554006"
+},
+{
+"groupId": "242523836",
+"addonId": "139553999"
+},
+{
+"groupId": "242523836",
+"addonId": "139553998"
+},
+{
+"groupId": "242523836",
+"addonId": "139553974"
+},
+{
+"groupId": "242523836",
+"addonId": "139553983"
+},
+{
+"groupId": "242523835",
+"addonId": "139553996"
+},
+{
+"groupId": "242523835",
+"addonId": "139553969"
+},
+{
+"groupId": "242523835",
+"addonId": "139553980"
+},
+{
+"groupId": "242523835",
+"addonId": "139553977"
+},
+{
+"groupId": "242523835",
+"addonId": "139553979"
+},
+{
+"groupId": "242523835",
+"addonId": "139553982"
+},
+{
+"groupId": "242523835",
+"addonId": "139553964"
+},
+{
+"groupId": "242523835",
+"addonId": "139553959"
+},
+{
+"groupId": "242523833",
+"addonId": "139553986"
+},
+{
+"groupId": "242523833",
+"addonId": "139553973"
+},
+{
+"groupId": "242523833",
+"addonId": "140670877"
+},
+{
+"groupId": "242523833",
+"addonId": "139553989"
+},
+{
+"groupId": "242523833",
+"addonId": "139553988"
+},
+{
+"groupId": "242523833",
+"addonId": "139553997"
+},
+{
+"groupId": "242523833",
+"addonId": "139553995"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523833",
+"groupName": "Pick a side - Make it a meal!",
+"choices": [
+{
+"id": "139553986",
+"name": "Salted Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553973",
+"name": "Cajun Fries + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "140670877",
+"name": "Potato Wedges + Homemade Ketchup",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553989",
+"name": "Onion Rings + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553988",
+"name": "Caesar Salad Veg",
+"price": 16000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553997",
+"name": "Chicken Strips (3 Pcs) + Spiced Garlic Dip",
+"price": 19000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553995",
+"name": "Jalapeno & Cheese Poppers (3 Pcs) + Spiced Garlic Dip",
+"price": 16000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523834",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523835",
+"groupName": "Add Ons - Veg",
+"choices": [
+{
+"id": "139553996",
+"name": "Fresh Mozzarella",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553969",
+"name": "Feta Cheese",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553980",
+"name": "Herbed Paneer",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553977",
+"name": "Marinated Olives",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553979",
+"name": "Sun-Dried Tomato",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553982",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553964",
+"name": "Jalapeno",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553959",
+"name": "Fried Onions",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523836",
+"groupName": "Add Ons - Non Veg",
+"choices": [
+{
+"id": "139553962",
+"name": "Boiled Egg",
+"price": 3000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553984",
+"name": "Deviled Egg",
+"price": 5000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554006",
+"name": "Chicken",
+"price": 10000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553999",
+"name": "Crumbled Lamb",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553998",
+"name": "Bacon",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553974",
+"name": "Pork Pepperoni",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553983",
+"name": "Prawns",
+"price": 15000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 22500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "51 ratings",
+"ratingCountV2": "51"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58894394",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619557"
+}
+],
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/10/22/f49f7c3c-59bb-45d6-a679-f349469c5e57_0b522fc9-0e58-428d-91c3-8c171740bc9e.jpg",
+"categoryId": "66619535"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Fries & Sides",
+"categories": [
+{
+"title": "Signature French Fries",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530246",
+"name": "Classic Salted Fries",
+"category": "Fries & Sides",
+"description": "Served with homemade ketchup and spiced garlic dip.",
+"imageId": "b9757d88479dbf4ef30433e919cf42b3",
+"inStock": 1,
+"isVeg": 1,
+"price": 25000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523685",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "93 ratings",
+"ratingCountV2": "93"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425712",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530233",
+"name": "Cajun Spiced Fries",
+"category": "Fries & Sides",
+"description": "French fries tossed with our in-house Cajun spice mix, served with homemade ketchup and spiced garlic dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/109b2e50-1de6-44f3-b071-819e2c4ae4da_994a3382-4c72-490a-a0aa-00bf7e77bc8a.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 26000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523691",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "132 ratings",
+"ratingCountV2": "132"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425692",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530304",
+"name": "Fries with Cheese Dip",
+"category": "Fries & Sides",
+"description": "French fries served with a delicious home-made cheese sauce.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/a974d817-5dcc-4dd8-9c18-84a7515fbe84_89cdd60c-54b9-4162-918f-7efab281e86d.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 30000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523693",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "27 ratings",
+"ratingCountV2": "27"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "66609713",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125778028",
+"name": "Crispy Chicken on Fries",
+"category": "Fries & Sides",
+"description": "French fries loaded with crispy chicken, crunchy fried onions and served with a home-made cheese dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/8002eef0-98b2-471a-904f-f40444ba640b_f28e27d9-95a7-4ac5-85ed-33e92ba52144.jpg_compressed",
+"inStock": 1,
+"price": 37000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523698",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "20 ratings",
+"ratingCountV2": "20"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72742254",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530218",
+"name": "Bacon on Fries",
+"category": "Fries & Sides",
+"description": "French fries loaded with crispy bacon, crunchy fried onions and served with a home-made cheese dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/67dacb7e-cb74-4f2a-978c-5291ab34b661_bca4b83c-7545-41e2-b981-1489ad75d35f.png_compressed",
+"inStock": 1,
+"price": 41000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523706",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "62 ratings",
+"ratingCountV2": "62"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425686",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619559"
+},
+{
+"title": "Sides Veg",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "164614886",
+"name": "Corn Ribs",
+"category": "Fries & Sides",
+"description": "Cajun spiced and served with a spiced garlic dip. 6pcs. (veg preparation)",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/24/40b781a5-58bc-4bfd-9f70-ec82f4abad26_616e821e-aac4-4a5a-b024-c122965ab1c1.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 31500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "22 ratings",
+"ratingCountV2": "22"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "99042752",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530326",
+"name": "Hummus with Olives & Toasted Bread",
+"category": "Fries & Sides",
+"description": "Traditional chickpea & tahini hummus served with marinated olives, chunky chilli dip and our toasted multigrain bread (vegan).",
+"imageId": "dp9o38zssvq0stggqljn",
+"inStock": 1,
+"isVeg": 1,
+"price": 33500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523709",
+"groupName": "Add-ons",
+"choices": [
+{
+"id": "139553993",
+"name": "Extra Toasted Bread (6pcs)",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "185 ratings",
+"ratingCountV2": "185"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "66681326",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530377",
+"name": "Onion Rings",
+"category": "Fries & Sides",
+"description": "Crunchy made-in-house onion rings served with spiced garlic dip.",
+"imageId": "f074460be78eb565be498a0ecbb63cc6",
+"inStock": 1,
+"isVeg": 1,
+"price": 28000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523715",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "52 ratings",
+"ratingCountV2": "52"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425822",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "124596187",
+"name": "Broccoli AOP",
+"category": "Fries & Sides",
+"description": "Tossed with garlic, sun-dried tomato and parmesan.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/24/7db4de0f-1b3b-47ad-98af-bea83e32cf0f_3ee44ff7-ceae-40cb-8be2-c2414077a25c.jpg_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "18 ratings",
+"ratingCountV2": "18"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "94431724",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530418",
+"name": "Spiced Potato Wedges",
+"category": "Fries & Sides",
+"description": "Topped with parmesan, served with home-made ketchup and spiced garlic dip.",
+"imageId": "164870ae5ef4e41aced18e7b7b6cc1ef",
+"inStock": 1,
+"isVeg": 1,
+"price": 27000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "36 ratings",
+"ratingCountV2": "36"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "63745774",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117472465",
+"name": "Jalapeno & Cheese Poppers",
+"category": "Fries & Sides",
+"description": "Handmade jalapeño and cheese poppers, panko-crusted and golden fried, served with a spiced garlic dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/11/15/05a873de-b96b-4281-b3ed-7c2ac5146620_6772fc96-858c-45d8-b88c-fbe843abd1b6.jpg",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000560",
+"name": "Quantity",
+"variations": [
+{
+"name": "3 Pcs",
+"price": 180,
+"default": 1,
+"id": "199860694",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "6 Pcs",
+"price": 295,
+"id": "199860695",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000560",
+"variationId": "199860694"
+}
+],
+"price": 18000
+},
+{
+"variations": [
+{
+"groupId": "66000560",
+"variationId": "199860695"
+}
+],
+"price": 29500
+}
+]
+},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 18000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "52 ratings",
+"ratingCountV2": "52"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "37742143",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530222",
+"name": "Butter Garlic Mushrooms",
+"category": "Fries & Sides",
+"description": "Served with house bread.",
+"imageId": "ctvjgcd768wm3kekq3gb",
+"inStock": 1,
+"isVeg": 1,
+"price": 31500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383843",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619558"
+},
+{
+"title": "Sides Non Veg",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530325",
+"name": "Hummus Chicken & Toasted Bread",
+"category": "Fries & Sides",
+"description": "Traditional chickpea & tahini hummus served with chunky chilli dip, chicken and toasted multigrain bread.",
+"imageId": "wdubi94k4p1n7rev3rnd",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000549",
+"name": "Choose Your meat",
+"variations": [
+{
+"name": "Grilled Chicken",
+"price": 375,
+"default": 1,
+"id": "199860672",
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"name": "Crispy Chicken",
+"price": 375,
+"id": "199860673",
+"inStock": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000549",
+"variationId": "199860672"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242523667",
+"addonId": "139553993"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000549",
+"variationId": "199860673"
+}
+],
+"price": 37500,
+"addonCombinations": [
+{
+"groupId": "242523667",
+"addonId": "139553993"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523667",
+"groupName": "Add-ons",
+"choices": [
+{
+"id": "139553993",
+"name": "Extra Toasted Bread (6pcs)",
+"price": 2000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 37500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "30 ratings",
+"ratingCountV2": "30"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "66553008",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530299",
+"name": "Chicken Strips",
+"category": "Fries & Sides",
+"description": "Fried to perfection chicken strips served with spiced garlic dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/a32a4e15-cbd6-4e21-b8d2-5f031540e4e9_ab50c33f-8fd3-4ffc-aec0-90481c59e024_compressed",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000551",
+"name": "Quantity",
+"variations": [
+{
+"name": "3 Pcs",
+"price": 200,
+"default": 1,
+"id": "199860676",
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"name": "6 Pcs",
+"price": 350,
+"id": "199860677",
+"inStock": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000551",
+"variationId": "199860676"
+}
+],
+"price": 20000,
+"addonCombinations": [
+{
+"groupId": "242523674",
+"addonId": "139554008"
+},
+{
+"groupId": "242523674",
+"addonId": "139554003"
+},
+{
+"groupId": "242523674",
+"addonId": "139554005"
+},
+{
+"groupId": "242523674",
+"addonId": "139553987"
+},
+{
+"groupId": "242523674",
+"addonId": "139554004"
+},
+{
+"groupId": "242523674",
+"addonId": "139553990"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000551",
+"variationId": "199860677"
+}
+],
+"price": 35000,
+"addonCombinations": [
+{
+"groupId": "242523674",
+"addonId": "139554008"
+},
+{
+"groupId": "242523674",
+"addonId": "139554003"
+},
+{
+"groupId": "242523674",
+"addonId": "139554005"
+},
+{
+"groupId": "242523674",
+"addonId": "139553987"
+},
+{
+"groupId": "242523674",
+"addonId": "139554004"
+},
+{
+"groupId": "242523674",
+"addonId": "139553990"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523674",
+"groupName": "Extra Dips",
+"choices": [
+{
+"id": "139554008",
+"name": "Homemade Ketchup",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554003",
+"name": "Basil Mayo",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554005",
+"name": "Garlic Aioli",
+"price": 4000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553987",
+"name": "French Dip",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554004",
+"name": "Chunky Chilli",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553990",
+"name": "Cheese dip",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 6,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 20000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "63 ratings",
+"ratingCountV2": "63"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425701",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530223",
+"name": "Butter Garlic Prawns",
+"category": "Fries & Sides",
+"description": "Served with house bread.",
+"imageId": "hjet6c0muaqdpllwvujb",
+"inStock": 1,
+"price": 46000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "9 ratings",
+"ratingCountV2": "9"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383844",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530236",
+"name": "Chicken Wings AOP",
+"category": "Fries & Sides",
+"description": "Aglio olio peperoncino chicken wings, served with spiced garlic dip.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/a139a355-4481-476a-be61-18fc7c470c8a_d957c33e-018d-4207-a7a9-4c5338e05265.png_compressed",
+"inStock": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "36 ratings",
+"ratingCountV2": "36"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "65494107",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530237",
+"name": "Chilli Honey Chicken Wings",
+"category": "Fries & Sides",
+"description": "Served with spiced garlic dip.",
+"imageId": "bvxwtc01paubnz5mhex7",
+"inStock": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383845",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530219",
+"name": "Blackened BBQ Chicken Wings",
+"category": "Fries & Sides",
+"description": "Served with spiced garlic dip.",
+"imageId": "muajgrdfld3bbwf78njl",
+"inStock": 1,
+"price": 39500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "57058243",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619560"
+}
+],
+"image": "b9757d88479dbf4ef30433e919cf42b3",
+"categoryId": "66619536"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Soup & Salad",
+"categories": [
+{
+"title": "Soup",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530366",
+"name": "Minestrone Soup",
+"category": "Soup & Salad",
+"description": "Wholesome tomato soup with roasted veggies & macaroni.",
+"imageId": "wem6aapbizyqxupmtfkr",
+"inStock": 1,
+"isVeg": 1,
+"price": 31000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523658",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "27 ratings",
+"ratingCountV2": "27"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"imageBadges": [
+{
+"imageId": "Low%20cal/Low%20cal%201_1.png"
+}
+],
+"parentId": "63527080",
+"menuFilterIds": [
+"EATRIGHT",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530439",
+"name": "Truffled Mushroom Soup",
+"category": "Soup & Salad",
+"description": "Creamy blend of shiitake, button & oyster mushrooms, truffle oil & feta, served with house bread. ",
+"imageId": "770ce60f8bdb5cd03af07f67d01fa49b",
+"inStock": 1,
+"isVeg": 1,
+"price": 31000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523649",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "22 ratings",
+"ratingCountV2": "22"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "57498668",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530367",
+"name": "Minestrone Soup Chicken",
+"category": "Soup & Salad",
+"description": "Wholesome tomato soup with roasted veggies & macaroni",
+"imageId": "mlkwjeizfchrv6ubib3s",
+"inStock": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523664",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"imageBadges": [
+{
+"imageId": "Low%20cal/Low%20cal%201_1.png"
+}
+],
+"parentId": "63527081",
+"menuFilterIds": [
+"EATRIGHT",
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530440",
+"name": "Truffled Mushroom Soup Chicken",
+"category": "Soup & Salad",
+"description": "Creamy blend of shiitake, button & oyster mushrooms, truffle oil & feta, served with house bread. ",
+"imageId": "770ce60f8bdb5cd03af07f67d01fa49b",
+"inStock": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523656",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58791463",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619561"
+},
+{
+"title": "Salad",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530231",
+"name": "Caesar Salad Veg",
+"category": "Soup & Salad",
+"description": "Romaine lettuce, marinated olives, sun-dried tomatoes, parmesan, homemade croutons, caesar dressing. (dressing contains egg)",
+"imageId": "sl11idcberyjvvewcgal",
+"inStock": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "254200172",
+"groupName": "Salad Add ons",
+"choices": [
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523614",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.6",
+"ratingCount": "55 ratings",
+"ratingCountV2": "55"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "46387584",
+"menuFilterIds": [
+"NONVEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530310",
+"name": "Greek Salad Veg",
+"category": "Soup & Salad",
+"description": "Feta, bell pepper, onion, cucumber, olives, sun-dried tomato, lettuce & lemon vinaigrette.",
+"imageId": "7b80b4315d938418f0695ce8c1d68d8d",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "254200166",
+"groupName": "Salad Add ons",
+"choices": [
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523618",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "17 ratings",
+"ratingCountV2": "17"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "58791461",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530446",
+"name": "Watermelon & Feta Salad",
+"category": "Soup & Salad",
+"description": "With marinated olives, sun-dried tomatoes, chopped basil, roasted almond flakes & balsamic glaze.",
+"imageId": "gzuamgeiyhim3skxsp3j",
+"inStock": 1,
+"isVeg": 1,
+"price": 34000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "254200155",
+"groupName": "Salad Add ons",
+"choices": [
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523628",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "29 ratings",
+"ratingCountV2": "29"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383862",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530224",
+"name": "Caesar Salad Non Veg",
+"category": "Soup & Salad",
+"description": "Romaine lettuce, marinated olives, sun-dried tomatoes, parmesan, homemade croutons, caesar dressing.",
+"imageId": "ratjpfvrjlo4sqrme518",
+"inStock": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523635",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553975",
+"name": "Grilled Chicken",
+"price": 7000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553972",
+"name": "Crispy Chicken",
+"price": 7000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554001",
+"name": "Bacon",
+"price": 12000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "254200173",
+"groupName": "Salad Add ons",
+"choices": [
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523634",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "118 ratings",
+"ratingCountV2": "118"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64127130",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530308",
+"name": "Greek Salad Non Veg",
+"category": "Soup & Salad",
+"description": "Feta, bell pepper, onion, cucumber, olives, sun-dried tomato, lettuce & lemon vinaigrette.",
+"imageId": "7b80b4315d938418f0695ce8c1d68d8d",
+"inStock": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523646",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553975",
+"name": "Grilled Chicken",
+"price": 7000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553972",
+"name": "Crispy Chicken",
+"price": 7000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139554001",
+"name": "Bacon",
+"price": 12000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "254200165",
+"groupName": "Salad Add ons",
+"choices": [
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523645",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64127131",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619562"
+}
+],
+"image": "wem6aapbizyqxupmtfkr",
+"categoryId": "66619537"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Pasta, Mac & Cheese",
+"categories": [
+{
+"title": "Veg Pastas",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530280",
+"name": "Fettuccine Aglio Olio Pasta Veg",
+"category": "Pasta, Mac & Cheese",
+"description": "With garlic, sun-dried tomato, black olives, bell pepper and chilli flakes, topped with parmesan. Fettuccine is like a broader and flatter spaghetti.",
+"imageId": "5840da17f583e987afa7bf106b132f11",
+"inStock": 1,
+"isVeg": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523524",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523526",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "57 ratings",
+"ratingCountV2": "57"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383847",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530420",
+"name": "Spinach & Ricotta Ravioli",
+"category": "Pasta, Mac & Cheese",
+"description": "Hand-made pasta with activated charcoal, stuffed with spinach & ricotta, topped with parmesan. Served in sauce of your choice. (7 pieces).",
+"imageId": "zwxfzcfdssesamjuoxwq",
+"inStock": 1,
+"isVeg": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000532",
+"name": "Choose Your Sauce",
+"variations": [
+{
+"name": "Alfredo (cream sauce)",
+"price": 440,
+"default": 1,
+"id": "199860622",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Pomodoro (tomato sauce)",
+"price": 440,
+"id": "199860623",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"name": "Rosa (pink sauce)",
+"price": 440,
+"id": "199860624",
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000532",
+"variationId": "199860622"
+}
+],
+"price": 44000,
+"addonCombinations": [
+{
+"groupId": "242523532",
+"addonId": "139554010"
+},
+{
+"groupId": "242523532",
+"addonId": "141026031"
+},
+{
+"groupId": "242523532",
+"addonId": "139554007"
+},
+{
+"groupId": "242523534",
+"addonId": "139554009"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000532",
+"variationId": "199860623"
+}
+],
+"price": 44000,
+"addonCombinations": [
+{
+"groupId": "242523532",
+"addonId": "139554010"
+},
+{
+"groupId": "242523532",
+"addonId": "141026031"
+},
+{
+"groupId": "242523532",
+"addonId": "139554007"
+},
+{
+"groupId": "242523534",
+"addonId": "139554009"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000532",
+"variationId": "199860624"
+}
+],
+"price": 44000,
+"addonCombinations": [
+{
+"groupId": "242523532",
+"addonId": "139554010"
+},
+{
+"groupId": "242523532",
+"addonId": "141026031"
+},
+{
+"groupId": "242523532",
+"addonId": "139554007"
+},
+{
+"groupId": "242523534",
+"addonId": "139554009"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523532",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523534",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"defaultPrice": 44000,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "24 ratings",
+"ratingCountV2": "24"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383860",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530383",
+"name": "Penne Alfredo Pasta Veg",
+"category": "Pasta, Mac & Cheese",
+"description": "Parmesan cream sauce with grilled vegetables & olives.",
+"imageId": "pdkgqdztazqag6iorysp",
+"inStock": 1,
+"isVeg": 1,
+"price": 41000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523539",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523542",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.5",
+"ratingCount": "25 ratings",
+"ratingCountV2": "25"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383853",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530397",
+"name": "Penne Arrabbiata Pasta Veg",
+"category": "Pasta, Mac & Cheese",
+"description": "Spicy tomato sauce with grilled vegetables, olives & torn basil, topped with parmesan.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/ba140a07-779c-45c4-838e-2ce74fe922f7_90064946-d103-4a61-a2c4-719471bfbd83.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 40000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523551",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523554",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "30 ratings",
+"ratingCountV2": "30"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383855",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530404",
+"name": "Penne Rosa Pasta Veg",
+"category": "Pasta, Mac & Cheese",
+"description": "Tomato cream (pink sauce) with grilled vegetables, olives & torn basil, topped with parmesan.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/ba140a07-779c-45c4-838e-2ce74fe922f7_90064946-d103-4a61-a2c4-719471bfbd83.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 41000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523561",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523563",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383859",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530283",
+"name": "Fettuccine Al Pesto Pasta Veg",
+"category": "Pasta, Mac & Cheese",
+"description": "Basil pesto with bell peppers, black olives & sun-dried tomatoes, topped with parmesan. Fettuccine is like a broader and flatter spaghetti.",
+"imageId": "25041b9c9407524f871de7ff45d78441",
+"inStock": 1,
+"isVeg": 1,
+"price": 42000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523569",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523571",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "26 ratings",
+"ratingCountV2": "26"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383849",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530447",
+"name": "Penne Mushroom Veg",
+"category": "Pasta, Mac & Cheese",
+"description": "Rich mushroom sauce with sun-dried tomatoes & button mushrooms, topped with parmesan.",
+"imageId": "zjflhidiiyrzskxcdodf",
+"inStock": 1,
+"isVeg": 1,
+"price": 42000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523583",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523584",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383857",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530242",
+"name": "Classic Mac & Cheese",
+"category": "Pasta, Mac & Cheese",
+"description": "A creamy combination of tender macaroni & saucy cheddar cheese. Served with house bread.",
+"imageId": "03c04562b2576544431367acd8f82c61",
+"inStock": 1,
+"isVeg": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523589",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523591",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "50 ratings",
+"ratingCountV2": "50"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "63624420",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530362",
+"name": "Mac & Cheese with Sun-dried Tomatoes",
+"category": "Pasta, Mac & Cheese",
+"description": "A creamy combination of tender macaroni & saucy cheddar cheese. Served with house bread.",
+"imageId": "4d32c8f5ae9e5db80a493e70e7761641",
+"inStock": 1,
+"isVeg": 1,
+"price": 41000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523599",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523600",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "63624424",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530363",
+"name": "Mac & Cheese with Truffled Mushrooms",
+"category": "Pasta, Mac & Cheese",
+"description": "A creamy combination of tender macaroni & saucy cheddar cheese. Served with house bread.",
+"imageId": "c5a4eeea96e5d3a65e1a352a6acfa0ad",
+"inStock": 1,
+"isVeg": 1,
+"price": 45500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523606",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523608",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "63624425",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619563"
+},
+{
+"title": "Non Veg Pastas",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530277",
+"name": "Fettuccine Aglio Olio Pasta NV",
+"category": "Pasta, Mac & Cheese",
+"description": "With garlic, sun-dried tomato, black olives, bell pepper & chilli flakes, topped with parmesan. Fettuccine is like a broader and flatter spaghetti.",
+"imageId": "nut0gmjpfi7giox6t5ei",
+"inStock": 1,
+"price": 39000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523432",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553971",
+"name": "Grilled Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553970",
+"name": "Crispy Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553992",
+"name": "Bacon",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553991",
+"name": "Prawns",
+"price": 13000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "242523435",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523438",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "21 ratings",
+"ratingCountV2": "21"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383846",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530382",
+"name": "Penne Alfredo Pasta NV",
+"category": "Pasta, Mac & Cheese",
+"description": "Parmesan cream sauce with grilled vegetables & olives.",
+"imageId": "hn6tnttz8eax018kf9ol",
+"inStock": 1,
+"price": 41000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523445",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553971",
+"name": "Grilled Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553970",
+"name": "Crispy Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553992",
+"name": "Bacon",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553991",
+"name": "Prawns",
+"price": 13000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "242523449",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523453",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "22 ratings",
+"ratingCountV2": "22"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383852",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530385",
+"name": "Penne Arrabbiata Pasta NV",
+"category": "Pasta, Mac & Cheese",
+"description": "Spicy tomato sauce with grilled vegetables, olives & torn basil, topped with parmesan.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/ba140a07-779c-45c4-838e-2ce74fe922f7_90064946-d103-4a61-a2c4-719471bfbd83.jpg",
+"inStock": 1,
+"price": 40000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523459",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553971",
+"name": "Grilled Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553970",
+"name": "Crispy Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553992",
+"name": "Bacon",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553991",
+"name": "Prawns",
+"price": 13000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "242523462",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523464",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "6 ratings",
+"ratingCountV2": "6"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383854",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530402",
+"name": "Penne Rosa Pasta NV",
+"category": "Pasta, Mac & Cheese",
+"description": "Tomato cream (pink sauce) with grilled vegetables, olives & torn basil, topped with parmesan.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/27/ba140a07-779c-45c4-838e-2ce74fe922f7_90064946-d103-4a61-a2c4-719471bfbd83.jpg",
+"inStock": 1,
+"price": 41000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523481",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553971",
+"name": "Grilled Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553970",
+"name": "Crispy Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553992",
+"name": "Bacon",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553991",
+"name": "Prawns",
+"price": 13000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "242523482",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523483",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383858",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530282",
+"name": "Fettuccine al Pesto Pasta NV",
+"category": "Pasta, Mac & Cheese",
+"description": "Basil pesto with bell peppers, black olives & sun-dried tomatoes, topped with parmesan. Fettuccine is like a broader and flatter spaghetti.",
+"imageId": "ftu82d4jicz8gw0usdkx",
+"inStock": 1,
+"price": 42000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523496",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553971",
+"name": "Grilled Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553970",
+"name": "Crispy Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553992",
+"name": "Bacon",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553991",
+"name": "Prawns",
+"price": 13000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "242523498",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523499",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383848",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530349",
+"name": "Mac & Cheese NV",
+"category": "Pasta, Mac & Cheese",
+"description": "A creamy combination of tender macaroni & saucy cheddar cheese. Served with house bread.",
+"imageId": "3bf82ff486aae85432e5cd61bd0e7f3a",
+"inStock": 1,
+"variants": {},
+"variantsV2": {
+"variantGroups": [
+{
+"groupId": "66000529",
+"name": "Choose Your Meat",
+"variations": [
+{
+"name": "Grilled Chicken",
+"price": 465,
+"default": 1,
+"id": "199860614",
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"name": "Crispy Chicken",
+"price": 465,
+"id": "199860615",
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"name": "Bacon",
+"price": 515,
+"id": "199860616",
+"inStock": 1,
+"isEnabled": 1
+}
+]
+}
+],
+"pricingModels": [
+{
+"variations": [
+{
+"groupId": "66000529",
+"variationId": "199860614"
+}
+],
+"price": 46500,
+"addonCombinations": [
+{
+"groupId": "242523504",
+"addonId": "139554010"
+},
+{
+"groupId": "242523504",
+"addonId": "141026031"
+},
+{
+"groupId": "242523504",
+"addonId": "139554007"
+},
+{
+"groupId": "242523506",
+"addonId": "139554009"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000529",
+"variationId": "199860615"
+}
+],
+"price": 46500,
+"addonCombinations": [
+{
+"groupId": "242523504",
+"addonId": "139554010"
+},
+{
+"groupId": "242523504",
+"addonId": "141026031"
+},
+{
+"groupId": "242523504",
+"addonId": "139554007"
+},
+{
+"groupId": "242523506",
+"addonId": "139554009"
+}
+]
+},
+{
+"variations": [
+{
+"groupId": "66000529",
+"variationId": "199860616"
+}
+],
+"price": 51500,
+"addonCombinations": [
+{
+"groupId": "242523504",
+"addonId": "139554010"
+},
+{
+"groupId": "242523504",
+"addonId": "141026031"
+},
+{
+"groupId": "242523504",
+"addonId": "139554007"
+},
+{
+"groupId": "242523506",
+"addonId": "139554009"
+}
+]
+}
+]
+},
+"addons": [
+{
+"groupId": "242523504",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523506",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"defaultPrice": 46500,
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "21 ratings",
+"ratingCountV2": "21"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383851",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530399",
+"name": "Penne Mushroom Pasta NV",
+"category": "Pasta, Mac & Cheese",
+"description": "Rich mushroom sauce with sun-dried tomatoes & button mushrooms, topped with parmesan.",
+"imageId": "zjflhidiiyrzskxcdodf",
+"inStock": 1,
+"price": 42000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523515",
+"groupName": "Choose Your Meat",
+"choices": [
+{
+"id": "139553971",
+"name": "Grilled Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553970",
+"name": "Crispy Chicken",
+"price": 8000,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553992",
+"name": "Bacon",
+"price": 11500,
+"inStock": 1,
+"isEnabled": 1
+},
+{
+"id": "139553991",
+"name": "Prawns",
+"price": 13000,
+"inStock": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 2,
+"maxFreeAddons": -1,
+"minAddons": 1
+},
+{
+"groupId": "242523516",
+"groupName": "Pasta Extra",
+"choices": [
+{
+"id": "139554010",
+"name": "Roasted Mushrooms",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "141026031",
+"name": "Burrata Cheese",
+"price": 19800,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139554007",
+"name": "Chunky Chilli - Cup",
+"price": 6000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 3,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523517",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "64383856",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "66619564"
+}
+],
+"image": "5840da17f583e987afa7bf106b132f11",
+"categoryId": "66619538"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Sweet Crepes",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530263",
+"name": "Dark Chocolate Crepe",
+"category": "Sweet Crepes",
+"description": "Filled with our delicious made-in-house dark chocolate spread, whipped cream and topped with roasted almond slivers, served with vanilla ice cream.",
+"imageId": "nimiswmvd2m8foycmrl1",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523406",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "56 ratings",
+"ratingCountV2": "56"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425730",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530405",
+"name": "Salted Caramel & Biscuit Crepe",
+"category": "Sweet Crepes",
+"description": "With salted caramel cream, whipped cream, biscuit chunks, served with vanilla ice cream.",
+"imageId": "i0wqwlg90qqyfhxotcva",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523414",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "31 ratings",
+"ratingCountV2": "31"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425844",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530369",
+"name": "Nutella Crepe",
+"category": "Sweet Crepes",
+"description": "Loaded with Nutella, whipped cream and topped with roasted almond slivers, served with vanilla ice cream.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/28/cbdef8f4-3be3-4ed2-9f3b-cd87b1dd0b1f_391b2bb2-1d4f-44d7-8d7e-39928bed6461.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523421",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "57 ratings",
+"ratingCountV2": "57"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425818",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "nimiswmvd2m8foycmrl1",
+"categoryId": "66619539"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Desserts",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530407",
+"name": "Salted Caramel Cream Cup",
+"category": "Desserts",
+"description": "Home-made caramel cream served with our made-in-house french vanilla biscuits (5 Pcs).",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/9ea2fbd0-05b8-44b6-ad7e-83ada7e7d3e0_d436b0d8-b81d-4a8b-9e5b-f22336a56edf_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 22000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523377",
+"groupName": "Add Ons",
+"choices": [
+{
+"id": "139553968",
+"name": "Extra Vanilla Biscuits (3 Pcs)",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "242523380",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "62 ratings",
+"ratingCountV2": "62"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "51270323",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "121447064",
+"name": "Chunky Chocolate Cookie",
+"category": "Desserts",
+"description": "Freshly baked cookie (1 pc) filled with dark chocolate chunks.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/42f53c2e-c356-48dc-9808-ec023f1e5f07_ee4dcb60-203c-462c-8f10-6d2de9810516_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 18000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "69 ratings",
+"ratingCountV2": "69"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "57572044",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530428",
+"name": "Traditional Tiramisu",
+"category": "Desserts",
+"description": "Made the classic Italian way with espresso soaked savoiardi biscuits from Italy & fresh mascarpone. Served with coffee ice cream. Chef recommends! Contains egg",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/3/16/87344c3d-cc4f-407b-9ea2-a8c0768ed54e_51ad7511-3e12-4734-ac52-99c6dc488382.png_compressed",
+"inStock": 1,
+"price": 34000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523391",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "82 ratings",
+"ratingCountV2": "82"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425852",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530307",
+"name": "Apple Crumble Cake with Vanilla Ice-cream",
+"category": "Desserts",
+"description": "Experience the comforting flavours of autumn with this moist cake topped with an almond cinnamon crumble. Served with vanilla ice cream. Contains egg",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/24/7fc85379-8a0c-4454-8bdc-39c706e08b8e_cfeb0fa8-2e83-44db-8d5b-334263bdc2f4.jpg_compressed",
+"inStock": 1,
+"price": 33000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "242523399",
+"groupName": "Wooden Cutlery",
+"choices": [
+{
+"id": "139554009",
+"name": "Cutlery Set",
+"price": 500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "15 ratings",
+"ratingCountV2": "15"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "94431723",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "147728395",
+"name": "Dark Chocolate Torte with Vanilla Ice-cream",
+"category": "Desserts",
+"description": "Indulge in a decadent slice of our rich and velvety cake topped with roasted peanuts. Served with whipped cream & vanilla ice cream. Contains egg.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/24/45faaa9c-4143-469f-8b1b-d15274f718d0_cb60628d-d961-4b13-8c5d-5639ec2c11db.jpg_compressed",
+"inStock": 1,
+"price": 33000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "NONVEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "14 ratings",
+"ratingCountV2": "14"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "87414110",
+"menuFilterIds": [
+"NONVEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/3/7/9ea2fbd0-05b8-44b6-ad7e-83ada7e7d3e0_d436b0d8-b81d-4a8b-9e5b-f22336a56edf_compressed",
+"categoryId": "66619540"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Hot Chocolate",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530322",
+"name": "European Hot Chocolate",
+"category": "Hot Chocolate",
+"description": "Dark and delicious!",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/21/9d9f81e4-ec4e-4ee4-96c8-928c49ea1c7b_8d66bc4a-a4e8-4a16-92fb-5f3574443967.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 32000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "47 ratings",
+"ratingCountV2": "47"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "76043164",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/10/21/9d9f81e4-ec4e-4ee4-96c8-928c49ea1c7b_8d66bc4a-a4e8-4a16-92fb-5f3574443967.jpg",
+"categoryId": "66619541"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Shakes",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "152504595",
+"name": "Cold Chocolate",
+"category": "Shakes",
+"description": "Dark & delicious!",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/10/21/f941fcf2-9c47-4824-b4c7-ef44c4ce97b9_ddb5a7e4-3635-4c73-8b07-63708e74e76c.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425715",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530289",
+"name": "French Vanilla Biscuit Shake",
+"category": "Shakes",
+"description": "Made with our in-house french vanilla biscuits.",
+"imageId": "8227fc6c678a3fe0dfe9e41da525ed19",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.8",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "42929665",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530378",
+"name": "Oreo & Chocolate Shake",
+"category": "Shakes",
+"description": "Delicious combination of oreo biscuits chunks and our made-in-house chocolate sauce.",
+"imageId": "f342017446f1e45180f74e1f93f99901",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "10 ratings",
+"ratingCountV2": "10"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425823",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530421",
+"name": "Strawberry Cheesecake Shake",
+"category": "Shakes",
+"description": "Tasty combination of strawberry coulis, cheesecake biscuits and vanilla ice cream.",
+"imageId": "e4dbbcd2e8b80de3507c4ba1398ce788",
+"inStock": 1,
+"isVeg": 1,
+"price": 29000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425849",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2024/10/21/f941fcf2-9c47-4824-b4c7-ef44c4ce97b9_ddb5a7e4-3635-4c73-8b07-63708e74e76c.jpg",
+"categoryId": "70624864"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Cold Drinks",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530298",
+"name": "Fresh Watermelon & Mint Juice",
+"category": "Cold Drinks",
+"description": "Fresh juice, no sugar added.",
+"imageId": "qhkde4myhkekch3krnws",
+"inStock": 1,
+"isVeg": 1,
+"price": 19000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "23 ratings",
+"ratingCountV2": "23"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"imageBadges": [
+{
+"imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+}
+],
+"parentId": "36994407",
+"menuFilterIds": [
+"EATRIGHT",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530321",
+"name": "Homemade Ginger Ale",
+"category": "Cold Drinks",
+"description": "Homemade ginger juice with soda.",
+"imageId": "kphdsapvm4mtcbkgic2b",
+"inStock": 1,
+"isVeg": 1,
+"price": 22000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "62039967",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530297",
+"name": "Fresh Iced Tea - Peach",
+"category": "Cold Drinks",
+"imageId": "kduv4v4dwn6cujwuuxy6",
+"inStock": 1,
+"isVeg": 1,
+"price": 22000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "13 ratings",
+"ratingCountV2": "13"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "38282196",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530296",
+"name": "Fresh Iced Tea - Lemon & Mint",
+"category": "Cold Drinks",
+"imageId": "kduv4v4dwn6cujwuuxy6",
+"inStock": 1,
+"isVeg": 1,
+"price": 22000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "4 ratings",
+"ratingCountV2": "4"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "38282195",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530445",
+"name": "Virgin Pina Colada",
+"category": "Cold Drinks",
+"imageId": "r2nzx9lnjudcbndilfhb",
+"inStock": 1,
+"isVeg": 1,
+"price": 23000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.8",
+"ratingCount": "17 ratings",
+"ratingCountV2": "17"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "62945951",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "qhkde4myhkekch3krnws",
+"categoryId": "70624865"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Canned Beverages",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117530220",
+"name": "Blueberry Lemonade Kombucha",
+"category": "Canned Beverages",
+"description": "Blueberry Lemonade Kombucha by Mossant Fermentary with natural blueberry extract provides juicy and citrusy notes that will make you thirst for more! Rich in probiotics. Vegan and gluten-free. Low sugar and low calories.",
+"imageId": "bb8be997282a02f2117bb35a16181ff5",
+"inStock": 1,
+"isVeg": 1,
+"price": 26000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "21 ratings",
+"ratingCountV2": "21"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "66681324",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "140889361",
+"name": "Salted Lime Kombucha",
+"category": "Canned Beverages",
+"description": "Salted Lime Kombucha by Mossant Fermentary freshness of hand squeezed lime juice and just enough salt to make you love this. Rich in probiotics. Vegan and gluten-free. Low sugar and low calories.",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/21/79e1f51c-4598-4d98-a06e-96508ff26dac_3ed19e48-50cb-410a-9945-0f56a285ba67.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 26000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "82997850",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117472462",
+"name": "Coke - 300ml Can",
+"category": "Canned Beverages",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/2/136636a8-a088-4ecc-a658-3d52bfae6981_9a302f4c-64c0-4782-8f57-bb66bd579d1c.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 13000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "18 ratings",
+"ratingCountV2": "18"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "62611971",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117472463",
+"name": "Diet Coke - 300ml Can",
+"category": "Canned Beverages",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2025/7/2/c813db2f-7798-4f3c-a363-f993fd94e017_56acd58f-fc52-46fc-94c4-7c473abd6acd.jpg",
+"inStock": 1,
+"isVeg": 1,
+"price": 13000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "12 ratings",
+"ratingCountV2": "12"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"imageBadges": [
+{
+"imageId": "sachin/OCT2025/NO%20ADDEED%20SUGAR.png"
+}
+],
+"parentId": "62611972",
+"menuFilterIds": [
+"EATRIGHT",
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "bb8be997282a02f2117bb35a16181ff5",
+"categoryId": "66619544"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Matcha Specials by Mannheim",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194367496",
+"name": "Classic Matcha",
+"category": "Matcha Specials by Mannheim",
+"description": "Pure ceremonial matcha",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/dd2e1535-68c5-4800-a09b-25ad56c4f150_6b679e1c-12bf-43e2-8922-de13a5fa0dc1.jpeg",
+"inStock": 1,
+"isVeg": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746936",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118506169",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194367497",
+"name": "Roasted Hazelnut Matcha",
+"category": "Matcha Specials by Mannheim",
+"description": "Matcha with nutty hazelnut flavor",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/9424b49c-744f-4789-8043-d728669afb83_ae2ad829-9e06-4d9c-993e-aaca8ddadf77.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746937",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118506173",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194367498",
+"name": "Vanilla Matcha Latte",
+"category": "Matcha Specials by Mannheim",
+"description": "Matcha with creamy vanilla",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/016ba6b0-4aec-4035-b6b1-0b5baf22d455_8589eb0b-f9d4-4766-9906-8154da80d210.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746938",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118506174",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194367499",
+"name": "Iced Classic Matcha",
+"category": "Matcha Specials by Mannheim",
+"description": "Chilled matcha on ice",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/44ee4f14-aaa2-43c6-94ba-48260452738c_3c15a5f6-e1ae-4ddb-9701-4a6a44b51333.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746939",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118506170",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194367500",
+"name": "Iced Mango Matcha",
+"category": "Matcha Specials by Mannheim",
+"description": "Matcha with juicy mango",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/d920e193-d271-453f-a3d4-fd93f04f4a61_3e70915b-5521-4314-a6be-272c182b9656.jpeg",
+"inStock": 1,
+"isVeg": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746940",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118506171",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "194367501",
+"name": "Iced Summer Berry Matcha",
+"category": "Matcha Specials by Mannheim",
+"description": "Matcha with mixed berries",
+"imageId": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/1328a1e2-5271-450e-b183-c18ded2e6c21_bdee62e1-b622-4750-82ff-a92ac81b5ac1.png_compressed",
+"inStock": 1,
+"isVeg": 1,
+"price": 35000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746941",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {}
+},
+"parentId": "118506172",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "FOOD_CATALOG/IMAGES/CMS/2026/2/14/dd2e1535-68c5-4800-a09b-25ad56c4f150_6b679e1c-12bf-43e2-8922-de13a5fa0dc1.jpeg",
+"categoryId": "72455004"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Specialty Coffee by Mannheim",
+"categories": [
+{
+"title": "Hot Coffee",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516552",
+"name": "Americano",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth shot of espresso balanced with hot water. Crafted by Mannheim Coffee.",
+"imageId": "58deec18d0167d430d07e0048ce8bed9",
+"inStock": 1,
+"isVeg": 1,
+"price": 23000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746908",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746909",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "16 ratings",
+"ratingCountV2": "16"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581639",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516554",
+"name": "Cafe Latte",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth espresso balanced with steamed milk and a light layer of foam. Crafted by Mannheim Coffee.",
+"imageId": "9599dd9a542a704f6999218fad51ed1a",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746910",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746911",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "17 ratings",
+"ratingCountV2": "17"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581641",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516556",
+"name": "Cappuccino",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth espresso balanced with steamed milk and a thick fluffy layer of foam. Crafted by Mannheim Coffee.",
+"imageId": "d0bf3b569b1865c64230257585d6ce2f",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746912",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746913",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "3.9",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#D9EFEC",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_medium",
+"ratingTextColor": "rating_medium",
+"ratingCountTextColor": "rating_medium",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581642",
+"menuFilterIds": [
+"VEG"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516560",
+"name": "Flat White",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth espresso balanced with steamed milk and a micro layer of foam. Crafted by Mannheim Coffee.",
+"imageId": "74e3d2321b3bf4486a3f4189132f34e5",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746914",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746915",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "10 ratings",
+"ratingCountV2": "10"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581645",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516567",
+"name": "Mocha",
+"category": "Specialty Coffee by Mannheim",
+"description": "A delicious drink of chocolate, espresso, steamed milk and a light layer of foam. Crafted by Mannheim Coffee.",
+"imageId": "edf4919eb87e0655b88ca4ff7b5596b0",
+"inStock": 1,
+"isVeg": 1,
+"price": 28000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746916",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746917",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581652",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516570",
+"name": "Spanish Latte",
+"category": "Specialty Coffee by Mannheim",
+"description": "A sweet mix of espresso, condensed milk, steamed milk and a light layer of foam. Crafted by Mannheim Coffee.",
+"imageId": "7656c17d1eeb63290f6a797e0f6bcdac",
+"inStock": 1,
+"isVeg": 1,
+"price": 28000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746920",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "277545402",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "2 ratings",
+"ratingCountV2": "2"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581655",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "72452051"
+},
+{
+"title": "Iced Coffee",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516562",
+"name": "Iced Americano",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth shot of espresso balanced with cold water and served over ice. Crafted by Mannheim Coffee.",
+"imageId": "a9475e2c7479c3f22faca6b9c953ee88",
+"inStock": 1,
+"isVeg": 1,
+"price": 23000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746918",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746919",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "8 ratings",
+"ratingCountV2": "8"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581647",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516564",
+"name": "Iced Latte",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth espresso balanced with cold milk and served over ice. Crafted by Mannheim Coffee.",
+"imageId": "3820e61df02d39c8aceb1b508cf026cd",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746922",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746923",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746924",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "5 ratings",
+"ratingCountV2": "5"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581649",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516563",
+"name": "Iced Cappuccino",
+"category": "Specialty Coffee by Mannheim",
+"description": "A smooth espresso served over ice balanced with cold milk and a think fluffy layer of foam. Crafted by Mannheim Coffee.",
+"imageId": "3820e61df02d39c8aceb1b508cf026cd",
+"inStock": 1,
+"isVeg": 1,
+"price": 25500,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746925",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746926",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746927",
+"groupName": "Dairy-Free Alternatives",
+"choices": [
+{
+"id": "139553985",
+"name": "Oat Milk",
+"price": 8000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.4",
+"ratingCount": "7 ratings",
+"ratingCountV2": "7"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581648",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516565",
+"name": "Iced Spanish Latte",
+"category": "Specialty Coffee by Mannheim",
+"description": "A sweet mix of espresso, condensed milk, cold milk and served over ice. Crafted by Mannheim Coffee.",
+"imageId": "a2e8453b6484a253f0c771e5cfe91479",
+"inStock": 1,
+"isVeg": 1,
+"price": 28000,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "276746929",
+"groupName": "Coffee Extras",
+"choices": [
+{
+"id": "139553978",
+"name": "Extra Espresso Shot",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+},
+{
+"groupId": "276746928",
+"groupName": "Coffee Add-ons",
+"choices": [
+{
+"id": "139553967",
+"name": "Roasted Hazelnut",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553965",
+"name": "Vanilla",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "139553981",
+"name": "Irish",
+"price": 3000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 1,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.5",
+"ratingCount": "14 ratings",
+"ratingCountV2": "14"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581650",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "72452050"
+},
+{
+"title": "Cold Coffee",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516558",
+"name": "Classic Cold Coffee.",
+"category": "Specialty Coffee by Mannheim",
+"description": "A rich, sweet and creamy, classic cold coffee, a blend of espresso, cold milk and ice. Crafted by Mannheim Coffee.",
+"imageId": "9ffb6c925a0b5ce37208ae78a0ec9deb",
+"inStock": 1,
+"isVeg": 1,
+"price": 26500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "32 ratings",
+"ratingCountV2": "32"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "17425710",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516569",
+"name": "Roasted Hazelnut Cold Coffee.",
+"category": "Specialty Coffee by Mannheim",
+"description": "A rich, sweet and creamy, roasted hazelnut cold coffee, a blend of espresso, hazelnut, cold milk and ice. Crafted by Mannheim Coffee.",
+"imageId": "ebdbc8f7b01b3ae392ff335e540a1108",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.6",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581654",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516571",
+"name": "Vanilla Cold Coffee",
+"category": "Specialty Coffee by Mannheim",
+"description": "A rich, sweet and creamy, classic cold coffee, a blend of espresso, vanilla, cold milk and ice. Crafted by Mannheim Coffee.",
+"imageId": "4838d47d90a1ae3d2b8aa894437d6509",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "3 ratings",
+"ratingCountV2": "3"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581656",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516568",
+"name": "Mocha Cold Coffee",
+"category": "Specialty Coffee by Mannheim",
+"description": "Chocolate bomb! A rich, delicious, creamy chocolate cold coffee. Crafted by Mannheim Coffee.",
+"imageId": "f9956b8fbfab207ea0ecaca26b60c6dd",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.9",
+"ratingCount": "11 ratings",
+"ratingCountV2": "11"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581653",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516566",
+"name": "Irish Cold Coffee",
+"category": "Specialty Coffee by Mannheim",
+"description": "A rich, sweet and creamy, classic cold coffee, a blend of espresso, Irish syrup, cold milk and ice. Crafted by Mannheim Coffee.",
+"imageId": "4f2d3a072a41fd0092b84361ed0e2837",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581651",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "125516557",
+"name": "Caramel Cold Coffee",
+"category": "Specialty Coffee by Mannheim",
+"description": "Caramel blended with a shot of espresso, cold milk and ice. Crafted by Mannheim Coffee.",
+"imageId": "539ca09a1a1eebba8b61c90efffc41df",
+"inStock": 1,
+"isVeg": 1,
+"price": 29500,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "5.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"parentId": "72581643",
+"menuFilterIds": [
+"VEG",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "72452052"
+}
+],
+"image": "58deec18d0167d430d07e0048ce8bed9",
+"categoryId": "66619545"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+"type": "FSSAI",
+"imageId": "fssai_final_edss9i",
+"text": [
+"License No. 11223334000800"
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+"name": "Paris Panini - Gourmet Sandwiches & Wraps",
+"area": "Koramangala",
+"completeAddress": "NO 35, 4TH B CROSS, KORAMANGALA 5TH BLOCK, BANGALORE, BTM Layout , B.B.M.P South, Karnataka-560095"
+}
+}
+}
+]
+}
+}
+}
+}
+],
+"firstOffsetRequest": true,
+"isQCLink": false
+},
+"tid": "44636747-a28d-48ec-820b-ef8bb1dd981b",
+"sid": "qbr633db7f8-2a27-4d0d-a992-db1108234",
+"deviceId": "fb77e146-6d38-18e1-2efd-3183bdb8ccf8",
+"csrfToken": "XXWzkcdhFune-M496PdlftHQrfCKwQhPukZyg9b8"
+}
+
+export default restraunt10;
