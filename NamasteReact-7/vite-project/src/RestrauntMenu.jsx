@@ -6,9 +6,9 @@ import { useParams } from "react-router-dom";
 const RestrauntMenu = () => {
   const [resInfo, setResInfo] = useState(null);
   useEffect(() => fetchMenu(), []);
-  const {resID}= useParams();
-  console.log(resID)
-  
+  const { resID } = useParams();
+  console.log(resID);
+
   // console.log(resID)
 
   const fetchMenu = () => {
@@ -17,14 +17,14 @@ const RestrauntMenu = () => {
     setResInfo(data);
   };
 
-  if (resInfo == null) return <Shimmer />;
+  if (resInfo == null) return <Shimmer />
   const { name, cuisines, costForTwoMessage } =
     resInfo?.data.cards[2]?.card?.card?.info;
   const { itemCards } =
     resInfo?.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1].card
       .card;
-  // const formattedPrice = itemCards?.card?.info?.price ? price /100 : 'N/A'
- 
+
+
   return (
     <div className="res-menu">
       <h1>{name}</h1>
@@ -33,10 +33,11 @@ const RestrauntMenu = () => {
       </p>
       <h2>Menu</h2>
       <ul>
-        {itemCards.map((item) => {
+        {itemCards?.map((item) => {
           const formattedPrice = item?.card?.info?.price
             ? item?.card?.info?.price / 100
             : "N/A";
+             //formattedPrice is declared outSide return() becuase JSX only expects expressions and not statements git 
           return (
             <li key={item?.card?.info?.id}>
               {item?.card?.info?.name}- Rs {formattedPrice}

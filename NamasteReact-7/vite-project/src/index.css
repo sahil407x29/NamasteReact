@@ -6,9 +6,11 @@ gap: 10px;
 .HotelName{
     font-size:1.5rem;
 }
+
 .header{
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
     align-items: center;
     border: 2px solid black;
     margin-bottom: 10px;
@@ -17,11 +19,14 @@ gap: 10px;
 .nav-items > ul {
     display: flex;
     padding: 20px;
+    flex-wrap: wrap;
     
 }
 .nav-items >ul > li{
     padding: 10px;
     list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
 }
 .logo{
     width: 75px;
