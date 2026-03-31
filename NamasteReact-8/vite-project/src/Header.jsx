@@ -42,21 +42,19 @@ export const Title = () => {
 
   // console.log("render()")
   return (
+      <Link to={'./'} style={{all:'unset'}}>
     <div className="title">
+
       <img
         className="logo"
         src="https://tse2.mm.bing.net/th/id/OIP.5CSpVjV_VyICmJC1qptK2gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"
         alt="Logo"
       />
-      <h1>{title}</h1>
-      {/* {isLoggedIn ? (
-        <button onClick={() => setLog(false)}>Logout</button>
       
-      ) : (
-          <button onClick={() => setLog(true)}>Login</button>
-      )} */}
-      {/* <button onClick={()=>setTitle("hello")}> Title Changer</button> */}
-    </div>
+      <h1>{title}</h1>
+         </div>
+      </Link>
+    
   );
 };
 

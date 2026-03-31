@@ -31,8 +31,7 @@ export default AboutClass;
 /*
 parent constructor
  parent render
-
- first constructor
+first constructor
  first render
 
  second constructor
@@ -40,8 +39,7 @@ parent constructor
 
  first component did mount
  second component did mount
- 
- parent component did mount
-  *\
 
+ parent component did mount
+ * */
   
