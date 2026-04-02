@@ -11,21 +11,29 @@ class UserClass extends React.Component {
         Location: "Odisha",
       },
     };
-    // console.log(name + " constructor")
+    this.timer = ()=> this.intervalId = setInterval(() => {
+      console.log("MountedTesting")
+    }, 1000)
+    console.log(name + " constructor");
   }
   async componentDidMount() {
     const data = await fetch("https://api.github.com/users/akshaymarch7");
     const json = await data.json();
-    const defaultAvatar = "https://avatars.githubusercontent.com/u/195129683?v=4"
+    const defaultAvatar =
+      "https://avatars.githubusercontent.com/u/195129683?v=4";
     this.setState({
       userInfo: {
         ...json,
-        avatar_url: json.avatar_url == defaultAvatar
-        
-          ? "https://tse4.mm.bing.net/th/id/OIP.SAcV4rjQCseubnk32USHigHaHx?rs=1&pid=ImgDetMain&o=7&rm=3"
-          : json.avatar_url
+        avatar_url:
+          json.avatar_url === defaultAvatar
+            ? "https://tse4.mm.bing.net/th/id/OIP.SAcV4rjQCseubnk32USHigHaHx?rs=1&pid=ImgDetMain&o=7&rm=3"
+            : json.avatar_url,
       },
     });
+   this.timer()
+
+    
+
     /*     this will do 
     {
       userInfo : {
@@ -35,14 +43,21 @@ class UserClass extends React.Component {
       }
     } */
 
-    console.log(json);
-    // const { name } = this.props;
-    // console.log(name +  " component did mount")
+    const { name } = this.props;
+    console.log(name + " component did mount");
+  }
+  componentDidUpdate() {
+    console.log(name + "component did update");
+    clearInterval(this.intervalId)
+  }
+  componentWillUnmount() {
+    console.log(name + "component did unmount");
+    // this will be called when the component is unmounted i.e shifting to another component
   }
 
   render() {
-    // const { name } = this.props;
-    // console.log(name + " render")
+    const { name } = this.props;
+    console.log(name + "render");
     // const { count, countA } = this.state;
     const { avatar_url } = this.state.userInfo;
 
@@ -73,3 +88,20 @@ class UserClass extends React.Component {
   }
 }
 export default UserClass;
+
+/* 
+
+-- MOUNTING 
+*Constructor(dummy)
+*Render(dummy)
+*<HTML Dummy>
+*ComponentDidMount
+*<API call>
+*this.setState -> state Variable is updated
+* -- UPDATE (setState)
+*render(API DATA)
+*<HTML(new api data)>
+*componentDidUpdate
+*
+*
+*/

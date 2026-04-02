@@ -1,4 +1,5 @@
 import UserClass from "./UserClass.jsx";
+import User from './User.jsx'
 import { Component } from "react";
 // Life Cycle of a react component 
 // the Component will strat mounting by the first calling its Constructor then render
@@ -18,8 +19,8 @@ class AboutClass extends Component {
     console.log("parent render")
     return (
       <>
-      <UserClass name="first" />
-      <UserClass name="second" />
+      <User name="sahil" />
+      {/* <UserClass name="second" /> */}
       </>
      )
 
