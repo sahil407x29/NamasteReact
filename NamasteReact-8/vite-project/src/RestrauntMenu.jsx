@@ -1,20 +1,13 @@
-import { useEffect, useState } from "react";
-import { mockData } from "./mockData.js";
+
 import Shimmer from "./Shimmer.jsx";
 import { useParams } from "react-router-dom";
+import useRestrauntMenu from "/utils/useRestrauntMenu.jsx"
 
 const RestrauntMenu = () => {
-  const [resInfo, setResInfo] = useState(null);
-  useEffect(() => fetchMenu(), []);
+ 
   const { resID } = useParams();
+  const resInfo = useRestrauntMenu(resID)
  
- 
-
-  const fetchMenu = () => {
-    const data = mockData(resID);
-
-    setResInfo(data);
-  };
 
   if (resInfo == null) return <Shimmer />
   const { name, cuisines, costForTwoMessage } =

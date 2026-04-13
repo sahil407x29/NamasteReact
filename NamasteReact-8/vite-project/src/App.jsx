@@ -4,8 +4,8 @@ import { createBrowserRouter, RouterProvider , Outlet } from "react-router-dom";
 import Header, { Title } from "./Header.jsx";
 import Body from "./Body.jsx";
 import Footer from "./Footer.jsx";
-// import About from "./About.jsx";
-import AboutClass from "./AboutClass.jsx"
+import About from "./About.jsx";
+
 import Contact from "./Contact.jsx";
 import Error from "./ErrorPage.jsx";
 import RestrauntMenu from "./RestrauntMenu.jsx";
@@ -40,8 +40,8 @@ export const AppRouter = createBrowserRouter([
       },
       {
         path :'/about',
-        // element:<About/>,
-        element: <AboutClass/>
+        element:<About/>,
+       
       },
       {
         path :'/contact',
