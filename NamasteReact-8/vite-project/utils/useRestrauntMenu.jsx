@@ -9,7 +9,7 @@ const useRestrauntMenu = (resID) => {
       console.log("cleanup called");
     };
   }, [resID]);
-
+  
   const fetchMenu = () => {
     const data = mockData(resID);
 

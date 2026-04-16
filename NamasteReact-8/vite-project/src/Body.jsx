@@ -3,11 +3,12 @@ import RestrauntCard from "./RestrauntCard.jsx";
 import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer.jsx";
 import { Link } from "react-router-dom";
-import useGetRestraunts from '../utils/useGetRestraunts'
+import useGetRestraunts from "../utils/useGetRestraunts";
+import useOnlineStatus from "../utils/useOnlineStatus";
 
 function filterData(searchText, allRestraunt) {
   return allRestraunt.filter((res) =>
-    res.info?.name.toLowerCase().includes(searchText.toLowerCase())
+    res.info?.name.toLowerCase().includes(searchText.toLowerCase()),
   );
 }
 // function showTopRestraunts(filteredRestraunt){
@@ -28,14 +29,23 @@ function showTopRestraunts(filteredRestraunt) {
 
 const Body = () => {
   const [searchText, setSearch] = useState("");
-  
-  // const [TopRestraunts,setTopRestraunts] = useState([])
-
-  const [allRestraunt,filteredRestraunt] = useGetRestraunts()
+  const [filteredRestraunt, setFilteredRestraunt] = useState([]);
+  const { allRestraunt } =
+    useGetRestraunts();
   console.log("working");
+
+  useEffect(() => {
+    setFilteredRestraunt(allRestraunt)
+  
+    
+  }, [allRestraunt])
+  
 
   if (!allRestraunt) return null;
   //Early Return
+
+  if(useOnlineStatus() == false) 
+    return <h1>Seems like you are offline</h1>
 
   return allRestraunt.length == 0 ? (
     <Shimmer />
@@ -86,7 +96,7 @@ const Body = () => {
             to={"restraunts/" + res.info.id}
             style={{ textDecoration: "none", color: "black" }}
           >
-            <RestrauntCard {...res.info} /> 
+            <RestrauntCard {...res.info} />
           </Link>
         ))}
       </div>
