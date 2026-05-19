@@ -1,5 +1,5 @@
 import { SwiggyAPI } from "./Constants.jsx";
-import RestrauntCard from "./RestrauntCard.jsx";
+import RestrauntCard, { withDiscountLabel } from "./RestrauntCard.jsx";
 import { useState, useEffect } from "react";
 import Shimmer from "./Shimmer.jsx";
 import { Link } from "react-router-dom";
@@ -30,30 +30,28 @@ function showTopRestraunts(filteredRestraunt) {
 const Body = () => {
   const [searchText, setSearch] = useState("");
   const [filteredRestraunt, setFilteredRestraunt] = useState([]);
-  const  allRestraunt  =
-    useGetRestraunts();
-  console.log("working");
+  const allRestraunt = useGetRestraunts();
+
+  console.log(allRestraunt);
 
   useEffect(() => {
-    setFilteredRestraunt(allRestraunt)
-  
-    
-  }, [allRestraunt])
-  
+    setFilteredRestraunt(allRestraunt);
+  }, [allRestraunt]);
+
+  const RestrauntCardDiscount = withDiscountLabel(RestrauntCard);
 
   if (!allRestraunt) return null;
   //Early Return
 
-  if(useOnlineStatus() == false) 
-    return <h1>Seems like you are offline</h1>
+  if (useOnlineStatus() == false) return <h1>Seems like you are offline</h1>;
 
   return allRestraunt.length == 0 ? (
     <Shimmer />
   ) : (
     <>
-      
       <div className="user-filters m-4 flex gap-5">
-        <input class='border-[2px] '
+        <input
+          className="border-[2px] "
           type="text"
           placeholder="Enter Restraunt"
           value={searchText}
@@ -66,7 +64,8 @@ const Body = () => {
           onClick={() => {
             const data = filterData(searchText, allRestraunt);
             setFilteredRestraunt(data);
-          }} class='bg-pink-100 hover:bg-pink-200 rounded-md p-1'
+          }}
+          className="bg-pink-100 hover:bg-pink-200 rounded-md p-1"
         >
           Search
         </button>
@@ -75,7 +74,8 @@ const Body = () => {
           onClick={() => {
             const data = showTopRestraunts(filteredRestraunt);
             setFilteredRestraunt(data);
-          }}class='bg-blue-100 hover:bg-blue-200 rounded-md p-1'
+          }}
+          className="bg-blue-100 hover:bg-blue-200 rounded-md p-1"
         >
           Top Restraunts
         </button>
@@ -97,7 +97,11 @@ const Body = () => {
             to={"restraunts/" + res.info.id}
             style={{ textDecoration: "none", color: "black" }}
           >
-            <RestrauntCard {...res.info} />
+            {res.info.aggregatedDiscountInfoV3?.subHeader =="AT ₹99" ? (
+              <RestrauntCardDiscount {...res.info} />
+            ) : (
+              <RestrauntCard {...res.info} />
+            )}
           </Link>
         ))}
       </div>

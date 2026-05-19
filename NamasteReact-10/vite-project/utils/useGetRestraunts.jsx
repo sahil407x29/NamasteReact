@@ -12,12 +12,13 @@ const useGetRestraunts = () => {
   async function getRestraunts() {
     const response = await fetch(SwiggyAPI);
     const Swiggydata = await response.json();
-
+    console.log(Swiggydata)
     // return  data
     setAllRestraunt(
       Swiggydata?.data?.cards[1]?.card?.card?.gridElements?.infoWithStyle
         ?.restaurants,
     );
+    
     
   }
   return allRestraunt

@@ -29,7 +29,7 @@ const Header = () => {
             <Link
               style={{ textDecoration: "none", color: "black" }}
               to="/about"
-           class=''  >
+             >
               About Us
             </Link>
           </li>

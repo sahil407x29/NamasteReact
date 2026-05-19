@@ -16,6 +16,14 @@ const RestrauntMenu = () => {
     resInfo?.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards[1].card
       .card;
 
+  console.log('menu',resInfo?.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards
+      )
+  const categories = resInfo?.data.cards[4]?.groupedCard?.cardGroupMap?.REGULAR?.cards.filter((c)=> {
+    return c.card?.card?.["@type"] == "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory"
+    // ["@type"]  this is how to access a special character prohibited in js , this is the same as .@type
+  }
+  )
+  console.log("Categories",categories)
 
   return (
     <div className="res-menu">
