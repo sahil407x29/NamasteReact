@@ -2,7 +2,7 @@
 import Shimmer from "./Shimmer.jsx";
 import { useParams } from "react-router-dom";
 import useRestrauntMenu from "/utils/useRestrauntMenu.jsx"
-
+import RestrauntCategories from "./RestrauntCategories.jsx"
 const RestrauntMenu = () => {
  
   const { resID } = useParams();
@@ -26,27 +26,20 @@ const RestrauntMenu = () => {
   console.log("Categories",categories)
 
   return (
-    <div className="res-menu">
-      <h1>{name}</h1>
+    <div className="text-center">
+      <h1 className='font-bold'>{name}</h1>
       <p>
         {cuisines.join(", ")}- {costForTwoMessage}
       </p>
+      { 
+      
+        categories.map(
+          (category) => <RestrauntCategories data={category?.card?.card}/>
+        )
+        
+      }
       <h2>Menu</h2>
-      <ul>
-        {itemCards?.map((item) => {
-          const formattedPrice = item?.card?.info?.price
-            ? item?.card?.info?.price / 100
-            : "N/A";
-             //formattedPrice is declared outSide return() becuase JSX only expects expressions and not statements git 
-          return (
-            <li key={item?.card?.info?.id}>
-              {item?.card?.info?.name}- Rs {formattedPrice}
-            </li>
-          );
-        })}
-        <li></li>
-        <li></li>
-      </ul>
+      
     </div>
   );
 };
