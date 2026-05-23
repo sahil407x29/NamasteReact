@@ -1,5 +1,6 @@
 import { IMG_CDN_URL } from "./Constants.jsx";
 const ItemList = ({ data }) => {
+  
   const defaultImage =
     "https://tse4.mm.bing.net/th/id/OIP.DMXSq6hhQ7YPeznzuGdeUgHaEe?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3";
   return (
@@ -15,9 +16,9 @@ const ItemList = ({ data }) => {
               <span> Rs {data?.card?.info?.price / 100} </span>
               <p className="text-xs "> {data?.card?.info?.description} </p>
             </div>
-            <div className="w-3/12 relative ">
+            <div className="w-3/12 flex flex-col items-center">
               <img
-                className="w-[100px] h-[100px] m-0 p-0 "
+                className="w-[100px] h-[100px] object-fill rounded-lg"
                 src={
                   data?.card?.info?.imageId
                     ? IMG_CDN_URL + data?.card?.info?.imageId
@@ -26,20 +27,29 @@ const ItemList = ({ data }) => {
                 alt=""
               />
 
-              {data?.card?.info?.imageId ? (
+              {data?.card?.info?.imageId && (
                 <button
-                  className="text-green-800 px-4 z-10 py-2
-               border-1 rounded-lg absolute top-[75px] left-[11px] bg-white "
+                  className="
+      mt-[-15px]
+      bg-white
+      border
+      rounded-lg
+      px-4
+      py-2
+      text-green-800
+      shadow-md
+      z-10
+      "
                 >
                   ADD +
                 </button>
-              ) : null}
+              )}
             </div>
           </div>
         );
       })}
     </div>
-  );
+  ); /*  */
 };
 
 export default ItemList;
