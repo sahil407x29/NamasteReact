@@ -1,16 +1,22 @@
 import ItemList from "./ItemList.jsx";
 import { useState } from "react";
 
-const RestrauntCategories = ({ data }) => {
-  const [showItems, setShowItems] = useState(false);
+const RestrauntCategories = ({ data,showItems,setShowIndex }) => {
+  // this component is now an controlled component as it is being controlled 
+  // by its parents RestrauntMenu
+  // this is used to control a childElement from its parent through passing props which results often in nesting
+  // which is regarded as props drilling 
+  // to solve this we have Context in react
+  // const [showItems, setShowItems] = useState(false);
   const [Arrow, setArrow] = useState("⬇️");
   function DisplayItems() {
-    setShowItems(!showItems);
-    if (Arrow == "⬇️") {
-      setArrow("⬆️");
-    } else {
-      setArrow("⬇️");
-    }
+    // setShowItems(!showItems);
+    setShowIndex()
+    // if (Arrow == "⬇️") {
+    //   setArrow("⬆️");
+    // } else {
+    //   setArrow("⬇️");
+    // }
   }
 
   return (
@@ -20,9 +26,9 @@ const RestrauntCategories = ({ data }) => {
           {data?.title}
           {`(${data?.itemCards.length})`}
         </span>
-        <button>{Arrow}</button>
+        <button>{showItems?"⬆️":"⬇️"}</button>
       </div>
-
+      
       {showItems && <ItemList data={data?.itemCards} />}
     </div>
   );

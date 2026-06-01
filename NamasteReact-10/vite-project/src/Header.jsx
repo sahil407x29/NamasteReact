@@ -1,11 +1,13 @@
-import { useState } from "react";
+import { useState,useContext } from "react";
 import { Link } from "react-router-dom";
 import "./index.css";
-
+import UserContext from "../utils/UserContext"
 import useOnlineStatus from "../utils/useOnlineStatus"
+
 const Header = () => {
   const status = useOnlineStatus()
-  
+  const {loggedInUser} = useContext(UserContext)
+
 
   return (
     <div className="header flex items-center justify-between  bg-[#BBD58E] shadow-[0_4px_20px_rgba(0,0,0,0.25)]">
@@ -42,6 +44,7 @@ const Header = () => {
               Contact
             </Link>
           </li>
+          <li className='px-2 font-bold'>User: {loggedInUser}</li>
         </ul>
       </div>
     </div>

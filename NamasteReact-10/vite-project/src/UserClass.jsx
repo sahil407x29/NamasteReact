@@ -1,4 +1,5 @@
 import React from "react";
+import UserContext from "../utils/UserContext"
 class UserClass extends React.Component {
   // whenever a class instance is created the first thing when the class loads the Constructor is called
   // then render is called
@@ -17,36 +18,36 @@ class UserClass extends React.Component {
     }, 1000)
     console.log(name + " constructor");
   }
-  async componentDidMount() {
-    const data = await fetch("https://api.github.com/users/akshaymarch7");
-    const json = await data.json();
-    const defaultAvatar =
-      "https://avatars.githubusercontent.com/u/195129683?v=4";
-    this.setState({
-      userInfo: {
-        ...json,
-        avatar_url:
-          json.avatar_url === defaultAvatar
-            ? "https://tse4.mm.bing.net/th/id/OIP.SAcV4rjQCseubnk32USHigHaHx?rs=1&pid=ImgDetMain&o=7&rm=3"
-            : json.avatar_url,
-      },
-    });
-   this.timer()
+  // async componentDidMount() {
+  //   const data = await fetch("https://api.github.com/users/akshaymarch7");
+  //   const json = await data.json();
+  //   const defaultAvatar =
+  //     "https://avatars.githubusercontent.com/u/195129683?v=4";
+  //   this.setState({
+  //     userInfo: {
+  //       ...json,
+  //       avatar_url:
+  //         json.avatar_url === defaultAvatar
+  //           ? "https://tse4.mm.bing.net/th/id/OIP.SAcV4rjQCseubnk32USHigHaHx?rs=1&pid=ImgDetMain&o=7&rm=3"
+  //           : json.avatar_url,
+  //     },
+  //   });
+  //  this.timer()
 
     
 
-    /*     this will do 
-    {
-      userInfo : {
-        // all the data from json 
-        // eg .. 
-         {name :sahil} , {age:19}
-      }
-    } */
+  //   /*     this will do 
+  //   {
+  //     userInfo : {
+  //       // all the data from json 
+  //       // eg .. 
+  //        {name :sahil} , {age:19}
+  //     }
+  //   } */
 
-    const { name } = this.props;
-    console.log(name + " component did mount");
-  }
+  //   const { name } = this.props;
+  //   console.log(name + " component did mount");
+  // }
   componentDidUpdate() {
     console.log(name + "component did update");
     clearInterval(this.intervalId)
@@ -57,17 +58,17 @@ class UserClass extends React.Component {
   }
 
   render() {
-    const { name } = this.props;
-    console.log(name + "render");
-    // const { count, countA } = this.state;
-    const { avatar_url } = this.state.userInfo;
+    // const { name } = this.props;
+    // console.log(name + "render");
+    // // const { count, countA } = this.state;
+    // const { avatar_url } = this.state.userInfo;
 
-    const finalAvatar =
-      avatar_url === "https://avatars.githubusercontent.com/u/195129683?v=4"
-        ? "https://tse4.mm.bing.net/th/id/OIP.SAcV4rjQCseubnk32USHigHaHx?rs=1&pid=ImgDetMain&o=7&rm=3"
-        : avatar_url;
+    // const finalAvatar =
+    //   avatar_url === "https://avatars.githubusercontent.com/u/195129683?v=4"
+    //     ? "https://tse4.mm.bing.net/th/id/OIP.SAcV4rjQCseubnk32USHigHaHx?rs=1&pid=ImgDetMain&o=7&rm=3"
+    //     : avatar_url;
 
-    return <img src={finalAvatar} alt="" />;
+    // return <img src={finalAvatar} alt="" />;
     // return (
     //   <>
     //     <h1>{count}</h1>
@@ -86,6 +87,12 @@ class UserClass extends React.Component {
     //     </button>
     //   </>
     // )
+    return (
+    <UserContext.Consumer>
+      {/* this is used to use a context in class based components  */}
+      {({loggedInUser})=><h1>{loggedInUser}</h1>}
+      </UserContext.Consumer>
+    )
   }
 }
 export default UserClass;

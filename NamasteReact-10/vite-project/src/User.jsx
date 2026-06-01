@@ -1,37 +1,37 @@
-import { useState, useEffect } from "react"
+import { useState, useEffect } from "react";
 const User = (props) => {
-  const { name } = props
+  const { name } = props;
   // const [input,SetInput] = useState([])
   const [user, setUser] = useState({
     input: "",
     name: "Sahil",
     age: 19,
     Location: "Orrisa",
-    Contact : "sahil407x29"
-  })
-  useEffect(() => {
-    loadPfp();
+    Contact: "sahil407x29",
+  });
+  // useEffect(() => {
+  //   loadPfp();
 
-    return () => {
-      console.log("unmount")
-    }
-    // this is a cleanUp function which is analgous ComponentWillUnmount in class based components
-  }, [])
+  //   return () => {
+  //     console.log("unmount");
+  //   };
+  //   // this is a cleanUp function which is analgous ComponentWillUnmount in class based components
+  // }, []);
 
-  async function loadPfp() {
-    const response = await fetch(`https://api.github.com/users/${user.input}`)
-    const data = await response.json()
-    setUser((prev) => {
-      return {
-        ...prev,
-        ...data,
-      }
-    })
-  }
+  // async function loadPfp() {
+  //   const response = await fetch(`https://api.github.com/users/${user.input}`);
+  //   const data = await response.json();
+  //   setUser((prev) => {
+  //     return {
+  //       ...prev,
+  //       ...data,
+  //     };
+  //   });
+  // }
 
   return (
     <>
-      <input
+      {/* <input
         type="text"
         onChange={(e) =>
           setUser((prev) => ({
@@ -41,13 +41,13 @@ const User = (props) => {
         }
         value={user.input}
         placeholder="enter github username"
-      />
-      <button onClick={() => loadPfp()}>Search</button>
+      /> */}
+      {/* <button onClick={() => loadPfp()}>Search</button> */}
       <img src={user.avatar_url} alt="" />
       <h1>This is User {name}</h1>
       <h2>Location : {user.Location}</h2>
       <h3>Contact : {user.Contact}</h3>
     </>
-  )
-}
-export default User
+  );
+};
+export default User;

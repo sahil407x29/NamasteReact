@@ -1,6 +1,7 @@
 import { SwiggyAPI } from "./Constants.jsx";
 import RestrauntCard, { withDiscountLabel } from "./RestrauntCard.jsx";
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
+import UserContext from "../utils/UserContext";
 import Shimmer from "./Shimmer.jsx";
 import { Link } from "react-router-dom";
 import useGetRestraunts from "../utils/useGetRestraunts";
@@ -32,6 +33,7 @@ const Body = () => {
   const [filteredRestraunt, setFilteredRestraunt] = useState([]);
   const allRestraunt = useGetRestraunts();
 
+  const { loggedInUser,setUserName } = useContext(UserContext);
   console.log(allRestraunt);
 
   useEffect(() => {
@@ -49,7 +51,7 @@ const Body = () => {
     <Shimmer />
   ) : (
     <>
-      <div className="user-filters m-4 flex gap-5">
+      <div className="user-filters m-4 flex gap-5 items-center">
         <input
           className="border-[2px] "
           type="text"
@@ -89,6 +91,16 @@ const Body = () => {
         >
           Reset Filters
         </button>
+
+        <label  >User:</label>
+        <input
+          value={loggedInUser}
+          id='contextNameSet'
+          type="text"
+          className="border-[2px]"
+          onChange={(e) => setUserName(e.target.value)}
+        />
+        <button>Set Name</button>
       </div>
       <div className="restraunt-List flex gap-4 flex-wrap m-3">
         {filteredRestraunt.map((res) => (
@@ -97,7 +109,7 @@ const Body = () => {
             to={"restraunts/" + res.info.id}
             style={{ textDecoration: "none", color: "black" }}
           >
-            {res.info.aggregatedDiscountInfoV3?.subHeader =="AT ₹99" ? (
+            {res.info.aggregatedDiscountInfoV3?.subHeader == "AT ₹99" ? (
               <RestrauntCardDiscount {...res.info} />
             ) : (
               <RestrauntCard {...res.info} />
