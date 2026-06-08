@@ -1,0 +1,1045 @@
+ {
+"statusCode": 0,
+"data": {
+"statusMessage": "done successfully",
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+"text": "RNR Biryani - Taste of 1953",
+"headerStyling": {
+"textColor": "text_Highest_Emphasis",
+"textVariant": "header_H3_Black"
+}
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+"tabs": [
+{
+"id": "Order Online",
+"title": "Order Online"
+}
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+"info": {
+"id": "335436",
+"name": "RNR Biryani - Taste of 1953",
+"city": "Bangalore",
+"slugs": {
+"restaurant": "rnr-biryani---taste-of-1953-indiranagar-indiranagar",
+"city": "bangalore"
+},
+"uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+"cloudinaryImageId": "ffjx34cigzjso9awbpay",
+"locality": "100 Feet Road",
+"areaName": "Indiranagar",
+"costForTwo": "35000",
+"costForTwoMessage": "₹350 for two",
+"cuisines": [
+"Biryani",
+"South Indian"
+],
+"avgRating": 4.4,
+"feeDetails": {
+"restaurantId": "335436",
+"fees": [
+{}
+]
+},
+"parentId": "11620",
+"avgRatingString": "4.4",
+"totalRatingsString": "8.4K+ ratings",
+"sla": {
+"restaurantId": "335436",
+"lastMileTravel": 2321.6,
+"serviceability": "NON_SERVICEABLE",
+"rainMode": "RAIN_MODE_NONE",
+"longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+"lastMileTravelString": "2321.6 km",
+"iconType": "ICON_TYPE_EMPTY"
+},
+"availability": {
+"nextCloseTime": "2026-03-21 01:00:00",
+"visibility": true,
+"opened": true,
+"restaurantClosedMeta": {}
+},
+"aggregatedDiscountInfo": {
+"header": "Get items under 99",
+"shortDescriptionList": [
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹550 off | Use FLAT550",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹550 off | Use FLAT550",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"visible": true
+},
+"badges": {},
+"slugString": "rnr-biryani---taste-of-1953-indiranagar-indiranagar",
+"isOpen": true,
+"labels": [
+{
+"title": "Timings",
+"message": "null"
+},
+{
+"title": "Address",
+"message": "Taste of 1953, No.4034,100Ft Road, Below Domlur Flyover, Near Nandhana Palace, Hal 2Nd Indiranagar, Bangalore 560095"
+},
+{
+"title": "Cuisines",
+"message": "Biryani,South Indian"
+}
+],
+"totalRatings": 8400,
+"aggregatedDiscountInfoV2": {
+"header": "Get items under 99",
+"shortDescriptionList": [
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹550 off | Use FLAT550",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"descriptionList": [
+{
+"meta": "99 store",
+"discountType": "FinalPrice",
+"operationType": "RESTAURANT"
+},
+{
+"meta": "Flat ₹550 off | Use FLAT550",
+"discountType": "Flat",
+"operationType": "RESTAURANT"
+}
+],
+"couponDetailsCta": "View coupon details"
+},
+"type": "F",
+"nudgeBanners": [
+{
+"priority": 1,
+"discountInfo": {
+"discountType": "FinalPrice",
+"value": 99
+},
+"unlockedMessage": "Deal of the Day unlocked!",
+"minItemCount": 1,
+"maxItemCount": 1,
+"type": "SILD",
+"nudgeTagInfo": {
+"title": "Deal of the Day",
+"fontName": "FONT_NAME_CONDENSED_BOLD"
+},
+"logoCtx": {},
+"movComputationType": "MOV_COMPUTATION_TYPE_DISCOUNTED_PRICE"
+}
+],
+"headerBanner": {
+"url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/335436"
+},
+"generalPurposeInfoListV2": [
+{
+"cta": {
+"info": {
+"recordings": {}
+},
+"linkCta": {}
+}
+}
+],
+"ratingSlab": "RATING_SLAB_5",
+"availabilityServiceabilityMessage": "Does not deliver to your location",
+"orderabilityCommunication": {
+"title": {
+"text": "Wish you were"
+},
+"subTitle": {
+"text": "CLOSER!"
+},
+"message": {
+"text": "This location is outside the outlet's delivery area",
+"textColour": "negative"
+},
+"customIcon": {
+"bgGradientColorStart": "#F64C41",
+"bgGradientColorEnd": "#E53554"
+},
+"commsStyling": {}
+},
+"hasBestsellerItems": true,
+"cartOrderabilityNudgeBanner": {
+"parameters": {},
+"presentation": {}
+},
+"latLong": "12.962134,77.6417639",
+"backgroundImageOverlayInfo": {},
+"featuredSectionInfo": {},
+"requestContexts": [
+"enable_ecosaver",
+"99store"
+]
+},
+"analytics": {}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_AND_SHOW_MENU_OFFER_NUDGE",
+"sectionId": "MENU_ITEM_CART_UPDATE_POP_CROUTON"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+"layout": {
+"rows": 1,
+"columns": 5,
+"horizontalScrollEnabled": true,
+"itemSpacing": 12,
+"lineSpacing": 10,
+"widgetPadding": {},
+"containerStyle": {
+"containerPadding": {
+"left": 10,
+"right": 10,
+"bottom": 16
+}
+}
+},
+"id": "offerCollectionWidget_UX4",
+"gridElements": {
+"infoWithStyle": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+"offers": [
+{
+"info": {
+"header": "ITEMS AT ₹99",
+"offerTag": "DEAL OF DAY",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"659c6005-0437-434e-9378-be8756295368"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"description": "ON SELECT ITEMS |",
+"offerType": "offers",
+"restId": "335436",
+"offerLogo": "offers/deal-of-day",
+"descriptionTextColor": "#7302060C"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹550 OFF",
+"offerTag": "FLAT DEAL",
+"offerTagColor": "#E46D47",
+"offerIds": [
+"8424f444-43cc-4deb-978e-e62d74e48bf8"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE FLAT550",
+"description": "ABOVE ₹2499",
+"offerType": "offers",
+"restId": "335436",
+"offerLogo": "offers/generic",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE FLAT550"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "7.5% OFF UPTO ₹100",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/fa07ebc1-f02e-4584-8057-29c92f4872b8_YESBankMenuLogoNew1.png",
+"offerIds": [
+"c97946a6-dfd8-492f-89dd-b9c970531b7c"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "NO CODE REQUIRED",
+"description": "ABOVE ₹399",
+"offerType": "offers",
+"restId": "335436",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/fa07ebc1-f02e-4584-8057-29c92f4872b8_YESBankMenuLogoNew1.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "NO CODE REQUIRED"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹150 OFF",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/3/1/297211d6-0a0c-4d11-a6f4-f8727ac2aff6_Axis.png",
+"offerIds": [
+"49c6aa12-f2fa-4298-9d4e-71d9f736e34a"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE AXISREWARDS",
+"description": "ABOVE ₹500",
+"offerType": "offers",
+"restId": "335436",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/3/1/297211d6-0a0c-4d11-a6f4-f8727ac2aff6_Axis.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE AXISREWARDS"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+},
+{
+"info": {
+"header": "FLAT ₹200 OFF",
+"offerTagColor": "#E46D47",
+"logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/c806338f-2f02-4a1e-a3f3-78cdb0099f79_Axis.png",
+"offerIds": [
+"33a265a6-d580-407c-9a54-b320762d2679"
+],
+"expiryTime": "1970-01-01T00:00:00Z",
+"couponCode": "USE AXIS200",
+"description": "ABOVE ₹1000",
+"offerType": "offers",
+"restId": "335436",
+"offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2026/2/28/c806338f-2f02-4a1e-a3f3-78cdb0099f79_Axis.png",
+"descriptionTextColor": "#7302060C",
+"primaryDescription": "USE AXIS200"
+},
+"cta": {
+"type": "OFFER_HALF_CARD"
+}
+}
+],
+"habitMilestoneInfo": {
+"callout": {}
+},
+"loyaltyDiscoverPresentationInfo": {
+"logoCtx": {}
+}
+}
+}
+}
+}
+},
+{
+"groupedCard": {
+"cardGroupMap": {
+"REGULAR": {
+"cards": [
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+"badges": {},
+"vegOnlyDetails": {
+"imageId": "AutoVegOnly_qkjowj",
+"title": "Showing only vegetarian options.",
+"description": "Tap on the VEG ONLY button to turn off the setting"
+},
+"topRatedFilter": {
+"attributes": {
+"displayText": "Ratings 4.0+"
+}
+},
+"kidsCategoryFilter": {
+"attributes": {
+"displayText": "Kids Favourites",
+"tooltip": {
+"enabled": true,
+"displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+}
+}
+},
+"vegFilter": {
+"attributes": {
+"displayText": "VEG"
+}
+},
+"nonvegFilter": {
+"attributes": {
+"displayText": "NONVEG"
+}
+}
+},
+"relevance": {
+"type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+"sectionId": "MENU_FILTER_TOGGLE"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Recommended",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "92157116",
+"name": "Double Ka Meetha (3pcs)",
+"category": "Desserts",
+"description": "A lavish deep fried bread preparation enriched with the goodness of sugar syrup, ghee and topped with khova. ",
+"imageId": "vgkiy5w9kgcnyarqvgdb",
+"inStock": 1,
+"isVeg": 1,
+"price": 9900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "214 ratings",
+"ratingCountV2": "214"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "2620097",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "92157115",
+"name": "Gulab Jamun (2pcs)",
+"category": "Desserts",
+"description": "A classic indian dessert prepared from milk solids kneaded with all purpose flour, rolled into balls, deep fried until golden & soaked in a rose flavoured sugar syrup. ",
+"imageId": "snbhtvvgoazvztzhhbth",
+"inStock": 1,
+"isVeg": 1,
+"price": 5000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "123 ratings",
+"ratingCountV2": "123"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "2620105",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "75389702",
+"name": "Rasmalai Delight",
+"category": "Desserts",
+"description": "A modern twist to the super soft rasmalai, layered with luscious cream cheese on a base of perfectly crumbled biscuit. ",
+"imageId": "fea01bc16a3e33a2334789c5066eca53",
+"inStock": 1,
+"isVeg": 1,
+"price": 11900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"showImage": true,
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "34 ratings",
+"ratingCountV2": "34"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "69853564",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"type": "CATEGORY_TYPE_RECOMMENDED",
+"subtitleSuffix": {},
+"categoryId": "-1"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+"title": "Main Course",
+"categories": [
+{
+"title": "Veg",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "117322416",
+"name": "Curd Rice",
+"category": "Main Course",
+"description": "South indian special delicacy of precooked rice mixed with thick curds, herbs, and tempering spices, giving a soothing finishing touch to your meal. ",
+"imageId": "zxww2sf891sk6lcja6oj",
+"inStock": 1,
+"isVeg": 1,
+"price": 12000,
+"finalPrice": 9900,
+"variants": {},
+"variantsV2": {},
+"addons": [
+{
+"groupId": "199093062",
+"groupName": "Desserts",
+"choices": [
+{
+"id": "133309958",
+"name": "Gulab Jamun (2pcs)",
+"price": 5000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "136526294",
+"name": "Rasmalai Delight",
+"price": 11500,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "133309967",
+"name": "Double Ka Meetha (3 Pcs)",
+"price": 9000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "133309962",
+"name": "Crystal Roll (2 Pcs)",
+"price": 9900,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 4,
+"maxFreeAddons": -1
+},
+{
+"groupId": "199093066",
+"groupName": "Beverages",
+"choices": [
+{
+"id": "133309961",
+"name": "Butter Milk",
+"price": 4000,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "135121520",
+"name": "Coke 250ml",
+"price": 1905,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "135121524",
+"name": "Sprite 250ml",
+"price": 1905,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+},
+{
+"id": "135121521",
+"name": "Kinley 500ml",
+"price": 952,
+"inStock": 1,
+"isVeg": 1,
+"isEnabled": 1
+}
+],
+"maxAddons": 4,
+"maxFreeAddons": -1
+}
+],
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"offerTags": [
+{
+"matchText": "SILD"
+}
+],
+"itemBadge": {},
+"badgesV2": {},
+"itemNudgeType": "FinalPrice",
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "45 ratings",
+"ratingCountV2": "45"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"cartContext": "quick_prep",
+"offerIds": [
+"659c6005-0437-434e-9378-be8756295368"
+],
+"isNinetyninestoreItem": true,
+"parentId": "39547013",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"categoryId": "23421456"
+}
+],
+"image": "zxww2sf891sk6lcja6oj",
+"categoryId": "22678897"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+"title": "Desserts",
+"itemCards": [
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "114442679",
+"name": "Crystal Rolls",
+"category": "Desserts",
+"description": "A royale dessert made with fresh white pumpkin filled with luscious cream & khova. A delightful treat one must try!",
+"imageId": "e4528074a66a14faef706de969498f29",
+"inStock": 1,
+"isVeg": 1,
+"price": 9900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.0",
+"ratingCount": "1 rating",
+"ratingCountV2": "1"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "113161051",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "92157116",
+"name": "Double Ka Meetha (3pcs)",
+"category": "Desserts",
+"description": "A lavish deep fried bread preparation enriched with the goodness of sugar syrup, ghee and topped with khova. ",
+"imageId": "vgkiy5w9kgcnyarqvgdb",
+"inStock": 1,
+"isVeg": 1,
+"price": 9900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.3",
+"ratingCount": "214 ratings",
+"ratingCountV2": "214"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "2620097",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "92157115",
+"name": "Gulab Jamun (2pcs)",
+"category": "Desserts",
+"description": "A classic indian dessert prepared from milk solids kneaded with all purpose flour, rolled into balls, deep fried until golden & soaked in a rose flavoured sugar syrup. ",
+"imageId": "snbhtvvgoazvztzhhbth",
+"inStock": 1,
+"isVeg": 1,
+"price": 5000,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {
+"text": "Bestseller",
+"textColor": "#ffffff",
+"topBackgroundColor": "#d53d4c",
+"bottomBackgroundColor": "#b02331"
+},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"isBestseller": true,
+"ratings": {
+"aggregatedRating": {
+"rating": "4.2",
+"ratingCount": "123 ratings",
+"ratingCountV2": "123"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "2620105",
+"menuFilterIds": [
+"bestseller",
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+},
+{
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+"info": {
+"id": "75389702",
+"name": "Rasmalai Delight",
+"category": "Desserts",
+"description": "A modern twist to the super soft rasmalai, layered with luscious cream cheese on a base of perfectly crumbled biscuit. ",
+"imageId": "fea01bc16a3e33a2334789c5066eca53",
+"inStock": 1,
+"isVeg": 1,
+"price": 11900,
+"variants": {},
+"variantsV2": {},
+"itemAttribute": {
+"vegClassifier": "VEG"
+},
+"ribbon": {},
+"type": "ITEM",
+"itemBadge": {},
+"badgesV2": {},
+"ratings": {
+"aggregatedRating": {
+"rating": "4.7",
+"ratingCount": "34 ratings",
+"ratingCountV2": "34"
+},
+"ratingsPresentationConfig": {
+"bgGradient": {
+"colours": [
+"#C8F9E5",
+"#00FFFFFF"
+],
+"gradientDirection": "GRADIENT_DIRECTION_LEFT_TO_RIGHT"
+},
+"ratingIconColor": "rating_very_good",
+"ratingTextColor": "rating_very_good",
+"ratingCountTextColor": "rating_very_good",
+"ratingFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD",
+"ratingCountFontName": "FONT_NAME_V2_OVERLINE_NEUTRAL_BOLD"
+}
+},
+"itemPriceStrikeOff": true,
+"parentId": "69853564",
+"menuFilterIds": [
+"VEG",
+"offer",
+"toprated"
+]
+},
+"analytics": {},
+"hideRestaurantDetails": true
+}
+}
+],
+"subtitleSuffix": {},
+"image": "e4528074a66a14faef706de969498f29",
+"categoryId": "22678899"
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+"type": "FSSAI",
+"imageId": "fssai_final_edss9i",
+"text": [
+"License No. 11220334002034"
+]
+}
+}
+},
+{
+"card": {
+"card": {
+"@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+"name": "RNR Biryani - Taste of 1953",
+"area": "Indiranagar",
+"completeAddress": "Taste of 1953, No.4034,100Ft Road, Below Domlur Flyover, Near Nandhana Palace, Hal 2Nd Indiranagar, Bangalore 560095"
+}
+}
+}
+]
+}
+}
+}
+}
+],
+"firstOffsetRequest": true,
+"isQCLink": false
+},
+"tid": "a5a040f3-ceab-41e2-bdfc-2363238c1e9d",
+"sid": "qbz147d1f47-a486-4bb3-b9fa-676f5633f",
+"deviceId": "fb77e146-6d38-18e1-2efd-3183bdb8ccf8",
+"csrfToken": "vsauw1MWMBad-owGVpSaWkNi8EdHwuScnHaDlx1U"
+}
+
