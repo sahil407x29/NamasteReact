@@ -14,6 +14,7 @@ import UserContext from "../utils/UserContext"
 import Cart from './Cart.jsx'
 const Grocery = lazy(() => import("./Grocery.jsx"));
 import {Provider} from 'react-redux';
+import appStore from '../utils/appStore.jsx'
 // import appStore from '../utils/appStore.jsx'
 // lazy is used to not load a component beforehand or chunk them separtely
 // use Suspense with Lazy to use a placeholder or fallback
@@ -30,6 +31,7 @@ const AppLayout = () => {
   return (
     <>
       <>
+      <Provider store={appStore}>
       <UserContext.Provider value={{loggedInUser:userName,setUserName}}>
         {/* Context.Provider is used to update the value of the context 
         can be used to update the value for specific components only by specifying */}
@@ -43,6 +45,7 @@ const AppLayout = () => {
         */}
         <Footer />
         </UserContext.Provider>
+        </Provider>
       </>
     </>
   );

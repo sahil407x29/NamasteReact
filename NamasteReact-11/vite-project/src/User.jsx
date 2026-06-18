@@ -1,4 +1,5 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect,useContext} from "react";
+import UserContext from "../utils/UserContext"
 const User = (props) => {
   const { name } = props;
   // const [input,SetInput] = useState([])
@@ -9,6 +10,7 @@ const User = (props) => {
     Location: "Orrisa",
     Contact: "sahil407x29",
   });
+  const userInfo = useContext(UserContext)
   // useEffect(() => {
   //   loadPfp();
 
@@ -43,10 +45,11 @@ const User = (props) => {
         placeholder="enter github username"
       /> */}
       {/* <button onClick={() => loadPfp()}>Search</button> */}
-      <img src={user.avatar_url} alt="" />
+      {/* <img src={user.avatar_url} alt="" />
       <h1>This is User {name}</h1>
       <h2>Location : {user.Location}</h2>
-      <h3>Contact : {user.Contact}</h3>
+      <h3>Contact : {user.Contact}</h3> */}
+    <h1>{userInfo.loggedInUser}</h1>
     </>
   );
 };

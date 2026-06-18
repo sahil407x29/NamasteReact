@@ -29,7 +29,7 @@ const RestrauntCategories = ({ data,showItems,setShowIndex }) => {
         <button>{showItems?"⬆️":"⬇️"}</button>
       </div>
       
-      {showItems && <ItemList data={data?.itemCards} />}
+      {showItems && <ItemList items={data?.itemCards} />}
     </div>
   );
 };

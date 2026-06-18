@@ -1,9 +1,9 @@
-import UserClass from "./UserClass.jsx";
+import User from "./User.jsx";
 
 const About = () => {
   return (
     <>
-      <UserClass name="Sahil" />
+      <User name="Sahil" />
       
       <h1>This is the About Us Page</h1>
     </>

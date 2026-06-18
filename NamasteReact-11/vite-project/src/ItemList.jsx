@@ -1,34 +1,43 @@
 import { IMG_CDN_URL } from "./Constants.jsx";
-const ItemList = ({ data }) => {
+import { useDispatch } from "react-redux";
+import {addItem} from '../utils/cartSlice.jsx'
+const ItemList = ({ items }) => {
+  const dispatch = useDispatch();
+
+  const handleClick= (name) => {
+    dispatch(addItem(name));
+    
+  };
   
-  const defaultImage =
+  const defaultImage  =
     "https://tse4.mm.bing.net/th/id/OIP.DMXSq6hhQ7YPeznzuGdeUgHaEe?cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3";
   return (
     <div>
-      {data.map((data) => {
+      {items.map((items) => {
         return (
           <div
             className="m-2  border-b-2 border-gray-200 pb-6 text-left flex justify-between "
-            key={data?.card?.info?.id}
+            key={items?.card?.info?.id}
           >
             <div className="w-7/12">
-              <span>{data?.card?.info?.name} </span> -
-              <span> Rs {data?.card?.info?.price / 100} </span>
-              <p className="text-xs "> {data?.card?.info?.description} </p>
+              <span>{items?.card?.info?.name} </span> -
+              <span> Rs {items?.card?.info?.price / 100} </span>
+              <p className="text-xs "> {items?.card?.info?.description} </p>
             </div>
             <div className="w-3/12 flex flex-col items-center">
               <img
                 className="w-[100px] h-[100px] object-fill rounded-lg"
                 src={
-                  data?.card?.info?.imageId
-                    ? IMG_CDN_URL + data?.card?.info?.imageId
+                  items?.card?.info?.imageId
+                    ? IMG_CDN_URL + items?.card?.info?.imageId
                     : defaultImage
                 }
                 alt=""
               />
 
-              {data?.card?.info?.imageId && (
+              {items?.card?.info?.imageId && (
                 <button
+                  onClick={()=>handleClick(items)}
                   className="
       mt-[-15px]
       bg-white

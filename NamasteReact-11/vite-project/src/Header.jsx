@@ -3,13 +3,21 @@ import { Link } from "react-router-dom";
 import "./index.css";
 import UserContext from "../utils/UserContext"
 import useOnlineStatus from "../utils/useOnlineStatus"
+import {useSelector} from 'react-redux';
 
 const Header = () => {
   const status = useOnlineStatus()
   const {loggedInUser} = useContext(UserContext)
+   const cartInfo = useSelector((store)=>store.cart.items)
+// this is called Subscribing to the store using the selector
 
-
+//  const store = useSelector((store)=>store )
+//  const cartInfo = store.cart.items;
+// this is another way to subscribing to the store but
+//  it is subsribing to the whole store not the cart items which is inefficent
+  console.log(cartInfo)
   return (
+   
     <div className="header flex items-center justify-between  bg-[#BBD58E] shadow-[0_4px_20px_rgba(0,0,0,0.25)]">
       <Title />
       <div className="nav-items  ">
@@ -37,8 +45,8 @@ const Header = () => {
             </Link>
           </li>
            <li>
-           <Link to="/cart">
-            Cart
+           <Link className='font-bold' to="/cart">
+            Cart - {cartInfo.length + " items"}
            </Link>
           </li>
           <li>
